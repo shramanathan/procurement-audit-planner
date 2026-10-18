@@ -159,6 +159,21 @@ their own:
 .venv/bin/python scripts/checks/run_checks.py
 ```
 
+## Live deployment (fly.io)
+
+**https://wbc-procurement-audit-planner.fly.dev/**
+
+A read-only web viewer for the pack (`web/app.py`, Flask): every document as a
+page, the sample files for download, and a **Live QA** page whose button
+reruns `build_pack.py --gate` and `scripts/checks/run_checks.py` on the server
+and shows their output. Nothing on the site writes files or runs an agent; the
+agents run in Claude Code, and the site serves what they produced.
+
+```bash
+fly deploy --remote-only        # Dockerfile + fly.toml in the repo root
+.venv/bin/python web/app.py     # run locally on http://127.0.0.1:8080
+```
+
 ## Repository layout
 
 ```
@@ -170,6 +185,7 @@ CLAUDE.md                     full system specification
 data/                         council source files (public, read-only)
 scripts/                      spend-analyst's Python; scripts/checks/ = QA checks
 outputs/                      every artefact listed above
+web/                          fly.io web viewer (Dockerfile, fly.toml in the root)
 ```
 
 ## Data sources
