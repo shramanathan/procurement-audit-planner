@@ -185,6 +185,7 @@ def create(started_by: str) -> Run:
     shutil.copytree(ROOT / "data", r.dir / "data", ignore=shutil.ignore_patterns(".DS_Store"))
     shutil.copytree(ROOT / "scripts" / "checks", r.dir / "scripts" / "checks",
                     ignore=shutil.ignore_patterns("__pycache__", "*.pyc"))
+    copy_tools(r)
     (r.dir / "outputs").mkdir()
     (r.dir / ".venv" / "bin").mkdir(parents=True)        # agent files call .venv/bin/python
     os.symlink(sys.executable, r.dir / ".venv" / "bin" / "python")
@@ -508,8 +509,17 @@ def submit_decisions(run: Run, reviewer: str, date: str) -> bool:
     return _start(run, steps)
 
 
+def copy_tools(r: Run) -> None:
+    """Provided verifiers the agents run (not written by them), e.g. findings-analyst's."""
+    for name in ("verify_history.py",):
+        if not (r.dir / "scripts" / name).exists():
+            (r.dir / "scripts").mkdir(exist_ok=True)
+            shutil.copy2(ROOT / "scripts" / name, r.dir / "scripts" / name)
+
+
 def resume(run: Run) -> bool:
     """Rerun the stage a run stopped in (after a failure, a restart or a BLOCKED verdict)."""
+    copy_tools(run)
     stage = run.state().get("stage")
     first = {"rules": lambda: stage_rules(run), "evidence": lambda: stage_evidence(run),
              "register": lambda: stage_register(run)}
