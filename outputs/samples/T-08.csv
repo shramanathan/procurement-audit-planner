@@ -1,0 +1,401 @@
+test_id,sample_unit,row_id,pay_date,supplier,service,category,narrative,amount,tag,period
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|691,2026-05-01,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,89122.5,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|2174,2026-05-05,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,4764.64,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|2175,2026-05-05,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,51310.21,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|2177,2026-05-05,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,16876.43,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|2178,2026-05-05,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,16916.01,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|713,2026-05-05,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,7742.55,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|2183,2026-05-05,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,96417.9,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|723,2026-05-05,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,18033.36,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|2181,2026-05-05,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,9068.36,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|695,2026-05-05,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,15041.26,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|709,2026-05-05,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,311353.42,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|717,2026-05-05,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,57920.32,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|727,2026-05-11,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,3196.62,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|700,2026-05-12,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,85125.0,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|720,2026-05-12,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,32864.67,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|701,2026-05-12,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,17896.87,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|696,2026-05-12,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,2566.36,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|714,2026-05-12,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,1550.0,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|724,2026-05-12,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,7828.2,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|710,2026-05-12,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,119381.4,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|692,2026-05-13,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,185970.32,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|702,2026-05-13,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,195844.36,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|703,2026-05-13,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,12297.34,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|2176,2026-05-19,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,54241.36,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|2179,2026-05-19,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,17882.35,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|2184,2026-05-19,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,101925.86,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|2193,2026-05-19,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,1668.58,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|2173,2026-05-19,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,28217.54,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|704,2026-05-20,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,43509.85,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|2185,2026-05-20,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,19420.72,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|731,2026-05-20,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,2585.44,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|705,2026-05-20,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,157038.29,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|728,2026-05-20,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,10169.81,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|2170,2026-05-20,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,16304.62,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|734,2026-05-22,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,5199.81,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|2172,2026-05-22,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,2070.26,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|729,2026-05-22,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,46320.84,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|730,2026-05-22,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,1679.16,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|2180,2026-05-26,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,7015.34,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|711,2026-05-26,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,200305.25,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|715,2026-05-26,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,5225.72,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|725,2026-05-26,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,28989.53,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|2182,2026-05-26,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,4046.54,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|726,2026-05-26,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,2610.11,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|712,2026-05-26,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,83960.48,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|716,2026-05-26,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,850.0,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|697,2026-05-26,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,1711.48,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|721,2026-05-26,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,10122.39,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|698,2026-05-27,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,34813.14,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|722,2026-05-27,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,54099.6,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|693,2026-05-27,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,5997.5,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|699,2026-05-27,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,1793.45,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|706,2026-05-27,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,149153.26,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|694,2026-05-27,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,8175.0,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P02_-_published.xlsx|Data to publish|707,2026-05-28,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,58615.47,general_procurement,2026-P02
+T-08,VOLKERHIGHWAYS,Over500_2026_P03_-_published.xlsx|Data to publish|699,2026-06-08,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,329988.88,general_procurement,2026-P03
+T-08,VOLKERHIGHWAYS,Over500_2026_P03_-_published.xlsx|Data to publish|728,2026-06-08,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,11515.39,general_procurement,2026-P03
+T-08,VOLKERHIGHWAYS,Over500_2026_P03_-_published.xlsx|Data to publish|2117,2026-06-08,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,3393.12,general_procurement,2026-P03
+T-08,VOLKERHIGHWAYS,Over500_2026_P03_-_published.xlsx|Data to publish|729,2026-06-08,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,299416.56,general_procurement,2026-P03
+T-08,VOLKERHIGHWAYS,Over500_2026_P03_-_published.xlsx|Data to publish|703,2026-06-08,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,46778.61,general_procurement,2026-P03
+T-08,VOLKERHIGHWAYS,Over500_2026_P03_-_published.xlsx|Data to publish|683,2026-06-08,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,23591.22,general_procurement,2026-P03
+T-08,VOLKERHIGHWAYS,Over500_2026_P03_-_published.xlsx|Data to publish|702,2026-06-08,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,4205.33,general_procurement,2026-P03
+T-08,VOLKERHIGHWAYS,Over500_2026_P03_-_published.xlsx|Data to publish|2133,2026-06-08,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,18761.89,general_procurement,2026-P03
+T-08,VOLKERHIGHWAYS,Over500_2026_P03_-_published.xlsx|Data to publish|2402,2026-06-08,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,15899.6,general_procurement,2026-P03
+T-08,VOLKERHIGHWAYS,Over500_2026_P03_-_published.xlsx|Data to publish|700,2026-06-08,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,95421.19,general_procurement,2026-P03
+T-08,VOLKERHIGHWAYS,Over500_2026_P03_-_published.xlsx|Data to publish|701,2026-06-09,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,307338.45,general_procurement,2026-P03
+T-08,VOLKERHIGHWAYS,Over500_2026_P03_-_published.xlsx|Data to publish|2403,2026-06-10,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,925.84,general_procurement,2026-P03
+T-08,VOLKERHIGHWAYS,Over500_2026_P03_-_published.xlsx|Data to publish|2401,2026-06-12,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,38444.92,general_procurement,2026-P03
+T-08,VOLKERHIGHWAYS,Over500_2026_P03_-_published.xlsx|Data to publish|684,2026-06-22,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,366872.38,general_procurement,2026-P03
+T-08,VOLKERHIGHWAYS,Over500_2026_P03_-_published.xlsx|Data to publish|727,2026-06-24,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,1151.28,general_procurement,2026-P03
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|1291,2026-07-06,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,118015.06,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|3192,2026-07-06,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,7341.73,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|792,2026-07-07,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,1024.51,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|736,2026-07-13,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,577.53,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|602,2026-07-13,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,4081.14,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|793,2026-07-13,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,998987.64,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|1289,2026-07-13,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,651.56,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|621,2026-07-13,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,13855.87,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|799,2026-07-13,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,800.0,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|3184,2026-07-13,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,17882.35,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|3786,2026-07-13,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,1500.0,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|791,2026-07-13,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,1675.31,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|3210,2026-07-13,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,54241.36,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|1310,2026-07-14,VolkerHighways Ltd,Environment,Fees & Charges,Projects or Minor Works,6704.19,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|798,2026-07-14,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,77034.27,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|1295,2026-07-14,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,11615.51,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|794,2026-07-14,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,76834.61,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|3303,2026-07-14,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,3323.18,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|3186,2026-07-14,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,1432.22,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|795,2026-07-14,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,161847.24,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|3308,2026-07-15,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,101925.86,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|3187,2026-07-15,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,1606.5,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|3211,2026-07-15,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,14141.01,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|3304,2026-07-15,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,12585.51,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|619,2026-07-15,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,195182.14,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|819,2026-07-15,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,12778.97,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|822,2026-07-15,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,14660.85,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|739,2026-07-15,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,10165.33,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|1292,2026-07-15,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,56244.83,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|620,2026-07-15,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,69616.13,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|821,2026-07-15,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,11256.01,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|1293,2026-07-15,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,2500.0,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|3787,2026-07-15,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,1000.0,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|3185,2026-07-16,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,17882.35,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|3302,2026-07-16,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,54241.36,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|1296,2026-07-16,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,4797.35,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|3309,2026-07-17,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,3337.15,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|777,2026-07-17,VolkerHighways Ltd,Environment,Fees & Charges,Projects or Minor Works,2391.13,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|742,2026-07-17,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,7732.3,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|618,2026-07-17,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,101925.86,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|828,2026-07-22,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,5923.97,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|3784,2026-07-22,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,27873.6,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|600,2026-07-22,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,5687.65,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|796,2026-07-22,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,6275.58,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|599,2026-07-24,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,1093.03,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|603,2026-07-28,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,855750.25,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|3785,2026-07-29,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,45385.49,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|3305,2026-07-29,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,5317.72,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|3306,2026-07-29,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,1242.46,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|3212,2026-07-29,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,1959.28,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|790,2026-07-31,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,34327.16,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|737,2026-07-31,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,27870.52,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|3213,2026-07-31,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,4876.74,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|3188,2026-07-31,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,1318.74,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|3307,2026-07-31,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,8541.18,general_procurement,2026-P04
+T-08,VOLKERHIGHWAYS,Over500_2026_P04_-_published.xlsx|Data to publish|778,2026-07-31,VolkerHighways Ltd,Environment,Fees & Charges,Projects or Minor Works,571.41,general_procurement,2026-P04
+T-08,VEOLIA ES WEST BERKSHIRE LTD CHAPS ONLY,Over500_2026_P02_-_published.xlsx|Data to publish|2196,2026-05-27,VEOLIA ES WEST BERKSHIRE LTD (CHAPS ONLY),Environment,Third Party Payments,Private Contractors,2201856.4,general_procurement,2026-P02
+T-08,VEOLIA ES WEST BERKSHIRE LTD CHAPS ONLY,Over500_2026_P03_-_published.xlsx|Data to publish|2146,2026-06-29,VEOLIA ES WEST BERKSHIRE LTD (CHAPS ONLY),Environment,Third Party Payments,Private Contractors,2180425.32,general_procurement,2026-P03
+T-08,VEOLIA ES WEST BERKSHIRE LTD CHAPS ONLY,Over500_2026_P04_-_published.xlsx|Data to publish|3194,2026-07-27,VEOLIA ES WEST BERKSHIRE LTD (CHAPS ONLY),Environment,Third Party Payments,Private Contractors,1803783.32,general_procurement,2026-P04
+T-08,MILLBROOK HEALTHCARE,Over500_2026_P03_-_published.xlsx|Data to publish|2216,2026-06-03,Millbrook Healthcare Limited,"Finance, Property & Procurement",Third Party Payments,Private Contractors,1141918.0,general_procurement,2026-P03
+T-08,MILLBROOK HEALTHCARE,Over500_2026_P03_-_published.xlsx|Data to publish|2144,2026-06-25,Millbrook Healthcare Limited,"Finance, Property & Procurement",Third Party Payments,Private Contractors,1141918.0,general_procurement,2026-P03
+T-08,MILLBROOK HEALTHCARE,Over500_2026_P04_-_published.xlsx|Data to publish|3789,2026-07-29,Millbrook Healthcare Limited,"Finance, Property & Procurement",Third Party Payments,Private Contractors,1141918.0,general_procurement,2026-P04
+T-08,MILLBROOK HEALTHCARE,Over500_2026_P04_-_published.xlsx|Data to publish|3311,2026-07-29,Millbrook Healthcare Limited,"Finance, Property & Procurement",Third Party Payments,Private Contractors,33611.35,general_procurement,2026-P04
+T-08,THE BETTER GROUP,Over500_2026_P02_-_published.xlsx|Data to publish|665,2026-05-15,The Better Group Ltd,Adult Social Care,Third Party Payments,Payment to contractor,64500.0,general_procurement,2026-P02
+T-08,THE BETTER GROUP,Over500_2026_P02_-_published.xlsx|Data to publish|666,2026-05-15,The Better Group Ltd,Adult Social Care,Third Party Payments,Payment to contractor,58833.0,general_procurement,2026-P02
+T-08,THE BETTER GROUP,Over500_2026_P02_-_published.xlsx|Data to publish|667,2026-05-19,The Better Group Ltd,Adult Social Care,Third Party Payments,Payment to contractor,41125.0,general_procurement,2026-P02
+T-08,THE BETTER GROUP,Over500_2026_P02_-_published.xlsx|Data to publish|9,2026-05-28,The Better Group Ltd,Adult Social Care,Employees,Training,20457.43,general_procurement,2026-P02
+T-08,THE BETTER GROUP,Over500_2026_P02_-_published.xlsx|Data to publish|10,2026-05-28,The Better Group Ltd,Children's Social Care,Employees,Training,19605.14,general_procurement,2026-P02
+T-08,THE BETTER GROUP,Over500_2026_P02_-_published.xlsx|Data to publish|11,2026-05-28,The Better Group Ltd,Education & SEND,Employees,Training,2557.08,general_procurement,2026-P02
+T-08,THE BETTER GROUP,Over500_2026_P03_-_published.xlsx|Data to publish|670,2026-06-01,The Better Group Ltd,Adult Social Care,Third Party Payments,Payment to contractor,48784.37,general_procurement,2026-P03
+T-08,THE BETTER GROUP,Over500_2026_P03_-_published.xlsx|Data to publish|2396,2026-06-01,The Better Group Ltd,Adult Social Care,Third Party Payments,Payment to contractor,18039.18,general_procurement,2026-P03
+T-08,THE BETTER GROUP,Over500_2026_P03_-_published.xlsx|Data to publish|13,2026-06-01,The Better Group Ltd,Children's Social Care,Employees,Training,24088.98,general_procurement,2026-P03
+T-08,THE BETTER GROUP,Over500_2026_P03_-_published.xlsx|Data to publish|18,2026-06-01,The Better Group Ltd,Adult Social Care,Employees,Training,25136.34,general_procurement,2026-P03
+T-08,THE BETTER GROUP,Over500_2026_P03_-_published.xlsx|Data to publish|19,2026-06-01,The Better Group Ltd,Education & SEND,Employees,Training,3142.04,general_procurement,2026-P03
+T-08,THE BETTER GROUP,Over500_2026_P03_-_published.xlsx|Data to publish|2397,2026-06-01,The Better Group Ltd,Adult Social Care,Third Party Payments,Payment to contractor,22361.26,general_procurement,2026-P03
+T-08,THE BETTER GROUP,Over500_2026_P03_-_published.xlsx|Data to publish|16,2026-06-01,The Better Group Ltd,Children's Social Care,Employees,Training,15478.22,general_procurement,2026-P03
+T-08,THE BETTER GROUP,Over500_2026_P03_-_published.xlsx|Data to publish|20,2026-06-01,The Better Group Ltd,Education & SEND,Employees,Training,2018.9,general_procurement,2026-P03
+T-08,THE BETTER GROUP,Over500_2026_P03_-_published.xlsx|Data to publish|26,2026-06-01,The Better Group Ltd,Adult Social Care,Employees,Training,16151.18,general_procurement,2026-P03
+T-08,THE BETTER GROUP,Over500_2026_P03_-_published.xlsx|Data to publish|379,2026-06-09,The Better Group Ltd,Adult Social Care - Transformation Projects,Supplies & Services,IT,14706.64,general_procurement,2026-P03
+T-08,THE BETTER GROUP,Over500_2026_P03_-_published.xlsx|Data to publish|394,2026-06-09,The Better Group Ltd,Adult Social Care - Transformation Projects,Supplies & Services,IT,12427.19,general_procurement,2026-P03
+T-08,THE BETTER GROUP,Over500_2026_P03_-_published.xlsx|Data to publish|395,2026-06-09,The Better Group Ltd,Adult Social Care - Transformation Projects,Supplies & Services,IT,11180.63,general_procurement,2026-P03
+T-08,THE BETTER GROUP,Over500_2026_P03_-_published.xlsx|Data to publish|15,2026-06-25,The Better Group Ltd,Adult Social Care,Employees,Training,2668.67,general_procurement,2026-P03
+T-08,THE BETTER GROUP,Over500_2026_P03_-_published.xlsx|Data to publish|27,2026-06-25,The Better Group Ltd,Children's Social Care,Employees,Training,2557.48,general_procurement,2026-P03
+T-08,THE BETTER GROUP,Over500_2026_P04_-_published.xlsx|Data to publish|490,2026-07-06,The Better Group Ltd,Adult Social Care - Transformation Projects,Supplies & Services,IT,18062.5,general_procurement,2026-P04
+T-08,THE BETTER GROUP,Over500_2026_P04_-_published.xlsx|Data to publish|495,2026-07-07,The Better Group Ltd,Adult Social Care - Transformation Projects,Supplies & Services,IT,13106.88,general_procurement,2026-P04
+T-08,THE BETTER GROUP,Over500_2026_P04_-_published.xlsx|Data to publish|911,2026-07-08,The Better Group Ltd,Adult Social Care - Transformation Projects,Supplies & Services,IT,21500.0,general_procurement,2026-P04
+T-08,THE BETTER GROUP,Over500_2026_P04_-_published.xlsx|Data to publish|912,2026-07-16,The Better Group Ltd,Adult Social Care - Transformation Projects,Supplies & Services,IT,37007.95,general_procurement,2026-P04
+T-08,THE BETTER GROUP,Over500_2026_P04_-_published.xlsx|Data to publish|1281,2026-07-29,The Better Group Ltd,Adult Social Care,Third Party Payments,Payment to contractor,24476.02,general_procurement,2026-P04
+T-08,THE BETTER GROUP,Over500_2026_P04_-_published.xlsx|Data to publish|783,2026-07-29,The Better Group Ltd,Adult Social Care,Third Party Payments,Payment to contractor,48518.0,general_procurement,2026-P04
+T-08,SOFTWAREONE UK,Over500_2026_P02_-_published.xlsx|Data to publish|654,2026-05-27,SoftwareONE UK Ltd,"Transformation, Customer & ICT",Supplies & Services,Subscriptions,1759.34,general_procurement,2026-P02
+T-08,SOFTWAREONE UK,Over500_2026_P02_-_published.xlsx|Data to publish|473,2026-05-27,SoftwareONE UK Ltd,"Transformation, Customer & ICT",Supplies & Services,IT,375697.68,general_procurement,2026-P02
+T-08,SOFTWAREONE UK,Over500_2026_P02_-_published.xlsx|Data to publish|474,2026-05-27,SoftwareONE UK Ltd,"Transformation, Customer & ICT",Supplies & Services,IT,85871.04,general_procurement,2026-P02
+T-08,SOFTWAREONE UK,Over500_2026_P02_-_published.xlsx|Data to publish|653,2026-05-27,SoftwareONE UK Ltd,"Transformation, Customer & ICT",Supplies & Services,Subscriptions,59650.56,general_procurement,2026-P02
+T-08,LIVITY LIFE,Over500_2026_P02_-_published.xlsx|Data to publish|2199,2026-05-13,Livity Life Ltd,"Finance, Property & Procurement",Third Party Payments,Private Contractors,42882.27,general_procurement,2026-P02
+T-08,LIVITY LIFE,Over500_2026_P02_-_published.xlsx|Data to publish|2200,2026-05-13,Livity Life Ltd,"Finance, Property & Procurement",Third Party Payments,Private Contractors,135591.03,general_procurement,2026-P02
+T-08,LIVITY LIFE,Over500_2026_P03_-_published.xlsx|Data to publish|3087,2026-06-17,Livity Life Ltd,"Finance, Property & Procurement",Third Party Payments,Private Contractors,127886.78,general_procurement,2026-P03
+T-08,LIVITY LIFE,Over500_2026_P03_-_published.xlsx|Data to publish|3088,2026-06-17,Livity Life Ltd,"Finance, Property & Procurement",Third Party Payments,Private Contractors,35078.97,general_procurement,2026-P03
+T-08,LIVITY LIFE,Over500_2026_P03_-_published.xlsx|Data to publish|2218,2026-06-25,Livity Life Ltd,"Finance, Property & Procurement",Third Party Payments,Private Contractors,9220.77,general_procurement,2026-P03
+T-08,LIVITY LIFE,Over500_2026_P04_-_published.xlsx|Data to publish|3196,2026-07-13,Livity Life Ltd,"Finance, Property & Procurement",Third Party Payments,Private Contractors,26337.9,general_procurement,2026-P04
+T-08,LIVITY LIFE,Over500_2026_P04_-_published.xlsx|Data to publish|3215,2026-07-13,Livity Life Ltd,"Finance, Property & Procurement",Third Party Payments,Private Contractors,38706.21,general_procurement,2026-P04
+T-08,LIVITY LIFE,Over500_2026_P04_-_published.xlsx|Data to publish|3197,2026-07-13,Livity Life Ltd,"Finance, Property & Procurement",Third Party Payments,Private Contractors,46409.47,general_procurement,2026-P04
+T-08,LIVITY LIFE,Over500_2026_P04_-_published.xlsx|Data to publish|3310,2026-07-13,Livity Life Ltd,"Finance, Property & Procurement",Third Party Payments,Private Contractors,50961.45,general_procurement,2026-P04
+T-08,E W BEARD,Over500_2026_P02_-_published.xlsx|Data to publish|673,2026-05-05,E W BEARD LTD,Education & SEND,Third Party Payments,Payment to contractor,767.5,general_procurement,2026-P02
+T-08,E W BEARD,Over500_2026_P02_-_published.xlsx|Data to publish|671,2026-05-15,E W BEARD LTD,Education & SEND,Third Party Payments,Payment to contractor,21522.14,general_procurement,2026-P02
+T-08,E W BEARD,Over500_2026_P02_-_published.xlsx|Data to publish|674,2026-05-20,E W BEARD LTD,Education & SEND,Third Party Payments,Payment to contractor,60039.7,general_procurement,2026-P02
+T-08,E W BEARD,Over500_2026_P02_-_published.xlsx|Data to publish|675,2026-05-20,E W BEARD LTD,Education & SEND,Third Party Payments,Payment to contractor,55594.0,general_procurement,2026-P02
+T-08,E W BEARD,Over500_2026_P02_-_published.xlsx|Data to publish|672,2026-05-20,E W BEARD LTD,Education & SEND,Third Party Payments,Payment to contractor,36170.52,general_procurement,2026-P02
+T-08,E W BEARD,Over500_2026_P02_-_published.xlsx|Data to publish|43,2026-05-27,E W BEARD LTD,Development & Housing,Premises,Corporate R&M,2280.0,premises,2026-P02
+T-08,E W BEARD,Over500_2026_P02_-_published.xlsx|Data to publish|47,2026-05-27,E W BEARD LTD,Development & Housing,Premises,Corporate R&M,638.0,premises,2026-P02
+T-08,E W BEARD,Over500_2026_P03_-_published.xlsx|Data to publish|2399,2026-06-10,E W BEARD LTD,Education & SEND,Third Party Payments,Payment to contractor,1283.74,general_procurement,2026-P03
+T-08,E W BEARD,Over500_2026_P03_-_published.xlsx|Data to publish|664,2026-06-10,E W BEARD LTD,Education & SEND,Third Party Payments,Payment to contractor,38672.0,general_procurement,2026-P03
+T-08,E W BEARD,Over500_2026_P03_-_published.xlsx|Data to publish|671,2026-06-10,E W BEARD LTD,Education & SEND,Third Party Payments,Payment to contractor,4058.1,general_procurement,2026-P03
+T-08,E W BEARD,Over500_2026_P03_-_published.xlsx|Data to publish|665,2026-06-18,E W BEARD LTD,Education & SEND,Third Party Payments,Payment to contractor,12865.65,general_procurement,2026-P03
+T-08,E W BEARD,Over500_2026_P04_-_published.xlsx|Data to publish|79,2026-07-01,E W BEARD LTD,Development & Housing,Premises,Corporate R&M,1160.0,premises,2026-P04
+T-08,E W BEARD,Over500_2026_P04_-_published.xlsx|Data to publish|53,2026-07-02,E W BEARD LTD,Development & Housing,Premises,Corporate R&M,702.75,premises,2026-P04
+T-08,E W BEARD,Over500_2026_P04_-_published.xlsx|Data to publish|594,2026-07-03,E W BEARD LTD,Education & SEND,Third Party Payments,Payment to contractor,12865.65,general_procurement,2026-P04
+T-08,E W BEARD,Over500_2026_P04_-_published.xlsx|Data to publish|42,2026-07-08,E W BEARD LTD,Community Services,Premises,Corporate R&M,1515.0,premises,2026-P04
+T-08,E W BEARD,Over500_2026_P04_-_published.xlsx|Data to publish|784,2026-07-10,E W BEARD LTD,Education & SEND,Third Party Payments,Payment to contractor,64202.5,general_procurement,2026-P04
+T-08,E W BEARD,Over500_2026_P04_-_published.xlsx|Data to publish|730,2026-07-17,E W BEARD LTD,Education & SEND,Third Party Payments,Payment to contractor,18048.0,general_procurement,2026-P04
+T-08,E W BEARD,Over500_2026_P04_-_published.xlsx|Data to publish|1284,2026-07-23,E W BEARD LTD,Education & SEND,Third Party Payments,Payment to contractor,28815.0,general_procurement,2026-P04
+T-08,E W BEARD,Over500_2026_P04_-_published.xlsx|Data to publish|595,2026-07-29,E W BEARD LTD,Education & SEND,Third Party Payments,Payment to contractor,5940.0,general_procurement,2026-P04
+T-08,E W BEARD,Over500_2026_P04_-_published.xlsx|Data to publish|729,2026-07-29,E W BEARD LTD,Education & SEND,Third Party Payments,Payment to contractor,15512.45,general_procurement,2026-P04
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P02_-_published.xlsx|Data to publish|235,2026-05-06,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,632.0,general_procurement,2026-P02
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P02_-_published.xlsx|Data to publish|236,2026-05-06,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,556.0,general_procurement,2026-P02
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P02_-_published.xlsx|Data to publish|311,2026-05-08,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,930.0,general_procurement,2026-P02
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P02_-_published.xlsx|Data to publish|356,2026-05-08,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,1240.0,general_procurement,2026-P02
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P02_-_published.xlsx|Data to publish|398,2026-05-13,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,2086.0,general_procurement,2026-P02
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P02_-_published.xlsx|Data to publish|269,2026-05-19,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,1795.5,general_procurement,2026-P02
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P02_-_published.xlsx|Data to publish|222,2026-05-20,Sikandar Hayat t/a Prompt Cars,Children's Social Care,Transport,Transport Hire,970.0,general_procurement,2026-P02
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P02_-_published.xlsx|Data to publish|223,2026-05-20,Sikandar Hayat t/a Prompt Cars,Children's Social Care,Transport,Transport Hire,1173.0,general_procurement,2026-P02
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P02_-_published.xlsx|Data to publish|224,2026-05-22,Sikandar Hayat t/a Prompt Cars,Children's Social Care,Transport,Transport Hire,595.0,general_procurement,2026-P02
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P03_-_published.xlsx|Data to publish|157,2026-06-03,Sikandar Hayat t/a Prompt Cars,Children's Social Care,Transport,Transport Hire,2111.0,general_procurement,2026-P03
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P03_-_published.xlsx|Data to publish|162,2026-06-03,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,9944.0,general_procurement,2026-P03
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P03_-_published.xlsx|Data to publish|183,2026-06-03,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,73296.5,general_procurement,2026-P03
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P03_-_published.xlsx|Data to publish|203,2026-06-03,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,26085.0,general_procurement,2026-P03
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P03_-_published.xlsx|Data to publish|208,2026-06-03,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,17607.5,general_procurement,2026-P03
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P03_-_published.xlsx|Data to publish|209,2026-06-04,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,996.43,general_procurement,2026-P03
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P03_-_published.xlsx|Data to publish|345,2026-06-04,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,1328.57,general_procurement,2026-P03
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P03_-_published.xlsx|Data to publish|254,2026-06-04,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,2520.0,general_procurement,2026-P03
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P03_-_published.xlsx|Data to publish|239,2026-06-04,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,2173.5,general_procurement,2026-P03
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P03_-_published.xlsx|Data to publish|325,2026-06-05,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,1112.0,general_procurement,2026-P03
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P03_-_published.xlsx|Data to publish|261,2026-06-22,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,2172.0,general_procurement,2026-P03
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P04_-_published.xlsx|Data to publish|159,2026-07-08,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,640.0,general_procurement,2026-P04
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P04_-_published.xlsx|Data to publish|463,2026-07-08,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,640.0,general_procurement,2026-P04
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P04_-_published.xlsx|Data to publish|433,2026-07-09,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,1008.0,general_procurement,2026-P04
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P04_-_published.xlsx|Data to publish|466,2026-07-09,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,1316.0,general_procurement,2026-P04
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P04_-_published.xlsx|Data to publish|271,2026-07-21,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,3192.0,general_procurement,2026-P04
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P04_-_published.xlsx|Data to publish|226,2026-07-21,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,880.0,general_procurement,2026-P04
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P04_-_published.xlsx|Data to publish|272,2026-07-21,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,880.0,general_procurement,2026-P04
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P04_-_published.xlsx|Data to publish|189,2026-07-21,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,1262.14,general_procurement,2026-P04
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P04_-_published.xlsx|Data to publish|273,2026-07-21,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,2660.0,general_procurement,2026-P04
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P04_-_published.xlsx|Data to publish|324,2026-07-21,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,1682.86,general_procurement,2026-P04
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P04_-_published.xlsx|Data to publish|220,2026-07-21,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,3743.0,general_procurement,2026-P04
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P04_-_published.xlsx|Data to publish|221,2026-07-21,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,3168.0,general_procurement,2026-P04
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P04_-_published.xlsx|Data to publish|206,2026-07-21,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,1880.0,general_procurement,2026-P04
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P04_-_published.xlsx|Data to publish|274,2026-07-22,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,1820.0,general_procurement,2026-P04
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P04_-_published.xlsx|Data to publish|276,2026-07-22,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,1151.43,general_procurement,2026-P04
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P04_-_published.xlsx|Data to publish|455,2026-07-22,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,863.57,general_procurement,2026-P04
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P04_-_published.xlsx|Data to publish|292,2026-07-22,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,3307.5,general_procurement,2026-P04
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P04_-_published.xlsx|Data to publish|481,2026-07-27,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,2520.0,general_procurement,2026-P04
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P04_-_published.xlsx|Data to publish|435,2026-07-27,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,3152.0,general_procurement,2026-P04
+T-08,SIKANDAR HAYAT T A PROMPT CARS,Over500_2026_P04_-_published.xlsx|Data to publish|222,2026-07-29,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,2160.0,general_procurement,2026-P04
+T-08,ANDY AND ES,Over500_2026_P02_-_published.xlsx|Data to publish|670,2026-05-13,ANDY AND ES LIMITED,Education & SEND,Third Party Payments,Payment to contractor,54881.31,general_procurement,2026-P02
+T-08,ANDY AND ES,Over500_2026_P03_-_published.xlsx|Data to publish|661,2026-06-08,ANDY AND ES LIMITED,Education & SEND,Third Party Payments,Payment to contractor,59335.72,general_procurement,2026-P03
+T-08,ANDY AND ES,Over500_2026_P04_-_published.xlsx|Data to publish|1283,2026-07-15,ANDY AND ES LIMITED,Education & SEND,Third Party Payments,Payment to contractor,56941.82,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|344,2026-05-06,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2744.0,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|345,2026-05-06,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2548.0,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|346,2026-05-06,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1500.8,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|347,2026-05-06,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2041.67,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|265,2026-05-12,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2912.0,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|380,2026-05-12,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2448.0,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|381,2026-05-12,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2716.0,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|382,2026-05-12,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1596.0,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|383,2026-05-12,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2210.0,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|384,2026-05-12,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2156.0,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|385,2026-05-12,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2324.0,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|241,2026-05-13,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1288.0,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|242,2026-05-13,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,693.0,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|266,2026-05-13,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1092.0,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|289,2026-05-13,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1980.0,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|290,2026-05-13,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1288.0,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|387,2026-05-13,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2590.0,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|388,2026-05-13,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2576.0,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|389,2026-05-13,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2744.0,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|390,2026-05-13,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2079.0,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|251,2026-05-28,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,742.5,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|283,2026-05-28,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2340.0,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|284,2026-05-28,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,3120.0,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|294,2026-05-28,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2244.0,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|422,2026-05-28,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2910.0,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|423,2026-05-28,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2622.86,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|424,2026-05-28,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2940.0,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|425,2026-05-28,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2550.0,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|426,2026-05-28,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2227.5,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|427,2026-05-28,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2925.0,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|428,2026-05-28,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2745.0,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|429,2026-05-28,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1608.0,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P02_-_published.xlsx|Data to publish|430,2026-05-28,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2187.5,general_procurement,2026-P02
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P03_-_published.xlsx|Data to publish|164,2026-06-05,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1380.0,general_procurement,2026-P03
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P03_-_published.xlsx|Data to publish|184,2026-06-05,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2490.0,general_procurement,2026-P03
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P03_-_published.xlsx|Data to publish|228,2026-06-05,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2775.0,general_procurement,2026-P03
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P03_-_published.xlsx|Data to publish|229,2026-06-05,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2760.0,general_procurement,2026-P03
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P03_-_published.xlsx|Data to publish|255,2026-06-05,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1710.0,general_procurement,2026-P03
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P03_-_published.xlsx|Data to publish|333,2026-06-05,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1380.0,general_procurement,2026-P03
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P03_-_published.xlsx|Data to publish|346,2026-06-05,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2310.0,general_procurement,2026-P03
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|202,2026-07-09,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2197.6,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|223,2026-07-09,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,549.4,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|258,2026-07-09,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,3731.0,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|316,2026-07-09,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2989.58,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|438,2026-07-09,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,597.92,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|467,2026-07-09,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,4018.0,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|261,2026-07-13,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,3956.0,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|434,2026-07-13,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,584.0,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|443,2026-07-13,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,3354.0,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|160,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1886.0,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|175,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,3036.0,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|203,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,3652.0,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|204,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2574.0,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|225,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1039.5,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|233,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,3536.0,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|265,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,3118.5,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|266,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,4018.0,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|267,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,3792.5,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|268,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,524.57,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|319,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,3388.0,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|320,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2972.57,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|321,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,4074.0,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|444,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1040.0,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|448,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1886.0,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|475,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2280.0,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|476,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,3570.0,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|326,2026-07-27,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2730.0,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|327,2026-07-27,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2187.5,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|336,2026-07-27,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1608.0,general_procurement,2026-P04
+T-08,FD TRAVELS LIMITED T A SCHOOL EXPRESS,Over500_2026_P04_-_published.xlsx|Data to publish|345,2026-07-27,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2940.0,general_procurement,2026-P04
+T-08,ELIOR UK,Over500_2026_P02_-_published.xlsx|Data to publish|525,2026-05-13,Elior UK PLC,Adult Social Care,Supplies & Services,Catering,18371.14,general_procurement,2026-P02
+T-08,ELIOR UK,Over500_2026_P02_-_published.xlsx|Data to publish|526,2026-05-13,Elior UK PLC,Adult Social Care,Supplies & Services,Catering,11912.65,general_procurement,2026-P02
+T-08,ELIOR UK,Over500_2026_P02_-_published.xlsx|Data to publish|530,2026-05-27,Elior UK PLC,Adult Social Care,Supplies & Services,Catering,23694.03,general_procurement,2026-P02
+T-08,ELIOR UK,Over500_2026_P03_-_published.xlsx|Data to publish|434,2026-06-11,Elior UK PLC,Adult Social Care,Supplies & Services,Catering,11935.93,general_procurement,2026-P03
+T-08,ELIOR UK,Over500_2026_P03_-_published.xlsx|Data to publish|440,2026-06-16,Elior UK PLC,Adult Social Care,Supplies & Services,Catering,23516.69,general_procurement,2026-P03
+T-08,ELIOR UK,Over500_2026_P03_-_published.xlsx|Data to publish|433,2026-06-17,Elior UK PLC,Adult Social Care,Supplies & Services,Catering,18592.3,general_procurement,2026-P03
+T-08,ELIOR UK,Over500_2026_P04_-_published.xlsx|Data to publish|532,2026-07-15,Elior UK PLC,Adult Social Care,Supplies & Services,Catering,11999.95,general_procurement,2026-P04
+T-08,ELIOR UK,Over500_2026_P04_-_published.xlsx|Data to publish|983,2026-07-15,Elior UK PLC,Adult Social Care,Supplies & Services,Catering,18219.82,general_procurement,2026-P04
+T-08,ELIOR UK,Over500_2026_P04_-_published.xlsx|Data to publish|533,2026-07-28,Elior UK PLC,Adult Social Care,Supplies & Services,Catering,23173.08,general_procurement,2026-P04
+T-08,BBOWT,Over500_2026_P02_-_published.xlsx|Data to publish|641,2026-05-21,BBOWT,Environment,Supplies & Services,Contributions,1289.93,general_procurement,2026-P02
+T-08,BBOWT,Over500_2026_P04_-_published.xlsx|Data to publish|589,2026-07-16,BBOWT,Environment,Supplies & Services,Contributions,118027.5,general_procurement,2026-P04
+T-08,BBOWT,Over500_2026_P04_-_published.xlsx|Data to publish|623,2026-07-16,BBOWT,Environment,Third Party Payments,Payment to contractor,25000.0,general_procurement,2026-P04
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|364,2026-05-12,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3747.69,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|367,2026-05-12,BROADWAY CARS,Education & SEND,Transport,Transport Hire,2800.0,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|368,2026-05-12,BROADWAY CARS,Education & SEND,Transport,Transport Hire,2100.0,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|369,2026-05-12,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3640.0,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|371,2026-05-12,BROADWAY CARS,Education & SEND,Transport,Transport Hire,2240.0,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|372,2026-05-12,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3640.0,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|240,2026-05-12,BROADWAY CARS,Education & SEND,Transport,Transport Hire,1213.33,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|288,2026-05-12,BROADWAY CARS,Education & SEND,Transport,Transport Hire,2426.67,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|297,2026-05-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,1148.0,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|314,2026-05-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,595.0,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|391,2026-05-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,1785.0,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|245,2026-05-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,2076.67,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|394,2026-05-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3220.0,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|395,2026-05-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3640.0,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|396,2026-05-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3010.0,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|403,2026-05-26,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3000.0,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|404,2026-05-26,BROADWAY CARS,Education & SEND,Transport,Transport Hire,4015.38,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|299,2026-05-27,BROADWAY CARS,Education & SEND,Transport,Transport Hire,1230.0,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|410,2026-05-27,BROADWAY CARS,Education & SEND,Transport,Transport Hire,2400.0,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|411,2026-05-27,BROADWAY CARS,Education & SEND,Transport,Transport Hire,2250.0,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|412,2026-05-27,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3900.0,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|326,2026-05-27,BROADWAY CARS,Education & SEND,Transport,Transport Hire,595.0,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|414,2026-05-27,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3220.0,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|415,2026-05-27,BROADWAY CARS,Education & SEND,Transport,Transport Hire,1785.0,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|416,2026-05-27,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3900.0,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|249,2026-05-27,BROADWAY CARS,Education & SEND,Transport,Transport Hire,1300.0,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|292,2026-05-27,BROADWAY CARS,Education & SEND,Transport,Transport Hire,2600.0,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|250,2026-05-27,BROADWAY CARS,Education & SEND,Transport,Transport Hire,2225.0,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|418,2026-05-27,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3900.0,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P02_-_published.xlsx|Data to publish|419,2026-05-27,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3010.0,general_procurement,2026-P02
+T-08,BROADWAY CARS,Over500_2026_P04_-_published.xlsx|Data to publish|184,2026-07-09,BROADWAY CARS,Education & SEND,Transport,Transport Hire,892.5,general_procurement,2026-P04
+T-08,BROADWAY CARS,Over500_2026_P04_-_published.xlsx|Data to publish|468,2026-07-09,BROADWAY CARS,Education & SEND,Transport,Transport Hire,2677.5,general_procurement,2026-P04
+T-08,BROADWAY CARS,Over500_2026_P04_-_published.xlsx|Data to publish|174,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,608.17,general_procurement,2026-P04
+T-08,BROADWAY CARS,Over500_2026_P04_-_published.xlsx|Data to publish|224,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3040.83,general_procurement,2026-P04
+T-08,BROADWAY CARS,Over500_2026_P04_-_published.xlsx|Data to publish|259,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,5330.0,general_procurement,2026-P04
+T-08,BROADWAY CARS,Over500_2026_P04_-_published.xlsx|Data to publish|177,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,1722.0,general_procurement,2026-P04
+T-08,BROADWAY CARS,Over500_2026_P04_-_published.xlsx|Data to publish|260,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,5487.69,general_procurement,2026-P04
+T-08,BROADWAY CARS,Over500_2026_P04_-_published.xlsx|Data to publish|262,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3280.0,general_procurement,2026-P04
+T-08,BROADWAY CARS,Over500_2026_P04_-_published.xlsx|Data to publish|287,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,1776.67,general_procurement,2026-P04
+T-08,BROADWAY CARS,Over500_2026_P04_-_published.xlsx|Data to publish|447,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3553.33,general_procurement,2026-P04
+T-08,BROADWAY CARS,Over500_2026_P04_-_published.xlsx|Data to publish|471,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,4100.0,general_procurement,2026-P04
+T-08,BROADWAY CARS,Over500_2026_P04_-_published.xlsx|Data to publish|472,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3075.0,general_procurement,2026-P04
+T-08,BROADWAY CARS,Over500_2026_P04_-_published.xlsx|Data to publish|263,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,4715.0,general_procurement,2026-P04
+T-08,BROADWAY CARS,Over500_2026_P04_-_published.xlsx|Data to publish|264,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,5330.0,general_procurement,2026-P04
+T-08,BROADWAY CARS,Over500_2026_P04_-_published.xlsx|Data to publish|318,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,4407.5,general_procurement,2026-P04
+T-08,BROADWAY CARS,Over500_2026_P04_-_published.xlsx|Data to publish|474,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,5330.0,general_procurement,2026-P04
+T-08,BRACKNELL FOREST BOROUGH CNCL,Over500_2026_P03_-_published.xlsx|Data to publish|2217,2026-06-10,BRACKNELL FOREST BOROUGH CNCL,"Finance, Property & Procurement",Third Party Payments,Private Contractors,130310.57,general_procurement,2026-P03
+T-08,ANCHOR PIPEWORK,Over500_2026_P02_-_published.xlsx|Data to publish|28,2026-05-13,ANCHOR PIPEWORK LIMITED,Education & SEND,Premises,Corporate R&M,890.6,premises,2026-P02
+T-08,ANCHOR PIPEWORK,Over500_2026_P02_-_published.xlsx|Data to publish|53,2026-05-14,ANCHOR PIPEWORK LIMITED,"Finance, Property & Procurement",Premises,Corporate R&M,622.02,premises,2026-P02
+T-08,ANCHOR PIPEWORK,Over500_2026_P02_-_published.xlsx|Data to publish|738,2026-05-20,ANCHOR PIPEWORK LIMITED,"Finance, Property & Procurement",Third Party Payments,Payment to contractor,33148.0,general_procurement,2026-P02
+T-08,ANCHOR PIPEWORK,Over500_2026_P02_-_published.xlsx|Data to publish|15,2026-05-28,ANCHOR PIPEWORK LIMITED,Adult Social Care,Premises,Corporate R&M,510.5,premises,2026-P02
+T-08,ANCHOR PIPEWORK,Over500_2026_P02_-_published.xlsx|Data to publish|23,2026-05-29,ANCHOR PIPEWORK LIMITED,Adult Social Care,Premises,Corporate R&M,10111.05,premises,2026-P02
+T-08,ANCHOR PIPEWORK,Over500_2026_P02_-_published.xlsx|Data to publish|24,2026-05-29,ANCHOR PIPEWORK LIMITED,Adult Social Care,Premises,Corporate R&M,651.6,premises,2026-P02
+T-08,ANCHOR PIPEWORK,Over500_2026_P02_-_published.xlsx|Data to publish|56,2026-05-29,ANCHOR PIPEWORK LIMITED,"Finance, Property & Procurement",Premises,Corporate R&M,883.98,premises,2026-P02
+T-08,ANCHOR PIPEWORK,Over500_2026_P02_-_published.xlsx|Data to publish|16,2026-05-29,ANCHOR PIPEWORK LIMITED,Adult Social Care,Premises,Corporate R&M,579.63,premises,2026-P02
+T-08,ANCHOR PIPEWORK,Over500_2026_P02_-_published.xlsx|Data to publish|52,2026-05-29,ANCHOR PIPEWORK LIMITED,Environment,Premises,Corporate R&M,633.55,premises,2026-P02
+T-08,ANCHOR PIPEWORK,Over500_2026_P03_-_published.xlsx|Data to publish|56,2026-06-02,ANCHOR PIPEWORK LIMITED,Environment,Premises,Corporate R&M,752.6,premises,2026-P03
+T-08,ANCHOR PIPEWORK,Over500_2026_P03_-_published.xlsx|Data to publish|660,2026-06-03,ANCHOR PIPEWORK LIMITED,Adult Social Care,Third Party Payments,Payment to contractor,8057.0,general_procurement,2026-P03
+T-08,ANCHOR PIPEWORK,Over500_2026_P03_-_published.xlsx|Data to publish|63,2026-06-05,ANCHOR PIPEWORK LIMITED,"Finance, Property & Procurement",Premises,Corporate R&M,1363.2,premises,2026-P03
+T-08,ANCHOR PIPEWORK,Over500_2026_P03_-_published.xlsx|Data to publish|48,2026-06-09,ANCHOR PIPEWORK LIMITED,Community Services,Premises,Corporate R&M,903.68,premises,2026-P03
+T-08,ANCHOR PIPEWORK,Over500_2026_P03_-_published.xlsx|Data to publish|57,2026-06-10,ANCHOR PIPEWORK LIMITED,"Finance, Property & Procurement",Premises,Corporate R&M,546.25,premises,2026-P03
+T-08,ANCHOR PIPEWORK,Over500_2026_P03_-_published.xlsx|Data to publish|2406,2026-06-18,ANCHOR PIPEWORK LIMITED,"Finance, Property & Procurement",Third Party Payments,Payment to contractor,33148.0,general_procurement,2026-P03
+T-08,ANCHOR PIPEWORK,Over500_2026_P04_-_published.xlsx|Data to publish|85,2026-07-07,ANCHOR PIPEWORK LIMITED,"Finance, Property & Procurement",Premises,Corporate R&M,2122.6,premises,2026-P04
+T-08,ANCHOR PIPEWORK,Over500_2026_P04_-_published.xlsx|Data to publish|38,2026-07-07,ANCHOR PIPEWORK LIMITED,Community Services,Premises,Corporate R&M,1786.25,premises,2026-P04
+T-08,ANCHOR PIPEWORK,Over500_2026_P04_-_published.xlsx|Data to publish|39,2026-07-07,ANCHOR PIPEWORK LIMITED,Adult Social Care,Premises,Corporate R&M,1428.28,premises,2026-P04
+T-08,ANCHOR PIPEWORK,Over500_2026_P04_-_published.xlsx|Data to publish|25,2026-07-08,ANCHOR PIPEWORK LIMITED,Adult Social Care,Premises,Corporate R&M,581.12,premises,2026-P04
+T-08,ANCHOR PIPEWORK,Over500_2026_P04_-_published.xlsx|Data to publish|33,2026-07-08,ANCHOR PIPEWORK LIMITED,Adult Social Care,Premises,Corporate R&M,536.8,premises,2026-P04
+T-08,ANCHOR PIPEWORK,Over500_2026_P04_-_published.xlsx|Data to publish|823,2026-07-09,ANCHOR PIPEWORK LIMITED,Environment,Third Party Payments,Payment to contractor,4014.4,general_procurement,2026-P04
+T-08,ANCHOR PIPEWORK,Over500_2026_P04_-_published.xlsx|Data to publish|743,2026-07-09,ANCHOR PIPEWORK LIMITED,Environment,Third Party Payments,Payment to contractor,8304.15,general_procurement,2026-P04
+T-08,ANCHOR PIPEWORK,Over500_2026_P04_-_published.xlsx|Data to publish|824,2026-07-09,ANCHOR PIPEWORK LIMITED,Environment,Third Party Payments,Payment to contractor,4299.52,general_procurement,2026-P04
+T-08,ANCHOR PIPEWORK,Over500_2026_P04_-_published.xlsx|Data to publish|30,2026-07-14,ANCHOR PIPEWORK LIMITED,Adult Social Care,Premises,Corporate R&M,1116.57,premises,2026-P04
+T-08,ANCHOR PIPEWORK,Over500_2026_P04_-_published.xlsx|Data to publish|55,2026-07-14,ANCHOR PIPEWORK LIMITED,"Finance, Property & Procurement",Premises,Corporate R&M,547.7,premises,2026-P04
+T-08,ANCHOR PIPEWORK,Over500_2026_P04_-_published.xlsx|Data to publish|366,2026-07-15,ANCHOR PIPEWORK LIMITED,Adult Social Care,Premises,Corporate R&M,1428.28,premises,2026-P04
+T-08,ANCHOR PIPEWORK,Over500_2026_P04_-_published.xlsx|Data to publish|23,2026-07-22,ANCHOR PIPEWORK LIMITED,Adult Social Care,Premises,Corporate R&M,785.44,premises,2026-P04
+T-08,ANCHOR PIPEWORK,Over500_2026_P04_-_published.xlsx|Data to publish|40,2026-07-27,ANCHOR PIPEWORK LIMITED,Children's Social Care,Premises,Corporate R&M,1523.54,premises,2026-P04
+T-08,ANCHOR PIPEWORK,Over500_2026_P04_-_published.xlsx|Data to publish|37,2026-07-28,ANCHOR PIPEWORK LIMITED,Children's Social Care,Premises,Corporate R&M,853.24,premises,2026-P04
+T-08,ANCHOR PIPEWORK,Over500_2026_P04_-_published.xlsx|Data to publish|47,2026-07-28,ANCHOR PIPEWORK LIMITED,Community Services,Premises,Corporate R&M,925.16,premises,2026-P04
+T-08,ANCHOR PIPEWORK,Over500_2026_P04_-_published.xlsx|Data to publish|63,2026-07-28,ANCHOR PIPEWORK LIMITED,Environment,Premises,Corporate R&M,562.65,premises,2026-P04
+T-08,ANCHOR PIPEWORK,Over500_2026_P04_-_published.xlsx|Data to publish|71,2026-07-28,ANCHOR PIPEWORK LIMITED,Capital Financing and Income Investment,Premises,Corporate R&M,692.37,premises,2026-P04
+T-08,ANCHOR PIPEWORK,Over500_2026_P04_-_published.xlsx|Data to publish|32,2026-07-29,ANCHOR PIPEWORK LIMITED,Adult Social Care,Premises,Corporate R&M,1094.31,premises,2026-P04
+T-08,ANCHOR PIPEWORK,Over500_2026_P04_-_published.xlsx|Data to publish|64,2026-07-29,ANCHOR PIPEWORK LIMITED,Environment,Premises,Corporate R&M,640.34,premises,2026-P04
+T-08,ANCHOR PIPEWORK,Over500_2026_P04_-_published.xlsx|Data to publish|378,2026-07-31,ANCHOR PIPEWORK LIMITED,Environment,Premises,Corporate R&M,1229.29,premises,2026-P04
+T-08,ANCHOR PIPEWORK,Over500_2026_P04_-_published.xlsx|Data to publish|367,2026-07-31,ANCHOR PIPEWORK LIMITED,Community Services,Premises,Corporate R&M,567.74,premises,2026-P04

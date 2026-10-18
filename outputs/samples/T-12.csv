@@ -1,0 +1,15 @@
+test_id,sample_unit,row_id,pay_date,supplier,service,category,narrative,amount,tag,period
+T-12,COMENSURA,Over500_2026_P02_-_published.xlsx|Data to publish|5,2026-05-12,Comensura Ltd,Strategy & Governance,Employees,Agency & Temporary Staff,104728.31,agency_staff,2026-P02
+T-12,COMENSURA,Over500_2026_P02_-_published.xlsx|Data to publish|6,2026-05-19,Comensura Ltd,Strategy & Governance,Employees,Agency & Temporary Staff,78951.04,agency_staff,2026-P02
+T-12,COMENSURA,Over500_2026_P02_-_published.xlsx|Data to publish|7,2026-05-27,Comensura Ltd,Strategy & Governance,Employees,Agency & Temporary Staff,96142.42,agency_staff,2026-P02
+T-12,COMENSURA,Over500_2026_P03_-_published.xlsx|Data to publish|14,2026-06-03,Comensura Ltd,Strategy & Governance,Employees,Agency & Temporary Staff,61486.32,agency_staff,2026-P03
+T-12,COMENSURA,Over500_2026_P03_-_published.xlsx|Data to publish|12,2026-06-08,Comensura Ltd,Strategy & Governance,Employees,Agency & Temporary Staff,101567.7,agency_staff,2026-P03
+T-12,COMENSURA,Over500_2026_P03_-_published.xlsx|Data to publish|9,2026-06-15,Comensura Ltd,Strategy & Governance,Employees,Agency & Temporary Staff,107880.99,agency_staff,2026-P03
+T-12,COMENSURA,Over500_2026_P03_-_published.xlsx|Data to publish|10,2026-06-16,Comensura Ltd,Strategy & Governance,Employees,Agency & Temporary Staff,84878.5,agency_staff,2026-P03
+T-12,COMENSURA,Over500_2026_P03_-_published.xlsx|Data to publish|11,2026-06-22,Comensura Ltd,Strategy & Governance,Employees,Agency & Temporary Staff,94539.37,agency_staff,2026-P03
+T-12,COMENSURA,Over500_2026_P04_-_published.xlsx|Data to publish|9,2026-07-01,Comensura Ltd,Strategy & Governance,Employees,Agency & Temporary Staff,91647.16,agency_staff,2026-P04
+T-12,COMENSURA,Over500_2026_P04_-_published.xlsx|Data to publish|5,2026-07-09,Comensura Ltd,Strategy & Governance,Employees,Agency & Temporary Staff,78347.8,agency_staff,2026-P04
+T-12,COMENSURA,Over500_2026_P04_-_published.xlsx|Data to publish|6,2026-07-15,Comensura Ltd,Strategy & Governance,Employees,Agency & Temporary Staff,100668.47,agency_staff,2026-P04
+T-12,COMENSURA,Over500_2026_P04_-_published.xlsx|Data to publish|7,2026-07-22,Comensura Ltd,Strategy & Governance,Employees,Agency & Temporary Staff,83846.1,agency_staff,2026-P04
+T-12,COMENSURA,Over500_2026_P04_-_published.xlsx|Data to publish|8,2026-07-27,Comensura Ltd,Strategy & Governance,Employees,Agency & Temporary Staff,87820.18,agency_staff,2026-P04
+T-12,COMENSURA,Over500_2026_P04_-_published.xlsx|Data to publish|19,2026-07-31,Comensura Ltd,Strategy & Governance,Employees,Agency & Temporary Staff,103047.79,agency_staff,2026-P04

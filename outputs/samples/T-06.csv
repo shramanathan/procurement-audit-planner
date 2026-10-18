@@ -1,0 +1,54 @@
+test_id,sample_unit,row_id,pay_date,supplier,service,category,narrative,amount,tag,period
+T-06,HOPE CLAY CONSTRUCTION,Over500_2026_P03_-_published.xlsx|Data to publish|704,2026-06-16,Hope & Clay (Construction) Ltd,Environment,Third Party Payments,Payment to contractor,91306.75,general_procurement,2026-P03
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P02_-_published.xlsx|Data to publish|49,2026-05-06,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,815.0,premises,2026-P02
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P02_-_published.xlsx|Data to publish|30,2026-05-07,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,545.0,premises,2026-P02
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P02_-_published.xlsx|Data to publish|31,2026-05-07,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,760.0,premises,2026-P02
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P02_-_published.xlsx|Data to publish|32,2026-05-07,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,560.0,premises,2026-P02
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P02_-_published.xlsx|Data to publish|33,2026-05-08,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,1525.0,premises,2026-P02
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P02_-_published.xlsx|Data to publish|34,2026-05-08,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,1000.0,premises,2026-P02
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P02_-_published.xlsx|Data to publish|35,2026-05-08,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,605.0,premises,2026-P02
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P02_-_published.xlsx|Data to publish|36,2026-05-08,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,775.0,premises,2026-P02
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P02_-_published.xlsx|Data to publish|37,2026-05-08,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,575.0,premises,2026-P02
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P02_-_published.xlsx|Data to publish|38,2026-05-12,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,545.0,premises,2026-P02
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P02_-_published.xlsx|Data to publish|39,2026-05-12,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,545.0,premises,2026-P02
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P02_-_published.xlsx|Data to publish|40,2026-05-12,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,1150.0,premises,2026-P02
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P02_-_published.xlsx|Data to publish|41,2026-05-12,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,650.0,premises,2026-P02
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P02_-_published.xlsx|Data to publish|42,2026-05-12,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,525.0,premises,2026-P02
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P02_-_published.xlsx|Data to publish|453,2026-05-20,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Supplies & Services,Repairs - Furniture,1050.0,general_procurement,2026-P02
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P02_-_published.xlsx|Data to publish|454,2026-05-20,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Supplies & Services,Repairs - Furniture,650.0,general_procurement,2026-P02
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P03_-_published.xlsx|Data to publish|50,2026-06-03,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,1000.0,premises,2026-P03
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P03_-_published.xlsx|Data to publish|278,2026-06-03,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,1350.0,premises,2026-P03
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P03_-_published.xlsx|Data to publish|42,2026-06-03,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,6250.0,premises,2026-P03
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P03_-_published.xlsx|Data to publish|58,2026-06-03,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,8250.0,premises,2026-P03
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P03_-_published.xlsx|Data to publish|52,2026-06-09,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,4000.0,premises,2026-P03
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P03_-_published.xlsx|Data to publish|279,2026-06-09,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,5585.0,premises,2026-P03
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P03_-_published.xlsx|Data to publish|54,2026-06-25,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,1400.0,premises,2026-P03
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P03_-_published.xlsx|Data to publish|280,2026-06-25,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,1000.0,premises,2026-P03
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P04_-_published.xlsx|Data to publish|59,2026-07-03,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,2400.0,premises,2026-P04
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P04_-_published.xlsx|Data to publish|374,2026-07-03,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,3400.0,premises,2026-P04
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P04_-_published.xlsx|Data to publish|375,2026-07-03,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,845.0,premises,2026-P04
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P04_-_published.xlsx|Data to publish|76,2026-07-03,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,2095.0,premises,2026-P04
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P04_-_published.xlsx|Data to publish|369,2026-07-03,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,3095.0,premises,2026-P04
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P04_-_published.xlsx|Data to publish|146,2026-07-03,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Cleaning,800.0,premises,2026-P04
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P04_-_published.xlsx|Data to publish|167,2026-07-03,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Cleaning,1200.0,premises,2026-P04
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P04_-_published.xlsx|Data to publish|78,2026-07-06,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,800.0,premises,2026-P04
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P04_-_published.xlsx|Data to publish|376,2026-07-06,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,1115.0,premises,2026-P04
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P04_-_published.xlsx|Data to publish|48,2026-07-06,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,975.0,premises,2026-P04
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P04_-_published.xlsx|Data to publish|370,2026-07-08,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,520.0,premises,2026-P04
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P04_-_published.xlsx|Data to publish|49,2026-07-08,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,650.0,premises,2026-P04
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P04_-_published.xlsx|Data to publish|81,2026-07-08,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,600.0,premises,2026-P04
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P04_-_published.xlsx|Data to publish|50,2026-07-09,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,1000.0,premises,2026-P04
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P04_-_published.xlsx|Data to publish|56,2026-07-09,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,615.0,premises,2026-P04
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P04_-_published.xlsx|Data to publish|371,2026-07-09,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,1515.0,premises,2026-P04
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P04_-_published.xlsx|Data to publish|372,2026-07-09,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,625.0,premises,2026-P04
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P04_-_published.xlsx|Data to publish|57,2026-07-09,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,900.0,premises,2026-P04
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P04_-_published.xlsx|Data to publish|51,2026-07-10,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,1385.0,premises,2026-P04
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P04_-_published.xlsx|Data to publish|77,2026-07-10,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,1620.0,premises,2026-P04
+T-06,BERKSHIRE MECHANICAL SERVICES,Over500_2026_P04_-_published.xlsx|Data to publish|373,2026-07-10,BERKSHIRE MECHANICAL SERVICES,Development & Housing,Premises,Corporate R&M,775.0,premises,2026-P04
+T-06,CACI,Over500_2026_P02_-_published.xlsx|Data to publish|459,2026-05-15,CACI Limited,Children's Social Care,Supplies & Services,IT,12071.67,general_procurement,2026-P02
+T-06,ALLIANCE LEISURE SERVICES,Over500_2026_P02_-_published.xlsx|Data to publish|736,2026-05-01,Alliance Leisure Services Limited,Environment,Third Party Payments,Payment to contractor,3475.0,general_procurement,2026-P02
+T-06,ALLIANCE LEISURE SERVICES,Over500_2026_P03_-_published.xlsx|Data to publish|731,2026-06-03,Alliance Leisure Services Limited,Environment,Third Party Payments,Payment to contractor,3875.0,general_procurement,2026-P03
+T-06,ALLIANCE LEISURE SERVICES,Over500_2026_P03_-_published.xlsx|Data to publish|687,2026-06-16,Alliance Leisure Services Limited,Environment,Third Party Payments,Payment to contractor,2000.0,general_procurement,2026-P03
+T-06,MORTON PATTISON,Over500_2026_P03_-_published.xlsx|Data to publish|686,2026-06-22,Morton Pattison Ltd,Environment,Third Party Payments,Payment to contractor,1102.0,general_procurement,2026-P03
+T-06,DAVIS AND ASSOCIATES CONSULTANCY,Over500_2026_P03_-_published.xlsx|Data to publish|821,2026-06-03,Davis and Associates Consultancy Limited,Chief Executive,Supplies & Services,Professional Fees,800.0,general_procurement,2026-P03
+T-06,TACTICAL FACILITIES MANAGEMENT,Over500_2026_P04_-_published.xlsx|Data to publish|58,2026-07-20,Tactical Facilities Management Ltd,Development & Housing,Premises,Corporate R&M,681.94,premises,2026-P04

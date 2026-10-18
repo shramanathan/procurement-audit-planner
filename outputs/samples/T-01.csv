@@ -1,0 +1,380 @@
+test_id,sample_unit,row_id,pay_date,supplier,service,category,narrative,amount,tag,period
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|2174,2026-05-05,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,4764.64,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|2177,2026-05-05,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,16876.43,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|2178,2026-05-05,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,16916.01,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|713,2026-05-05,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,7742.55,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|2181,2026-05-05,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,9068.36,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|723,2026-05-05,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,18033.36,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|695,2026-05-05,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,15041.26,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|727,2026-05-11,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,3196.62,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|701,2026-05-12,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,17896.87,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|696,2026-05-12,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,2566.36,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|714,2026-05-12,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,1550.0,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|724,2026-05-12,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,7828.2,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|703,2026-05-13,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,12297.34,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|2179,2026-05-19,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,17882.35,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|2193,2026-05-19,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,1668.58,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|2185,2026-05-20,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,19420.72,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|731,2026-05-20,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,2585.44,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|2170,2026-05-20,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,16304.62,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|728,2026-05-20,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,10169.81,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|2172,2026-05-22,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,2070.26,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|734,2026-05-22,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,5199.81,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|730,2026-05-22,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,1679.16,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|2180,2026-05-26,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,7015.34,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|715,2026-05-26,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,5225.72,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|2182,2026-05-26,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,4046.54,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|726,2026-05-26,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,2610.11,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|716,2026-05-26,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,850.0,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|697,2026-05-26,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,1711.48,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|721,2026-05-26,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,10122.39,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|693,2026-05-27,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,5997.5,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|699,2026-05-27,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,1793.45,general_procurement,2026-P02
+T-01,S00549,Over500_2026_P02_-_published.xlsx|Data to publish|694,2026-05-27,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,8175.0,general_procurement,2026-P02
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|736,2026-07-13,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,577.53,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|602,2026-07-13,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,4081.14,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|1289,2026-07-13,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,651.56,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|621,2026-07-13,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,13855.87,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|799,2026-07-13,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,800.0,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|3184,2026-07-13,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,17882.35,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|3786,2026-07-13,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,1500.0,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|791,2026-07-13,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,1675.31,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|1310,2026-07-14,VolkerHighways Ltd,Environment,Fees & Charges,Projects or Minor Works,6704.19,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|1295,2026-07-14,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,11615.51,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|3303,2026-07-14,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,3323.18,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|3186,2026-07-14,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,1432.22,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|3187,2026-07-15,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,1606.5,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|3211,2026-07-15,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,14141.01,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|3304,2026-07-15,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,12585.51,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|819,2026-07-15,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,12778.97,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|822,2026-07-15,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,14660.85,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|739,2026-07-15,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,10165.33,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|821,2026-07-15,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,11256.01,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|1293,2026-07-15,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,2500.0,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|3787,2026-07-15,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,1000.0,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|3185,2026-07-16,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,17882.35,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|1296,2026-07-16,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,4797.35,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|3309,2026-07-17,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,3337.15,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|777,2026-07-17,VolkerHighways Ltd,Environment,Fees & Charges,Projects or Minor Works,2391.13,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|742,2026-07-17,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,7732.3,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|828,2026-07-22,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,5923.97,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|600,2026-07-22,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,5687.65,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|796,2026-07-22,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,6275.58,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|599,2026-07-24,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,1093.03,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|3305,2026-07-29,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,5317.72,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|3306,2026-07-29,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,1242.46,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|3212,2026-07-29,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,1959.28,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|3213,2026-07-31,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,4876.74,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|3188,2026-07-31,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,1318.74,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|3307,2026-07-31,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,8541.18,general_procurement,2026-P04
+T-01,S00551,Over500_2026_P04_-_published.xlsx|Data to publish|778,2026-07-31,VolkerHighways Ltd,Environment,Fees & Charges,Projects or Minor Works,571.41,general_procurement,2026-P04
+T-01,S00524,Over500_2026_P02_-_published.xlsx|Data to publish|10,2026-05-28,The Better Group Ltd,Children's Social Care,Employees,Training,19605.14,general_procurement,2026-P02
+T-01,S00524,Over500_2026_P02_-_published.xlsx|Data to publish|11,2026-05-28,The Better Group Ltd,Education & SEND,Employees,Training,2557.08,general_procurement,2026-P02
+T-01,S00524,Over500_2026_P02_-_published.xlsx|Data to publish|9,2026-05-28,The Better Group Ltd,Adult Social Care,Employees,Training,20457.43,general_procurement,2026-P02
+T-01,S00524,Over500_2026_P03_-_published.xlsx|Data to publish|2396,2026-06-01,The Better Group Ltd,Adult Social Care,Third Party Payments,Payment to contractor,18039.18,general_procurement,2026-P03
+T-01,S00524,Over500_2026_P03_-_published.xlsx|Data to publish|13,2026-06-01,The Better Group Ltd,Children's Social Care,Employees,Training,24088.98,general_procurement,2026-P03
+T-01,S00524,Over500_2026_P03_-_published.xlsx|Data to publish|19,2026-06-01,The Better Group Ltd,Education & SEND,Employees,Training,3142.04,general_procurement,2026-P03
+T-01,S00524,Over500_2026_P03_-_published.xlsx|Data to publish|2397,2026-06-01,The Better Group Ltd,Adult Social Care,Third Party Payments,Payment to contractor,22361.26,general_procurement,2026-P03
+T-01,S00524,Over500_2026_P03_-_published.xlsx|Data to publish|16,2026-06-01,The Better Group Ltd,Children's Social Care,Employees,Training,15478.22,general_procurement,2026-P03
+T-01,S00524,Over500_2026_P03_-_published.xlsx|Data to publish|20,2026-06-01,The Better Group Ltd,Education & SEND,Employees,Training,2018.9,general_procurement,2026-P03
+T-01,S00524,Over500_2026_P03_-_published.xlsx|Data to publish|26,2026-06-01,The Better Group Ltd,Adult Social Care,Employees,Training,16151.18,general_procurement,2026-P03
+T-01,S00524,Over500_2026_P03_-_published.xlsx|Data to publish|379,2026-06-09,The Better Group Ltd,Adult Social Care - Transformation Projects,Supplies & Services,IT,14706.64,general_procurement,2026-P03
+T-01,S00524,Over500_2026_P03_-_published.xlsx|Data to publish|394,2026-06-09,The Better Group Ltd,Adult Social Care - Transformation Projects,Supplies & Services,IT,12427.19,general_procurement,2026-P03
+T-01,S00524,Over500_2026_P03_-_published.xlsx|Data to publish|395,2026-06-09,The Better Group Ltd,Adult Social Care - Transformation Projects,Supplies & Services,IT,11180.63,general_procurement,2026-P03
+T-01,S00524,Over500_2026_P03_-_published.xlsx|Data to publish|15,2026-06-25,The Better Group Ltd,Adult Social Care,Employees,Training,2668.67,general_procurement,2026-P03
+T-01,S00524,Over500_2026_P03_-_published.xlsx|Data to publish|27,2026-06-25,The Better Group Ltd,Children's Social Care,Employees,Training,2557.48,general_procurement,2026-P03
+T-01,S00558,Over500_2026_P04_-_published.xlsx|Data to publish|195,2026-07-08,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,730.27,general_procurement,2026-P04
+T-01,S00558,Over500_2026_P04_-_published.xlsx|Data to publish|450,2026-07-08,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,9615.23,general_procurement,2026-P04
+T-01,S00558,Over500_2026_P04_-_published.xlsx|Data to publish|181,2026-07-08,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,1197.9,general_procurement,2026-P04
+T-01,S00558,Over500_2026_P04_-_published.xlsx|Data to publish|245,2026-07-08,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,1214.56,general_procurement,2026-P04
+T-01,S00558,Over500_2026_P04_-_published.xlsx|Data to publish|300,2026-07-08,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,999.32,general_procurement,2026-P04
+T-01,S00558,Over500_2026_P04_-_published.xlsx|Data to publish|301,2026-07-08,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,1039.14,general_procurement,2026-P04
+T-01,S00558,Over500_2026_P04_-_published.xlsx|Data to publish|451,2026-07-08,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,574.66,general_procurement,2026-P04
+T-01,S00558,Over500_2026_P04_-_published.xlsx|Data to publish|196,2026-07-08,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,862.12,general_procurement,2026-P04
+T-01,S00558,Over500_2026_P04_-_published.xlsx|Data to publish|246,2026-07-08,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,4549.4,general_procurement,2026-P04
+T-01,S00558,Over500_2026_P04_-_published.xlsx|Data to publish|309,2026-07-08,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,2974.6,general_procurement,2026-P04
+T-01,S00558,Over500_2026_P04_-_published.xlsx|Data to publish|452,2026-07-08,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,9483.38,general_procurement,2026-P04
+T-01,S00558,Over500_2026_P04_-_published.xlsx|Data to publish|183,2026-07-08,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,8226.54,general_procurement,2026-P04
+T-01,S00558,Over500_2026_P04_-_published.xlsx|Data to publish|253,2026-07-08,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,2118.96,general_procurement,2026-P04
+T-01,S00558,Over500_2026_P04_-_published.xlsx|Data to publish|302,2026-07-08,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,7911.27,general_procurement,2026-P04
+T-01,S00558,Over500_2026_P04_-_published.xlsx|Data to publish|459,2026-07-08,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,2312.52,general_procurement,2026-P04
+T-01,S00558,Over500_2026_P04_-_published.xlsx|Data to publish|197,2026-07-24,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,614.96,general_procurement,2026-P04
+T-01,S00558,Over500_2026_P04_-_published.xlsx|Data to publish|456,2026-07-24,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,8097.04,general_procurement,2026-P04
+T-01,S00558,Over500_2026_P04_-_published.xlsx|Data to publish|249,2026-07-24,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,6927.61,general_procurement,2026-P04
+T-01,S00558,Over500_2026_P04_-_published.xlsx|Data to publish|305,2026-07-24,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,7986.0,general_procurement,2026-P04
+T-01,S00558,Over500_2026_P04_-_published.xlsx|Data to publish|310,2026-07-24,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,1784.39,general_procurement,2026-P04
+T-01,S00558,Over500_2026_P04_-_published.xlsx|Data to publish|460,2026-07-24,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,726.0,general_procurement,2026-P04
+T-01,S00558,Over500_2026_P04_-_published.xlsx|Data to publish|192,2026-07-24,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,6662.12,general_procurement,2026-P04
+T-01,S00558,Over500_2026_P04_-_published.xlsx|Data to publish|311,2026-07-24,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,1947.39,general_procurement,2026-P04
+T-01,S00558,Over500_2026_P04_-_published.xlsx|Data to publish|198,2026-07-24,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,2504.93,general_procurement,2026-P04
+T-01,S00558,Over500_2026_P04_-_published.xlsx|Data to publish|250,2026-07-24,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,3831.07,general_procurement,2026-P04
+T-01,S00550,Over500_2026_P03_-_published.xlsx|Data to publish|728,2026-06-08,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,11515.39,general_procurement,2026-P03
+T-01,S00550,Over500_2026_P03_-_published.xlsx|Data to publish|2117,2026-06-08,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,3393.12,general_procurement,2026-P03
+T-01,S00550,Over500_2026_P03_-_published.xlsx|Data to publish|683,2026-06-08,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,23591.22,general_procurement,2026-P03
+T-01,S00550,Over500_2026_P03_-_published.xlsx|Data to publish|2133,2026-06-08,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,18761.89,general_procurement,2026-P03
+T-01,S00550,Over500_2026_P03_-_published.xlsx|Data to publish|702,2026-06-08,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,4205.33,general_procurement,2026-P03
+T-01,S00550,Over500_2026_P03_-_published.xlsx|Data to publish|2402,2026-06-08,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,15899.6,general_procurement,2026-P03
+T-01,S00550,Over500_2026_P03_-_published.xlsx|Data to publish|2403,2026-06-10,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,925.84,general_procurement,2026-P03
+T-01,S00550,Over500_2026_P03_-_published.xlsx|Data to publish|727,2026-06-24,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,1151.28,general_procurement,2026-P03
+T-01,S00550,Over500_2026_P04_-_published.xlsx|Data to publish|3192,2026-07-06,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,7341.73,general_procurement,2026-P04
+T-01,S00550,Over500_2026_P04_-_published.xlsx|Data to publish|792,2026-07-07,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,1024.51,general_procurement,2026-P04
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|344,2026-05-06,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2744.0,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|345,2026-05-06,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2548.0,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|346,2026-05-06,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1500.8,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|347,2026-05-06,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2041.67,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|265,2026-05-12,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2912.0,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|380,2026-05-12,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2448.0,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|381,2026-05-12,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2716.0,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|382,2026-05-12,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1596.0,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|383,2026-05-12,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2210.0,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|384,2026-05-12,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2156.0,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|385,2026-05-12,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2324.0,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|241,2026-05-13,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1288.0,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|242,2026-05-13,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,693.0,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|266,2026-05-13,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1092.0,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|289,2026-05-13,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1980.0,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|290,2026-05-13,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1288.0,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|387,2026-05-13,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2590.0,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|388,2026-05-13,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2576.0,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|389,2026-05-13,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2744.0,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|390,2026-05-13,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2079.0,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|251,2026-05-28,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,742.5,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|283,2026-05-28,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2340.0,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|284,2026-05-28,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,3120.0,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|294,2026-05-28,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2244.0,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|422,2026-05-28,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2910.0,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|423,2026-05-28,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2622.86,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|424,2026-05-28,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2940.0,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|425,2026-05-28,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2550.0,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|426,2026-05-28,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2227.5,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|427,2026-05-28,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2925.0,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|428,2026-05-28,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2745.0,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|429,2026-05-28,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1608.0,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P02_-_published.xlsx|Data to publish|430,2026-05-28,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2187.5,general_procurement,2026-P02
+T-01,S00394,Over500_2026_P03_-_published.xlsx|Data to publish|164,2026-06-05,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1380.0,general_procurement,2026-P03
+T-01,S00394,Over500_2026_P03_-_published.xlsx|Data to publish|184,2026-06-05,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2490.0,general_procurement,2026-P03
+T-01,S00394,Over500_2026_P03_-_published.xlsx|Data to publish|228,2026-06-05,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2775.0,general_procurement,2026-P03
+T-01,S00394,Over500_2026_P03_-_published.xlsx|Data to publish|229,2026-06-05,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2760.0,general_procurement,2026-P03
+T-01,S00394,Over500_2026_P03_-_published.xlsx|Data to publish|255,2026-06-05,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1710.0,general_procurement,2026-P03
+T-01,S00394,Over500_2026_P03_-_published.xlsx|Data to publish|333,2026-06-05,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1380.0,general_procurement,2026-P03
+T-01,S00394,Over500_2026_P03_-_published.xlsx|Data to publish|346,2026-06-05,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2310.0,general_procurement,2026-P03
+T-01,S00500,Over500_2026_P04_-_published.xlsx|Data to publish|735,2026-07-13,Roadside Technologies Ltd,Environment,Third Party Payments,Payment to contractor,21000.0,general_procurement,2026-P04
+T-01,S00500,Over500_2026_P04_-_published.xlsx|Data to publish|598,2026-07-13,Roadside Technologies Ltd,Environment,Third Party Payments,Payment to contractor,5594.11,general_procurement,2026-P04
+T-01,S00500,Over500_2026_P04_-_published.xlsx|Data to publish|1287,2026-07-13,Roadside Technologies Ltd,Environment,Third Party Payments,Payment to contractor,10298.22,general_procurement,2026-P04
+T-01,S00500,Over500_2026_P04_-_published.xlsx|Data to publish|733,2026-07-13,Roadside Technologies Ltd,Environment,Third Party Payments,Payment to contractor,11188.22,general_procurement,2026-P04
+T-01,S00500,Over500_2026_P04_-_published.xlsx|Data to publish|601,2026-07-13,Roadside Technologies Ltd,Environment,Third Party Payments,Payment to contractor,9103.64,general_procurement,2026-P04
+T-01,S00500,Over500_2026_P04_-_published.xlsx|Data to publish|734,2026-07-13,Roadside Technologies Ltd,Environment,Third Party Payments,Payment to contractor,5594.11,general_procurement,2026-P04
+T-01,S00500,Over500_2026_P04_-_published.xlsx|Data to publish|740,2026-07-13,Roadside Technologies Ltd,Environment,Third Party Payments,Payment to contractor,9103.64,general_procurement,2026-P04
+T-01,S00500,Over500_2026_P04_-_published.xlsx|Data to publish|789,2026-07-13,Roadside Technologies Ltd,Environment,Third Party Payments,Payment to contractor,5594.11,general_procurement,2026-P04
+T-01,S00500,Over500_2026_P04_-_published.xlsx|Data to publish|1288,2026-07-13,Roadside Technologies Ltd,Environment,Third Party Payments,Payment to contractor,5594.11,general_procurement,2026-P04
+T-01,S00500,Over500_2026_P04_-_published.xlsx|Data to publish|597,2026-07-30,Roadside Technologies Ltd,Environment,Third Party Payments,Payment to contractor,1000.0,general_procurement,2026-P04
+T-01,S00454,Over500_2026_P02_-_published.xlsx|Data to publish|434,2026-05-13,Newbury & District Ltd,Environment,Supplies & Services,Public Transport,5810.13,general_procurement,2026-P02
+T-01,S00454,Over500_2026_P02_-_published.xlsx|Data to publish|440,2026-05-19,Newbury & District Ltd,Environment,Supplies & Services,Public Transport,12907.01,general_procurement,2026-P02
+T-01,S00454,Over500_2026_P03_-_published.xlsx|Data to publish|357,2026-06-01,Newbury & District Ltd,Environment,Supplies & Services,Public Transport,6349.35,general_procurement,2026-P03
+T-01,S00454,Over500_2026_P03_-_published.xlsx|Data to publish|268,2026-06-01,Newbury & District Ltd,Environment,Supplies & Services,Public Transport,13826.61,general_procurement,2026-P03
+T-01,S00454,Over500_2026_P03_-_published.xlsx|Data to publish|336,2026-06-02,Newbury & District Ltd,Education & SEND,Transport,Transport Hire,9861.0,general_procurement,2026-P03
+T-01,S00454,Over500_2026_P03_-_published.xlsx|Data to publish|171,2026-06-02,Newbury & District Ltd,Education & SEND,Transport,Transport Hire,10529.33,general_procurement,2026-P03
+T-01,S00454,Over500_2026_P03_-_published.xlsx|Data to publish|341,2026-06-02,Newbury & District Ltd,Education & SEND,Transport,Transport Hire,794.67,general_procurement,2026-P03
+T-01,S00454,Over500_2026_P03_-_published.xlsx|Data to publish|264,2026-06-12,Newbury & District Ltd,Environment,Supplies & Services,Public Transport,6331.7,general_procurement,2026-P03
+T-01,S00454,Over500_2026_P03_-_published.xlsx|Data to publish|269,2026-06-12,Newbury & District Ltd,Environment,Supplies & Services,Public Transport,14852.0,general_procurement,2026-P03
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|202,2026-07-09,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2197.6,general_procurement,2026-P04
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|223,2026-07-09,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,549.4,general_procurement,2026-P04
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|258,2026-07-09,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,3731.0,general_procurement,2026-P04
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|316,2026-07-09,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2989.58,general_procurement,2026-P04
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|438,2026-07-09,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,597.92,general_procurement,2026-P04
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|467,2026-07-09,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,4018.0,general_procurement,2026-P04
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|261,2026-07-13,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,3956.0,general_procurement,2026-P04
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|434,2026-07-13,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,584.0,general_procurement,2026-P04
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|443,2026-07-13,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,3354.0,general_procurement,2026-P04
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|160,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1886.0,general_procurement,2026-P04
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|175,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,3036.0,general_procurement,2026-P04
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|203,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,3652.0,general_procurement,2026-P04
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|204,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2574.0,general_procurement,2026-P04
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|225,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1039.5,general_procurement,2026-P04
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|233,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,3536.0,general_procurement,2026-P04
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|265,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,3118.5,general_procurement,2026-P04
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|266,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,4018.0,general_procurement,2026-P04
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|267,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,3792.5,general_procurement,2026-P04
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|268,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,524.57,general_procurement,2026-P04
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|319,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,3388.0,general_procurement,2026-P04
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|320,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2972.57,general_procurement,2026-P04
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|321,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,4074.0,general_procurement,2026-P04
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|444,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1040.0,general_procurement,2026-P04
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|448,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1886.0,general_procurement,2026-P04
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|475,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2280.0,general_procurement,2026-P04
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|476,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,3570.0,general_procurement,2026-P04
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|326,2026-07-27,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2730.0,general_procurement,2026-P04
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|327,2026-07-27,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2187.5,general_procurement,2026-P04
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|336,2026-07-27,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,1608.0,general_procurement,2026-P04
+T-01,S00395,Over500_2026_P04_-_published.xlsx|Data to publish|345,2026-07-27,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2940.0,general_procurement,2026-P04
+T-01,S00525,Over500_2026_P04_-_published.xlsx|Data to publish|490,2026-07-06,The Better Group Ltd,Adult Social Care - Transformation Projects,Supplies & Services,IT,18062.5,general_procurement,2026-P04
+T-01,S00525,Over500_2026_P04_-_published.xlsx|Data to publish|495,2026-07-07,The Better Group Ltd,Adult Social Care - Transformation Projects,Supplies & Services,IT,13106.88,general_procurement,2026-P04
+T-01,S00525,Over500_2026_P04_-_published.xlsx|Data to publish|911,2026-07-08,The Better Group Ltd,Adult Social Care - Transformation Projects,Supplies & Services,IT,21500.0,general_procurement,2026-P04
+T-01,S00525,Over500_2026_P04_-_published.xlsx|Data to publish|1281,2026-07-29,The Better Group Ltd,Adult Social Care,Third Party Payments,Payment to contractor,24476.02,general_procurement,2026-P04
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|364,2026-05-12,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3747.69,general_procurement,2026-P02
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|367,2026-05-12,BROADWAY CARS,Education & SEND,Transport,Transport Hire,2800.0,general_procurement,2026-P02
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|368,2026-05-12,BROADWAY CARS,Education & SEND,Transport,Transport Hire,2100.0,general_procurement,2026-P02
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|369,2026-05-12,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3640.0,general_procurement,2026-P02
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|371,2026-05-12,BROADWAY CARS,Education & SEND,Transport,Transport Hire,2240.0,general_procurement,2026-P02
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|372,2026-05-12,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3640.0,general_procurement,2026-P02
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|240,2026-05-12,BROADWAY CARS,Education & SEND,Transport,Transport Hire,1213.33,general_procurement,2026-P02
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|288,2026-05-12,BROADWAY CARS,Education & SEND,Transport,Transport Hire,2426.67,general_procurement,2026-P02
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|297,2026-05-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,1148.0,general_procurement,2026-P02
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|314,2026-05-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,595.0,general_procurement,2026-P02
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|391,2026-05-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,1785.0,general_procurement,2026-P02
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|245,2026-05-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,2076.67,general_procurement,2026-P02
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|394,2026-05-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3220.0,general_procurement,2026-P02
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|395,2026-05-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3640.0,general_procurement,2026-P02
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|396,2026-05-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3010.0,general_procurement,2026-P02
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|403,2026-05-26,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3000.0,general_procurement,2026-P02
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|404,2026-05-26,BROADWAY CARS,Education & SEND,Transport,Transport Hire,4015.38,general_procurement,2026-P02
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|299,2026-05-27,BROADWAY CARS,Education & SEND,Transport,Transport Hire,1230.0,general_procurement,2026-P02
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|410,2026-05-27,BROADWAY CARS,Education & SEND,Transport,Transport Hire,2400.0,general_procurement,2026-P02
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|411,2026-05-27,BROADWAY CARS,Education & SEND,Transport,Transport Hire,2250.0,general_procurement,2026-P02
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|412,2026-05-27,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3900.0,general_procurement,2026-P02
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|326,2026-05-27,BROADWAY CARS,Education & SEND,Transport,Transport Hire,595.0,general_procurement,2026-P02
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|414,2026-05-27,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3220.0,general_procurement,2026-P02
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|415,2026-05-27,BROADWAY CARS,Education & SEND,Transport,Transport Hire,1785.0,general_procurement,2026-P02
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|416,2026-05-27,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3900.0,general_procurement,2026-P02
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|249,2026-05-27,BROADWAY CARS,Education & SEND,Transport,Transport Hire,1300.0,general_procurement,2026-P02
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|292,2026-05-27,BROADWAY CARS,Education & SEND,Transport,Transport Hire,2600.0,general_procurement,2026-P02
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|250,2026-05-27,BROADWAY CARS,Education & SEND,Transport,Transport Hire,2225.0,general_procurement,2026-P02
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|418,2026-05-27,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3900.0,general_procurement,2026-P02
+T-01,S00320,Over500_2026_P02_-_published.xlsx|Data to publish|419,2026-05-27,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3010.0,general_procurement,2026-P02
+T-01,S00557,Over500_2026_P02_-_published.xlsx|Data to publish|305,2026-05-06,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,7084.91,general_procurement,2026-P02
+T-01,S00557,Over500_2026_P02_-_published.xlsx|Data to publish|331,2026-05-06,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,538.09,general_procurement,2026-P02
+T-01,S00557,Over500_2026_P02_-_published.xlsx|Data to publish|306,2026-05-06,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,6987.75,general_procurement,2026-P02
+T-01,S00557,Over500_2026_P02_-_published.xlsx|Data to publish|307,2026-05-06,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,6061.66,general_procurement,2026-P02
+T-01,S00557,Over500_2026_P02_-_published.xlsx|Data to publish|308,2026-05-06,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,3352.19,general_procurement,2026-P02
+T-01,S00557,Over500_2026_P02_-_published.xlsx|Data to publish|332,2026-05-06,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,635.25,general_procurement,2026-P02
+T-01,S00557,Over500_2026_P02_-_published.xlsx|Data to publish|333,2026-05-06,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,1561.34,general_procurement,2026-P02
+T-01,S00557,Over500_2026_P02_-_published.xlsx|Data to publish|334,2026-05-06,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,2191.81,general_procurement,2026-P02
+T-01,S00557,Over500_2026_P02_-_published.xlsx|Data to publish|310,2026-05-06,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,5829.35,general_procurement,2026-P02
+T-01,S00557,Over500_2026_P02_-_published.xlsx|Data to publish|335,2026-05-06,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,1703.96,general_procurement,2026-P02
+T-01,S00557,Over500_2026_P03_-_published.xlsx|Data to publish|177,2026-06-02,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,576.53,general_procurement,2026-P03
+T-01,S00557,Over500_2026_P03_-_published.xlsx|Data to publish|178,2026-06-02,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,680.63,general_procurement,2026-P03
+T-01,S00557,Over500_2026_P03_-_published.xlsx|Data to publish|206,2026-06-02,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,7590.97,general_procurement,2026-P03
+T-01,S00557,Over500_2026_P03_-_published.xlsx|Data to publish|207,2026-06-02,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,7486.87,general_procurement,2026-P03
+T-01,S00557,Over500_2026_P03_-_published.xlsx|Data to publish|170,2026-06-02,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,3591.63,general_procurement,2026-P03
+T-01,S00557,Over500_2026_P03_-_published.xlsx|Data to publish|340,2026-06-02,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,2348.37,general_procurement,2026-P03
+T-01,S00557,Over500_2026_P03_-_published.xlsx|Data to publish|214,2026-06-02,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,1672.86,general_procurement,2026-P03
+T-01,S00557,Over500_2026_P03_-_published.xlsx|Data to publish|245,2026-06-02,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,6494.64,general_procurement,2026-P03
+T-01,S00557,Over500_2026_P03_-_published.xlsx|Data to publish|215,2026-06-02,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,1825.67,general_procurement,2026-P03
+T-01,S00557,Over500_2026_P03_-_published.xlsx|Data to publish|337,2026-06-02,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,6245.74,general_procurement,2026-P03
+T-01,S00386,Over500_2026_P03_-_published.xlsx|Data to publish|440,2026-06-16,Elior UK PLC,Adult Social Care,Supplies & Services,Catering,23516.69,general_procurement,2026-P03
+T-01,S00386,Over500_2026_P03_-_published.xlsx|Data to publish|433,2026-06-17,Elior UK PLC,Adult Social Care,Supplies & Services,Catering,18592.3,general_procurement,2026-P03
+T-01,S00386,Over500_2026_P04_-_published.xlsx|Data to publish|532,2026-07-15,Elior UK PLC,Adult Social Care,Supplies & Services,Catering,11999.95,general_procurement,2026-P04
+T-01,S00386,Over500_2026_P04_-_published.xlsx|Data to publish|983,2026-07-15,Elior UK PLC,Adult Social Care,Supplies & Services,Catering,18219.82,general_procurement,2026-P04
+T-01,S00455,Over500_2026_P03_-_published.xlsx|Data to publish|176,2026-06-30,Newbury & District Ltd,Education & SEND,Transport,Transport Hire,7785.0,general_procurement,2026-P03
+T-01,S00455,Over500_2026_P03_-_published.xlsx|Data to publish|213,2026-06-30,Newbury & District Ltd,Education & SEND,Transport,Transport Hire,8312.63,general_procurement,2026-P03
+T-01,S00455,Over500_2026_P03_-_published.xlsx|Data to publish|251,2026-06-30,Newbury & District Ltd,Education & SEND,Transport,Transport Hire,627.37,general_procurement,2026-P03
+T-01,S00455,Over500_2026_P03_-_published.xlsx|Data to publish|359,2026-06-30,Newbury & District Ltd,Environment,Supplies & Services,Public Transport,5921.5,general_procurement,2026-P03
+T-01,S00455,Over500_2026_P03_-_published.xlsx|Data to publish|274,2026-06-30,Newbury & District Ltd,Environment,Supplies & Services,Public Transport,13663.85,general_procurement,2026-P03
+T-01,S00455,Over500_2026_P03_-_published.xlsx|Data to publish|360,2026-06-30,Newbury & District Ltd,Environment,Supplies & Services,Public Transport,4465.96,general_procurement,2026-P03
+T-01,S00455,Over500_2026_P04_-_published.xlsx|Data to publish|358,2026-07-23,Newbury & District Ltd,Environment,Supplies & Services,Public Transport,13663.85,general_procurement,2026-P04
+T-01,S00455,Over500_2026_P04_-_published.xlsx|Data to publish|361,2026-07-27,Newbury & District Ltd,Environment,Supplies & Services,Public Transport,5545.48,general_procurement,2026-P04
+T-01,S00455,Over500_2026_P04_-_published.xlsx|Data to publish|251,2026-07-29,Newbury & District Ltd,Education & SEND,Transport,Transport Hire,8304.0,general_procurement,2026-P04
+T-01,S00455,Over500_2026_P04_-_published.xlsx|Data to publish|194,2026-07-29,Newbury & District Ltd,Education & SEND,Transport,Transport Hire,1038.0,general_procurement,2026-P04
+T-01,S00542,Over500_2026_P03_-_published.xlsx|Data to publish|641,2026-06-17,Triple Value Impact,Chief Executive,Supplies & Services,General Expenses,13275.0,general_procurement,2026-P03
+T-01,S00542,Over500_2026_P03_-_published.xlsx|Data to publish|2392,2026-06-17,Triple Value Impact,Chief Executive,Supplies & Services,General Expenses,10787.0,general_procurement,2026-P03
+T-01,S00542,Over500_2026_P03_-_published.xlsx|Data to publish|2393,2026-06-17,Triple Value Impact,Chief Executive,Supplies & Services,General Expenses,13110.0,general_procurement,2026-P03
+T-01,S00542,Over500_2026_P03_-_published.xlsx|Data to publish|642,2026-06-17,Triple Value Impact,Chief Executive,Supplies & Services,General Expenses,6612.0,general_procurement,2026-P03
+T-01,S00542,Over500_2026_P03_-_published.xlsx|Data to publish|649,2026-06-18,Triple Value Impact,Chief Executive,Supplies & Services,General Expenses,24244.0,general_procurement,2026-P03
+T-01,S00385,Over500_2026_P02_-_published.xlsx|Data to publish|525,2026-05-13,Elior UK PLC,Adult Social Care,Supplies & Services,Catering,18371.14,general_procurement,2026-P02
+T-01,S00385,Over500_2026_P02_-_published.xlsx|Data to publish|526,2026-05-13,Elior UK PLC,Adult Social Care,Supplies & Services,Catering,11912.65,general_procurement,2026-P02
+T-01,S00385,Over500_2026_P02_-_published.xlsx|Data to publish|530,2026-05-27,Elior UK PLC,Adult Social Care,Supplies & Services,Catering,23694.03,general_procurement,2026-P02
+T-01,S00385,Over500_2026_P03_-_published.xlsx|Data to publish|434,2026-06-11,Elior UK PLC,Adult Social Care,Supplies & Services,Catering,11935.93,general_procurement,2026-P03
+T-01,S00469,Over500_2026_P03_-_published.xlsx|Data to publish|2138,2026-06-09,PAYPOINT MOBILE & ONLINE,Environment,Third Party Payments,Private Contractors,3085.02,general_procurement,2026-P03
+T-01,S00469,Over500_2026_P03_-_published.xlsx|Data to publish|3081,2026-06-09,PAYPOINT MOBILE & ONLINE,Environment,Third Party Payments,Private Contractors,10928.48,general_procurement,2026-P03
+T-01,S00469,Over500_2026_P03_-_published.xlsx|Data to publish|2139,2026-06-09,PAYPOINT MOBILE & ONLINE,Environment,Third Party Payments,Private Contractors,14227.57,general_procurement,2026-P03
+T-01,S00469,Over500_2026_P03_-_published.xlsx|Data to publish|2131,2026-06-09,PAYPOINT MOBILE & ONLINE,Environment,Third Party Payments,Private Contractors,14706.08,general_procurement,2026-P03
+T-01,S00469,Over500_2026_P03_-_published.xlsx|Data to publish|2132,2026-06-09,PAYPOINT MOBILE & ONLINE,Environment,Third Party Payments,Private Contractors,15451.51,general_procurement,2026-P03
+T-01,S00510,Over500_2026_P03_-_published.xlsx|Data to publish|173,2026-06-16,SOUTHERN COACH LINES LTD,Education & SEND,Transport,Transport Hire,4043.93,general_procurement,2026-P03
+T-01,S00510,Over500_2026_P03_-_published.xlsx|Data to publish|179,2026-06-16,SOUTHERN COACH LINES LTD,Education & SEND,Transport,Transport Hire,819.72,general_procurement,2026-P03
+T-01,S00510,Over500_2026_P03_-_published.xlsx|Data to publish|211,2026-06-16,SOUTHERN COACH LINES LTD,Education & SEND,Transport,Transport Hire,6588.28,general_procurement,2026-P03
+T-01,S00510,Over500_2026_P03_-_published.xlsx|Data to publish|216,2026-06-16,SOUTHERN COACH LINES LTD,Education & SEND,Transport,Transport Hire,765.07,general_procurement,2026-P03
+T-01,S00510,Over500_2026_P03_-_published.xlsx|Data to publish|250,2026-06-16,SOUTHERN COACH LINES LTD,Education & SEND,Transport,Transport Hire,1020.72,general_procurement,2026-P03
+T-01,S00510,Over500_2026_P03_-_published.xlsx|Data to publish|338,2026-06-16,SOUTHERN COACH LINES LTD,Education & SEND,Transport,Transport Hire,4332.78,general_procurement,2026-P03
+T-01,S00510,Over500_2026_P03_-_published.xlsx|Data to publish|174,2026-06-16,SOUTHERN COACH LINES LTD,Education & SEND,Transport,Transport Hire,6304.46,general_procurement,2026-P03
+T-01,S00510,Over500_2026_P03_-_published.xlsx|Data to publish|217,2026-06-16,SOUTHERN COACH LINES LTD,Education & SEND,Transport,Transport Hire,604.54,general_procurement,2026-P03
+T-01,S00510,Over500_2026_P03_-_published.xlsx|Data to publish|175,2026-06-16,SOUTHERN COACH LINES LTD,Education & SEND,Transport,Transport Hire,6754.78,general_procurement,2026-P03
+T-01,S00510,Over500_2026_P03_-_published.xlsx|Data to publish|218,2026-06-16,SOUTHERN COACH LINES LTD,Education & SEND,Transport,Transport Hire,647.72,general_procurement,2026-P03
+T-01,S00510,Over500_2026_P03_-_published.xlsx|Data to publish|219,2026-06-17,SOUTHERN COACH LINES LTD,Education & SEND,Transport,Transport Hire,1093.63,general_procurement,2026-P03
+T-01,S00510,Over500_2026_P03_-_published.xlsx|Data to publish|248,2026-06-17,SOUTHERN COACH LINES LTD,Education & SEND,Transport,Transport Hire,7058.87,general_procurement,2026-P03
+T-01,S00510,Over500_2026_P03_-_published.xlsx|Data to publish|180,2026-06-17,SOUTHERN COACH LINES LTD,Education & SEND,Transport,Transport Hire,1268.05,general_procurement,2026-P03
+T-01,S00510,Over500_2026_P03_-_published.xlsx|Data to publish|249,2026-06-17,SOUTHERN COACH LINES LTD,Education & SEND,Transport,Transport Hire,6213.45,general_procurement,2026-P03
+T-01,S00510,Over500_2026_P03_-_published.xlsx|Data to publish|220,2026-06-17,SOUTHERN COACH LINES LTD,Education & SEND,Transport,Transport Hire,1358.63,general_procurement,2026-P03
+T-01,S00510,Over500_2026_P03_-_published.xlsx|Data to publish|339,2026-06-17,SOUTHERN COACH LINES LTD,Education & SEND,Transport,Transport Hire,6657.26,general_procurement,2026-P03
+T-01,S00321,Over500_2026_P04_-_published.xlsx|Data to publish|184,2026-07-09,BROADWAY CARS,Education & SEND,Transport,Transport Hire,892.5,general_procurement,2026-P04
+T-01,S00321,Over500_2026_P04_-_published.xlsx|Data to publish|468,2026-07-09,BROADWAY CARS,Education & SEND,Transport,Transport Hire,2677.5,general_procurement,2026-P04
+T-01,S00321,Over500_2026_P04_-_published.xlsx|Data to publish|174,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,608.17,general_procurement,2026-P04
+T-01,S00321,Over500_2026_P04_-_published.xlsx|Data to publish|224,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3040.83,general_procurement,2026-P04
+T-01,S00321,Over500_2026_P04_-_published.xlsx|Data to publish|259,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,5330.0,general_procurement,2026-P04
+T-01,S00321,Over500_2026_P04_-_published.xlsx|Data to publish|177,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,1722.0,general_procurement,2026-P04
+T-01,S00321,Over500_2026_P04_-_published.xlsx|Data to publish|260,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,5487.69,general_procurement,2026-P04
+T-01,S00321,Over500_2026_P04_-_published.xlsx|Data to publish|262,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3280.0,general_procurement,2026-P04
+T-01,S00321,Over500_2026_P04_-_published.xlsx|Data to publish|287,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,1776.67,general_procurement,2026-P04
+T-01,S00321,Over500_2026_P04_-_published.xlsx|Data to publish|447,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3553.33,general_procurement,2026-P04
+T-01,S00321,Over500_2026_P04_-_published.xlsx|Data to publish|471,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,4100.0,general_procurement,2026-P04
+T-01,S00321,Over500_2026_P04_-_published.xlsx|Data to publish|472,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3075.0,general_procurement,2026-P04
+T-01,S00321,Over500_2026_P04_-_published.xlsx|Data to publish|263,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,4715.0,general_procurement,2026-P04
+T-01,S00321,Over500_2026_P04_-_published.xlsx|Data to publish|264,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,5330.0,general_procurement,2026-P04
+T-01,S00321,Over500_2026_P04_-_published.xlsx|Data to publish|318,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,4407.5,general_procurement,2026-P04
+T-01,S00321,Over500_2026_P04_-_published.xlsx|Data to publish|474,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,5330.0,general_procurement,2026-P04
+T-01,S00299,Over500_2026_P02_-_published.xlsx|Data to publish|2189,2026-05-20,ARDENT,Environment,Third Party Payments,Private Contractors,9343.75,general_procurement,2026-P02
+T-01,S00299,Over500_2026_P02_-_published.xlsx|Data to publish|2190,2026-05-21,ARDENT,Environment,Third Party Payments,Private Contractors,5908.5,general_procurement,2026-P02
+T-01,S00299,Over500_2026_P02_-_published.xlsx|Data to publish|2191,2026-05-21,ARDENT,Environment,Third Party Payments,Private Contractors,7956.0,general_procurement,2026-P02
+T-01,S00299,Over500_2026_P02_-_published.xlsx|Data to publish|2192,2026-05-21,ARDENT,Environment,Third Party Payments,Private Contractors,11692.5,general_procurement,2026-P02
+T-01,S00299,Over500_2026_P02_-_published.xlsx|Data to publish|761,2026-05-28,ARDENT,Environment,Supplies & Services,Consultants,8541.25,general_procurement,2026-P02
+T-01,S00299,Over500_2026_P03_-_published.xlsx|Data to publish|696,2026-06-16,ARDENT,Environment,Supplies & Services,Consultants,11188.0,general_procurement,2026-P03
+T-01,S00421,Over500_2026_P03_-_published.xlsx|Data to publish|667,2026-06-09,Home Front Ltd,Community Services,Third Party Payments,Payment to contractor,17160.76,general_procurement,2026-P03
+T-01,S00421,Over500_2026_P03_-_published.xlsx|Data to publish|679,2026-06-25,Home Front Ltd,Community Services,Third Party Payments,Payment to contractor,15875.26,general_procurement,2026-P03
+T-01,S00421,Over500_2026_P03_-_published.xlsx|Data to publish|697,2026-06-25,Home Front Ltd,Community Services,Third Party Payments,Payment to contractor,17160.76,general_procurement,2026-P03
+T-01,S00503,Over500_2026_P02_-_published.xlsx|Data to publish|235,2026-05-06,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,632.0,general_procurement,2026-P02
+T-01,S00503,Over500_2026_P02_-_published.xlsx|Data to publish|236,2026-05-06,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,556.0,general_procurement,2026-P02
+T-01,S00503,Over500_2026_P02_-_published.xlsx|Data to publish|311,2026-05-08,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,930.0,general_procurement,2026-P02
+T-01,S00503,Over500_2026_P02_-_published.xlsx|Data to publish|356,2026-05-08,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,1240.0,general_procurement,2026-P02
+T-01,S00503,Over500_2026_P02_-_published.xlsx|Data to publish|398,2026-05-13,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,2086.0,general_procurement,2026-P02
+T-01,S00503,Over500_2026_P02_-_published.xlsx|Data to publish|269,2026-05-19,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,1795.5,general_procurement,2026-P02
+T-01,S00503,Over500_2026_P02_-_published.xlsx|Data to publish|222,2026-05-20,Sikandar Hayat t/a Prompt Cars,Children's Social Care,Transport,Transport Hire,970.0,general_procurement,2026-P02
+T-01,S00503,Over500_2026_P02_-_published.xlsx|Data to publish|223,2026-05-20,Sikandar Hayat t/a Prompt Cars,Children's Social Care,Transport,Transport Hire,1173.0,general_procurement,2026-P02
+T-01,S00503,Over500_2026_P02_-_published.xlsx|Data to publish|224,2026-05-22,Sikandar Hayat t/a Prompt Cars,Children's Social Care,Transport,Transport Hire,595.0,general_procurement,2026-P02
+T-01,S00503,Over500_2026_P03_-_published.xlsx|Data to publish|157,2026-06-03,Sikandar Hayat t/a Prompt Cars,Children's Social Care,Transport,Transport Hire,2111.0,general_procurement,2026-P03
+T-01,S00503,Over500_2026_P03_-_published.xlsx|Data to publish|162,2026-06-03,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,9944.0,general_procurement,2026-P03
+T-01,S00503,Over500_2026_P03_-_published.xlsx|Data to publish|208,2026-06-03,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,17607.5,general_procurement,2026-P03
+T-01,S00503,Over500_2026_P03_-_published.xlsx|Data to publish|209,2026-06-04,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,996.43,general_procurement,2026-P03
+T-01,S00503,Over500_2026_P03_-_published.xlsx|Data to publish|345,2026-06-04,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,1328.57,general_procurement,2026-P03
+T-01,S00503,Over500_2026_P03_-_published.xlsx|Data to publish|254,2026-06-04,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,2520.0,general_procurement,2026-P03
+T-01,S00503,Over500_2026_P03_-_published.xlsx|Data to publish|239,2026-06-04,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,2173.5,general_procurement,2026-P03
+T-01,S00503,Over500_2026_P03_-_published.xlsx|Data to publish|325,2026-06-05,Sikandar Hayat t/a Prompt Cars,Education & SEND,Transport,Transport Hire,1112.0,general_procurement,2026-P03
+T-01,S00358,Over500_2026_P04_-_published.xlsx|Data to publish|429,2026-07-15,COMPASS EXECUTIVE CARS (UK) LTD,Adult Social Care,Transport,Transport Hire,3264.5,general_procurement,2026-P04
+T-01,S00358,Over500_2026_P04_-_published.xlsx|Data to publish|477,2026-07-15,COMPASS EXECUTIVE CARS (UK) LTD,Education & SEND,Transport,Transport Hire,2260.0,general_procurement,2026-P04
+T-01,S00358,Over500_2026_P04_-_published.xlsx|Data to publish|155,2026-07-15,COMPASS EXECUTIVE CARS (UK) LTD,Adult Social Care,Transport,Transport Hire,2801.0,general_procurement,2026-P04
+T-01,S00358,Over500_2026_P04_-_published.xlsx|Data to publish|235,2026-07-15,COMPASS EXECUTIVE CARS (UK) LTD,Education & SEND,Transport,Transport Hire,3654.0,general_procurement,2026-P04
+T-01,S00358,Over500_2026_P04_-_published.xlsx|Data to publish|170,2026-07-15,COMPASS EXECUTIVE CARS (UK) LTD,Education & SEND,Transport,Transport Hire,675.0,general_procurement,2026-P04
+T-01,S00358,Over500_2026_P04_-_published.xlsx|Data to publish|431,2026-07-15,COMPASS EXECUTIVE CARS (UK) LTD,Children's Social Care,Transport,Transport Hire,1148.0,general_procurement,2026-P04
+T-01,S00358,Over500_2026_P04_-_published.xlsx|Data to publish|161,2026-07-15,COMPASS EXECUTIVE CARS (UK) LTD,Education & SEND,Transport,Transport Hire,1240.0,general_procurement,2026-P04
+T-01,S00358,Over500_2026_P04_-_published.xlsx|Data to publish|188,2026-07-15,COMPASS EXECUTIVE CARS (UK) LTD,Education & SEND,Transport,Transport Hire,3129.0,general_procurement,2026-P04
+T-01,S00358,Over500_2026_P04_-_published.xlsx|Data to publish|162,2026-07-21,COMPASS EXECUTIVE CARS (UK) LTD,Education & SEND,Transport,Transport Hire,2178.0,general_procurement,2026-P04
+T-01,S00358,Over500_2026_P04_-_published.xlsx|Data to publish|171,2026-07-21,COMPASS EXECUTIVE CARS (UK) LTD,Education & SEND,Transport,Transport Hire,2178.0,general_procurement,2026-P04
+T-01,S00358,Over500_2026_P04_-_published.xlsx|Data to publish|341,2026-07-21,COMPASS EXECUTIVE CARS (UK) LTD,Education & SEND,Transport,Transport Hire,1407.0,general_procurement,2026-P04
+T-01,S00358,Over500_2026_P04_-_published.xlsx|Data to publish|478,2026-07-21,COMPASS EXECUTIVE CARS (UK) LTD,Education & SEND,Transport,Transport Hire,3885.0,general_procurement,2026-P04
+T-01,S00358,Over500_2026_P04_-_published.xlsx|Data to publish|1026,2026-07-22,COMPASS EXECUTIVE CARS (UK) LTD,Adult Social Care,Third Party Payments,Private Contractors,570.0,care_education_placement,2026-P04
+T-01,S00358,Over500_2026_P04_-_published.xlsx|Data to publish|239,2026-07-22,COMPASS EXECUTIVE CARS (UK) LTD,Education & SEND,Transport,Transport Hire,1785.0,general_procurement,2026-P04
+T-01,S00358,Over500_2026_P04_-_published.xlsx|Data to publish|227,2026-07-22,COMPASS EXECUTIVE CARS (UK) LTD,Education & SEND,Transport,Transport Hire,4455.0,general_procurement,2026-P04
+T-01,S00358,Over500_2026_P04_-_published.xlsx|Data to publish|228,2026-07-24,COMPASS EXECUTIVE CARS (UK) LTD,Education & SEND,Transport,Transport Hire,1715.0,general_procurement,2026-P04
+T-01,S00358,Over500_2026_P04_-_published.xlsx|Data to publish|164,2026-07-27,COMPASS EXECUTIVE CARS (UK) LTD,Education & SEND,Transport,Transport Hire,882.0,general_procurement,2026-P04
+T-01,S00358,Over500_2026_P04_-_published.xlsx|Data to publish|281,2026-07-28,COMPASS EXECUTIVE CARS (UK) LTD,Children's Social Care,Transport,Transport Hire,812.0,general_procurement,2026-P04
+T-01,S00358,Over500_2026_P04_-_published.xlsx|Data to publish|329,2026-07-29,COMPASS EXECUTIVE CARS (UK) LTD,Education & SEND,Transport,Transport Hire,1356.0,general_procurement,2026-P04
+T-01,S00358,Over500_2026_P04_-_published.xlsx|Data to publish|308,2026-07-29,COMPASS EXECUTIVE CARS (UK) LTD,Education & SEND,Transport,Transport Hire,2235.0,general_procurement,2026-P04
+T-01,S00358,Over500_2026_P04_-_published.xlsx|Data to publish|333,2026-07-30,COMPASS EXECUTIVE CARS (UK) LTD,Education & SEND,Transport,Transport Hire,2775.0,general_procurement,2026-P04
+T-01,S00358,Over500_2026_P04_-_published.xlsx|Data to publish|288,2026-07-30,COMPASS EXECUTIVE CARS (UK) LTD,Education & SEND,Transport,Transport Hire,3135.0,general_procurement,2026-P04
+T-01,S00519,Over500_2026_P02_-_published.xlsx|Data to publish|747,2026-05-18,SUMMIT CONTRACTORS BUILD LTD,Development & Housing,Supplies & Services,Minor Works,18425.0,general_procurement,2026-P02
+T-01,S00519,Over500_2026_P03_-_published.xlsx|Data to publish|735,2026-06-08,SUMMIT CONTRACTORS BUILD LTD,Development & Housing,Supplies & Services,Minor Works,16128.59,general_procurement,2026-P03
+T-01,S00519,Over500_2026_P03_-_published.xlsx|Data to publish|736,2026-06-11,SUMMIT CONTRACTORS BUILD LTD,Development & Housing,Supplies & Services,Minor Works,6817.5,general_procurement,2026-P03
+T-01,S00519,Over500_2026_P03_-_published.xlsx|Data to publish|712,2026-06-16,SUMMIT CONTRACTORS BUILD LTD,Development & Housing,Supplies & Services,Minor Works,5197.46,general_procurement,2026-P03
+T-01,S00488,Over500_2026_P02_-_published.xlsx|Data to publish|743,2026-05-12,R&A Haines Building Contractors,Development & Housing,Supplies & Services,Minor Works,6063.14,general_procurement,2026-P02
+T-01,S00488,Over500_2026_P02_-_published.xlsx|Data to publish|751,2026-05-22,R&A Haines Building Contractors,Development & Housing,Supplies & Services,Minor Works,4891.75,general_procurement,2026-P02
+T-01,S00488,Over500_2026_P03_-_published.xlsx|Data to publish|733,2026-06-01,R&A Haines Building Contractors,Development & Housing,Supplies & Services,Minor Works,9666.85,general_procurement,2026-P03
+T-01,S00488,Over500_2026_P03_-_published.xlsx|Data to publish|688,2026-06-01,R&A Haines Building Contractors,Development & Housing,Supplies & Services,Minor Works,20332.89,general_procurement,2026-P03
+T-01,S00488,Over500_2026_P03_-_published.xlsx|Data to publish|709,2026-06-09,R&A Haines Building Contractors,Development & Housing,Supplies & Services,Minor Works,5487.25,general_procurement,2026-P03

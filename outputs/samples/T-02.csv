@@ -1,0 +1,86 @@
+test_id,sample_unit,row_id,pay_date,supplier,service,category,narrative,amount,tag,period
+T-02,S00227,Over500_2026_P04_-_published.xlsx|Data to publish|562,2026-07-08,Stripeweb,"Finance, Property & Procurement",Supplies & Services,Charges,711.59,general_procurement,2026-P04
+T-02,S00227,Over500_2026_P04_-_published.xlsx|Data to publish|1018,2026-07-09,Stripeweb,"Finance, Property & Procurement",Supplies & Services,Charges,616.52,general_procurement,2026-P04
+T-02,S00227,Over500_2026_P04_-_published.xlsx|Data to publish|1019,2026-07-13,Stripeweb,"Finance, Property & Procurement",Supplies & Services,Charges,541.15,general_procurement,2026-P04
+T-02,S00227,Over500_2026_P04_-_published.xlsx|Data to publish|1020,2026-07-13,Stripeweb,"Finance, Property & Procurement",Supplies & Services,Charges,578.92,general_procurement,2026-P04
+T-02,S00227,Over500_2026_P04_-_published.xlsx|Data to publish|563,2026-07-17,Stripeweb,"Finance, Property & Procurement",Supplies & Services,Charges,506.59,general_procurement,2026-P04
+T-02,S00227,Over500_2026_P04_-_published.xlsx|Data to publish|644,2026-07-19,Stripeweb,"Finance, Property & Procurement",Supplies & Services,Charges,575.59,general_procurement,2026-P04
+T-02,S00227,Over500_2026_P04_-_published.xlsx|Data to publish|646,2026-07-24,Stripeweb,"Finance, Property & Procurement",Supplies & Services,Charges,643.09,general_procurement,2026-P04
+T-02,S00227,Over500_2026_P04_-_published.xlsx|Data to publish|564,2026-07-30,Stripeweb,"Finance, Property & Procurement",Supplies & Services,Charges,636.19,general_procurement,2026-P04
+T-02,S00227,Over500_2026_P04_-_published.xlsx|Data to publish|647,2026-07-31,Stripeweb,"Finance, Property & Procurement",Supplies & Services,Charges,506.22,general_procurement,2026-P04
+T-02,S00038,Over500_2026_P04_-_published.xlsx|Data to publish|252,2026-07-08,BAILEYS OF NEWBURY,Education & SEND,Transport,Transport Hire,643.55,general_procurement,2026-P04
+T-02,S00038,Over500_2026_P04_-_published.xlsx|Data to publish|254,2026-07-14,BAILEYS OF NEWBURY,Education & SEND,Transport,Transport Hire,804.71,general_procurement,2026-P04
+T-02,S00038,Over500_2026_P04_-_published.xlsx|Data to publish|187,2026-07-15,BAILEYS OF NEWBURY,Education & SEND,Transport,Transport Hire,758.71,general_procurement,2026-P04
+T-02,S00038,Over500_2026_P04_-_published.xlsx|Data to publish|453,2026-07-15,BAILEYS OF NEWBURY,Education & SEND,Transport,Transport Hire,555.13,general_procurement,2026-P04
+T-02,S00038,Over500_2026_P04_-_published.xlsx|Data to publish|454,2026-07-15,BAILEYS OF NEWBURY,Education & SEND,Transport,Transport Hire,762.35,general_procurement,2026-P04
+T-02,S00038,Over500_2026_P04_-_published.xlsx|Data to publish|255,2026-07-28,BAILEYS OF NEWBURY,Education & SEND,Transport,Transport Hire,541.94,general_procurement,2026-P04
+T-02,S00038,Over500_2026_P04_-_published.xlsx|Data to publish|256,2026-07-28,BAILEYS OF NEWBURY,Education & SEND,Transport,Transport Hire,677.65,general_procurement,2026-P04
+T-02,S00260,Over500_2026_P04_-_published.xlsx|Data to publish|195,2026-07-08,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,730.27,general_procurement,2026-P04
+T-02,S00260,Over500_2026_P04_-_published.xlsx|Data to publish|300,2026-07-08,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,999.32,general_procurement,2026-P04
+T-02,S00260,Over500_2026_P04_-_published.xlsx|Data to publish|451,2026-07-08,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,574.66,general_procurement,2026-P04
+T-02,S00260,Over500_2026_P04_-_published.xlsx|Data to publish|196,2026-07-08,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,862.12,general_procurement,2026-P04
+T-02,S00260,Over500_2026_P04_-_published.xlsx|Data to publish|197,2026-07-24,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,614.96,general_procurement,2026-P04
+T-02,S00260,Over500_2026_P04_-_published.xlsx|Data to publish|460,2026-07-24,WEAVAWAY TRAVEL LTD,Education & SEND,Transport,Transport Hire,726.0,general_procurement,2026-P04
+T-02,S00202,Over500_2026_P03_-_published.xlsx|Data to publish|2114,2026-06-12,Reading Refugee Support Group,Development & Housing,Third Party Payments,Private Contractors,743.09,general_procurement,2026-P03
+T-02,S00202,Over500_2026_P03_-_published.xlsx|Data to publish|2137,2026-06-12,Reading Refugee Support Group,Development & Housing,Third Party Payments,Private Contractors,599.18,general_procurement,2026-P03
+T-02,S00202,Over500_2026_P03_-_published.xlsx|Data to publish|3075,2026-06-12,Reading Refugee Support Group,Development & Housing,Third Party Payments,Private Contractors,599.18,general_procurement,2026-P03
+T-02,S00202,Over500_2026_P03_-_published.xlsx|Data to publish|3076,2026-06-16,Reading Refugee Support Group,Development & Housing,Third Party Payments,Private Contractors,599.18,general_procurement,2026-P03
+T-02,S00202,Over500_2026_P03_-_published.xlsx|Data to publish|2128,2026-06-16,Reading Refugee Support Group,Development & Housing,Third Party Payments,Private Contractors,599.18,general_procurement,2026-P03
+T-02,S00202,Over500_2026_P03_-_published.xlsx|Data to publish|3078,2026-06-17,Reading Refugee Support Group,Development & Housing,Third Party Payments,Private Contractors,743.09,general_procurement,2026-P03
+T-02,S00072,Over500_2026_P03_-_published.xlsx|Data to publish|224,2026-06-17,COMPASS EXECUTIVE CARS (UK) LTD,Education & SEND,Transport,Transport Hire,536.0,general_procurement,2026-P03
+T-02,S00072,Over500_2026_P03_-_published.xlsx|Data to publish|192,2026-06-17,COMPASS EXECUTIVE CARS (UK) LTD,Education (DSG Funded) & Other Education Grants,Transport,Transport Hire,744.0,general_procurement,2026-P03
+T-02,S00072,Over500_2026_P03_-_published.xlsx|Data to publish|196,2026-06-17,COMPASS EXECUTIVE CARS (UK) LTD,Education & SEND,Transport,Transport Hire,700.0,general_procurement,2026-P03
+T-02,S00072,Over500_2026_P03_-_published.xlsx|Data to publish|202,2026-06-22,COMPASS EXECUTIVE CARS (UK) LTD,Education & SEND,Transport,Transport Hire,744.0,general_procurement,2026-P03
+T-02,S00072,Over500_2026_P04_-_published.xlsx|Data to publish|170,2026-07-15,COMPASS EXECUTIVE CARS (UK) LTD,Education & SEND,Transport,Transport Hire,675.0,general_procurement,2026-P04
+T-02,S00173,Over500_2026_P02_-_published.xlsx|Data to publish|656,2026-05-05,Nourish Care Ltd,Adult Social Care,Supplies & Services,Licences,557.89,general_procurement,2026-P02
+T-02,S00173,Over500_2026_P02_-_published.xlsx|Data to publish|657,2026-05-06,Nourish Care Ltd,Adult Social Care,Supplies & Services,Licences,886.05,general_procurement,2026-P02
+T-02,S00173,Over500_2026_P03_-_published.xlsx|Data to publish|643,2026-06-03,Nourish Care Ltd,Adult Social Care,Supplies & Services,Licences,538.2,general_procurement,2026-P03
+T-02,S00173,Over500_2026_P03_-_published.xlsx|Data to publish|650,2026-06-04,Nourish Care Ltd,Adult Social Care,Supplies & Services,Licences,886.05,general_procurement,2026-P03
+T-02,S00071,Over500_2026_P02_-_published.xlsx|Data to publish|244,2026-05-13,COMPASS EXECUTIVE CARS (UK) LTD,Education & SEND,Transport,Transport Hire,775.0,general_procurement,2026-P02
+T-02,S00071,Over500_2026_P02_-_published.xlsx|Data to publish|230,2026-05-13,COMPASS EXECUTIVE CARS (UK) LTD,Education (DSG Funded) & Other Education Grants,Transport,Transport Hire,757.0,general_procurement,2026-P02
+T-02,S00071,Over500_2026_P02_-_published.xlsx|Data to publish|254,2026-05-13,COMPASS EXECUTIVE CARS (UK) LTD,Education & SEND,Transport,Transport Hire,623.0,general_procurement,2026-P02
+T-02,S00071,Over500_2026_P02_-_published.xlsx|Data to publish|393,2026-05-13,COMPASS EXECUTIVE CARS (UK) LTD,Education & SEND,Transport,Transport Hire,554.0,general_procurement,2026-P02
+T-02,S00252,Over500_2026_P04_-_published.xlsx|Data to publish|736,2026-07-13,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,577.53,general_procurement,2026-P04
+T-02,S00252,Over500_2026_P04_-_published.xlsx|Data to publish|1289,2026-07-13,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,651.56,general_procurement,2026-P04
+T-02,S00252,Over500_2026_P04_-_published.xlsx|Data to publish|799,2026-07-13,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,800.0,general_procurement,2026-P04
+T-02,S00252,Over500_2026_P04_-_published.xlsx|Data to publish|778,2026-07-31,VolkerHighways Ltd,Environment,Fees & Charges,Projects or Minor Works,571.41,general_procurement,2026-P04
+T-02,S00026,Over500_2026_P02_-_published.xlsx|Data to publish|528,2026-05-20,APETITO LTD,Adult Social Care,Supplies & Services,Catering,513.53,general_procurement,2026-P02
+T-02,S00026,Over500_2026_P02_-_published.xlsx|Data to publish|527,2026-05-27,APETITO LTD,Adult Social Care,Supplies & Services,Catering,573.2,general_procurement,2026-P02
+T-02,S00026,Over500_2026_P02_-_published.xlsx|Data to publish|529,2026-05-27,APETITO LTD,Adult Social Care,Supplies & Services,Catering,613.38,general_procurement,2026-P02
+T-02,S00026,Over500_2026_P03_-_published.xlsx|Data to publish|439,2026-06-16,APETITO LTD,Adult Social Care,Supplies & Services,Catering,793.94,general_procurement,2026-P03
+T-02,S00084,Over500_2026_P03_-_published.xlsx|Data to publish|2407,2026-06-04,DAWN ARCHITECTURAL SERVICES (DAS) LTD,Development & Housing,Supplies & Services,Minor Works,805.01,general_procurement,2026-P03
+T-02,S00084,Over500_2026_P03_-_published.xlsx|Data to publish|2410,2026-06-11,DAWN ARCHITECTURAL SERVICES (DAS) LTD,Development & Housing,Supplies & Services,Minor Works,789.9,general_procurement,2026-P03
+T-02,S00084,Over500_2026_P04_-_published.xlsx|Data to publish|829,2026-07-01,DAWN ARCHITECTURAL SERVICES (DAS) LTD,Development & Housing,Supplies & Services,Minor Works,773.64,general_procurement,2026-P04
+T-02,S00095,Over500_2026_P02_-_published.xlsx|Data to publish|517,2026-05-27,Elliott Baxter LTD,"Transformation, Customer & ICT",Supplies & Services,Print & Stationery,696.0,general_procurement,2026-P02
+T-02,S00095,Over500_2026_P03_-_published.xlsx|Data to publish|426,2026-06-03,Elliott Baxter LTD,"Transformation, Customer & ICT",Supplies & Services,Print & Stationery,770.0,general_procurement,2026-P03
+T-02,S00095,Over500_2026_P03_-_published.xlsx|Data to publish|437,2026-06-10,Elliott Baxter LTD,"Transformation, Customer & ICT",Supplies & Services,Print & Stationery,696.0,general_procurement,2026-P03
+T-02,S00213,Over500_2026_P04_-_published.xlsx|Data to publish|1014,2026-07-23,Simone Surveys Ltd,Environment,Supplies & Services,Professional Fees,678.13,general_procurement,2026-P04
+T-02,S00213,Over500_2026_P04_-_published.xlsx|Data to publish|545,2026-07-23,Simone Surveys Ltd,Environment,Supplies & Services,Professional Fees,678.13,general_procurement,2026-P04
+T-02,S00213,Over500_2026_P04_-_published.xlsx|Data to publish|546,2026-07-23,Simone Surveys Ltd,Environment,Supplies & Services,Professional Fees,678.13,general_procurement,2026-P04
+T-02,S00166,Over500_2026_P03_-_published.xlsx|Data to publish|432,2026-06-10,NEWBURY NEWS LTD,Development & Housing,Supplies & Services,Advertising,599.6,general_procurement,2026-P03
+T-02,S00166,Over500_2026_P04_-_published.xlsx|Data to publish|526,2026-07-03,NEWBURY NEWS LTD,Development & Housing,Supplies & Services,Advertising,676.88,general_procurement,2026-P04
+T-02,S00166,Over500_2026_P04_-_published.xlsx|Data to publish|523,2026-07-03,NEWBURY NEWS LTD,Development & Housing,Supplies & Services,Advertising,599.6,general_procurement,2026-P04
+T-02,S00186,Over500_2026_P04_-_published.xlsx|Data to publish|158,2026-07-08,POTTINGER'S HIRE SERVICE,Education & SEND,Transport,Transport Hire,990.83,general_procurement,2026-P04
+T-02,S00186,Over500_2026_P04_-_published.xlsx|Data to publish|229,2026-07-27,POTTINGER'S HIRE SERVICE,Education & SEND,Transport,Transport Hire,725.0,general_procurement,2026-P04
+T-02,S00003,Over500_2026_P04_-_published.xlsx|Data to publish|60,2026-07-20,360 Security & Support Services Ltd,Development & Housing,Premises,Corporate R&M,683.49,premises,2026-P04
+T-02,S00003,Over500_2026_P04_-_published.xlsx|Data to publish|615,2026-07-28,360 Security & Support Services Ltd,Development & Housing,Supplies & Services,Professional Fees,970.46,general_procurement,2026-P04
+T-02,S00080,Over500_2026_P03_-_published.xlsx|Data to publish|152,2026-06-02,CRESCENT SIGNS LTD,Environment,Transport,Direct Transport Costs,874.0,general_procurement,2026-P03
+T-02,S00080,Over500_2026_P03_-_published.xlsx|Data to publish|151,2026-06-04,CRESCENT SIGNS LTD,Environment,Transport,Direct Transport Costs,678.0,general_procurement,2026-P03
+T-02,S00109,Over500_2026_P02_-_published.xlsx|Data to publish|468,2026-05-14,G7 BUSINESS SOLUTIONS LIMITED,"Finance, Property & Procurement",Supplies & Services,IT,595.0,general_procurement,2026-P02
+T-02,S00109,Over500_2026_P02_-_published.xlsx|Data to publish|762,2026-05-19,G7 BUSINESS SOLUTIONS LIMITED,"Finance, Property & Procurement",Supplies & Services,Consultants,910.0,general_procurement,2026-P02
+T-02,S00246,Over500_2026_P04_-_published.xlsx|Data to publish|1306,2026-07-07,Traffic Management Consultants Ltd,Environment,Supplies & Services,Consultants,825.0,general_procurement,2026-P04
+T-02,S00246,Over500_2026_P04_-_published.xlsx|Data to publish|1305,2026-07-29,Traffic Management Consultants Ltd,Environment,Supplies & Services,Consultants,625.0,general_procurement,2026-P04
+T-02,S00091,Over500_2026_P02_-_published.xlsx|Data to publish|673,2026-05-05,E W BEARD LTD,Education & SEND,Third Party Payments,Payment to contractor,767.5,general_procurement,2026-P02
+T-02,S00091,Over500_2026_P02_-_published.xlsx|Data to publish|47,2026-05-27,E W BEARD LTD,Development & Housing,Premises,Corporate R&M,638.0,premises,2026-P02
+T-02,S00092,Over500_2026_P04_-_published.xlsx|Data to publish|15,2026-07-29,EDGE TRAINING AND CONSULTANCY LTD,Adult Social Care,Employees,Training,700.0,general_procurement,2026-P04
+T-02,S00092,Over500_2026_P04_-_published.xlsx|Data to publish|548,2026-07-29,EDGE TRAINING AND CONSULTANCY LTD,Adult Social Care,Supplies & Services,Professional Fees,700.0,general_procurement,2026-P04
+T-02,S00169,Over500_2026_P02_-_published.xlsx|Data to publish|330,2026-05-06,NJM HUMPHRIES T/A COACH MILES,Education & SEND,Transport,Transport Hire,621.25,general_procurement,2026-P02
+T-02,S00169,Over500_2026_P02_-_published.xlsx|Data to publish|338,2026-05-27,NJM HUMPHRIES T/A COACH MILES,Education & SEND,Transport,Transport Hire,665.63,general_procurement,2026-P02
+T-02,S00255,Over500_2026_P02_-_published.xlsx|Data to publish|446,2026-05-06,WASHCO,Children's Social Care,Supplies & Services,Purchase - Equipment,550.0,general_procurement,2026-P02
+T-02,S00255,Over500_2026_P02_-_published.xlsx|Data to publish|457,2026-05-28,WASHCO,Adult Social Care,Supplies & Services,Equipment Rentals,692.0,general_procurement,2026-P02
+T-02,S00248,Over500_2026_P02_-_published.xlsx|Data to publish|493,2026-05-13,Tristan Bruce-Carter,Environment,Supplies & Services,Training Third Parties,612.0,general_procurement,2026-P02
+T-02,S00248,Over500_2026_P03_-_published.xlsx|Data to publish|406,2026-06-09,Tristan Bruce-Carter,Environment,Supplies & Services,Training Third Parties,599.5,general_procurement,2026-P03
+T-02,S00043,Over500_2026_P02_-_published.xlsx|Data to publish|533,2026-05-20,BFS GROUP LTD t/a Bidfood,Community Services,Supplies & Services,Catering,538.49,general_procurement,2026-P02
+T-02,S00043,Over500_2026_P03_-_published.xlsx|Data to publish|749,2026-06-03,BFS GROUP LTD t/a Bidfood,Adult Social Care,Supplies & Services,Catering,643.91,general_procurement,2026-P03
+T-02,S00229,Over500_2026_P02_-_published.xlsx|Data to publish|541,2026-05-27,Swindon Advocacy Movement Ltd,Adult Social Care,Supplies & Services,Professional Fees,518.7,general_procurement,2026-P02
+T-02,S00229,Over500_2026_P02_-_published.xlsx|Data to publish|542,2026-05-28,Swindon Advocacy Movement Ltd,Adult Social Care,Supplies & Services,Professional Fees,620.1,general_procurement,2026-P02

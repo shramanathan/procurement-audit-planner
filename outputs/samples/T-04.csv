@@ -1,0 +1,36 @@
+test_id,sample_unit,row_id,pay_date,supplier,service,category,narrative,amount,tag,period
+T-04,D00200,Over500_2026_P04_-_published.xlsx|Data to publish|3308,2026-07-15,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,101925.86,general_procurement,2026-P04
+T-04,D00200,Over500_2026_P04_-_published.xlsx|Data to publish|618,2026-07-17,VolkerHighways Ltd,Environment,Third Party Payments,Payment to contractor,101925.86,general_procurement,2026-P04
+T-04,D00198,Over500_2026_P04_-_published.xlsx|Data to publish|3210,2026-07-13,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,54241.36,general_procurement,2026-P04
+T-04,D00198,Over500_2026_P04_-_published.xlsx|Data to publish|3302,2026-07-16,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,54241.36,general_procurement,2026-P04
+T-04,D00197,Over500_2026_P02_-_published.xlsx|Data to publish|2160,2026-05-12,TWO SAINTS LTD,Development & Housing,Third Party Payments,Private Contractors,27147.69,general_procurement,2026-P02
+T-04,D00197,Over500_2026_P02_-_published.xlsx|Data to publish|2161,2026-05-13,TWO SAINTS LTD,Development & Housing,Third Party Payments,Private Contractors,27147.69,general_procurement,2026-P02
+T-04,D00199,Over500_2026_P04_-_published.xlsx|Data to publish|3184,2026-07-13,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,17882.35,general_procurement,2026-P04
+T-04,D00199,Over500_2026_P04_-_published.xlsx|Data to publish|3185,2026-07-16,VolkerHighways Ltd,Environment,Third Party Payments,Private Contractors,17882.35,general_procurement,2026-P04
+T-04,D00578,Over500_2026_P04_-_published.xlsx|Data to publish|598,2026-07-13,Roadside Technologies Ltd,Environment,Third Party Payments,Payment to contractor,5594.11,general_procurement,2026-P04
+T-04,D00578,Over500_2026_P04_-_published.xlsx|Data to publish|734,2026-07-13,Roadside Technologies Ltd,Environment,Third Party Payments,Payment to contractor,5594.11,general_procurement,2026-P04
+T-04,D00578,Over500_2026_P04_-_published.xlsx|Data to publish|789,2026-07-13,Roadside Technologies Ltd,Environment,Third Party Payments,Payment to contractor,5594.11,general_procurement,2026-P04
+T-04,D00578,Over500_2026_P04_-_published.xlsx|Data to publish|1288,2026-07-13,Roadside Technologies Ltd,Environment,Third Party Payments,Payment to contractor,5594.11,general_procurement,2026-P04
+T-04,D00572,Over500_2026_P04_-_published.xlsx|Data to publish|259,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,5330.0,general_procurement,2026-P04
+T-04,D00572,Over500_2026_P04_-_published.xlsx|Data to publish|264,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,5330.0,general_procurement,2026-P04
+T-04,D00572,Over500_2026_P04_-_published.xlsx|Data to publish|474,2026-07-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,5330.0,general_procurement,2026-P04
+T-04,D00579,Over500_2026_P04_-_published.xlsx|Data to publish|601,2026-07-13,Roadside Technologies Ltd,Environment,Third Party Payments,Payment to contractor,9103.64,general_procurement,2026-P04
+T-04,D00579,Over500_2026_P04_-_published.xlsx|Data to publish|740,2026-07-13,Roadside Technologies Ltd,Environment,Third Party Payments,Payment to contractor,9103.64,general_procurement,2026-P04
+T-04,D00001,Over500_2026_P02_-_published.xlsx|Data to publish|8,2026-05-13,Pavillion Publishing and Media Ltd,Adult Social Care,Employees,Training,9084.6,general_procurement,2026-P02
+T-04,D00001,Over500_2026_P02_-_published.xlsx|Data to publish|643,2026-05-14,Pavillion Publishing and Media Ltd,Executive Director People - Children's Services,Supplies & Services,Subscriptions,9084.6,general_procurement,2026-P02
+T-04,D00030,Over500_2026_P02_-_published.xlsx|Data to publish|412,2026-05-27,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3900.0,general_procurement,2026-P02
+T-04,D00030,Over500_2026_P02_-_published.xlsx|Data to publish|416,2026-05-27,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3900.0,general_procurement,2026-P02
+T-04,D00030,Over500_2026_P02_-_published.xlsx|Data to publish|418,2026-05-27,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3900.0,general_procurement,2026-P02
+T-04,D00029,Over500_2026_P02_-_published.xlsx|Data to publish|369,2026-05-12,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3640.0,general_procurement,2026-P02
+T-04,D00029,Over500_2026_P02_-_published.xlsx|Data to publish|372,2026-05-12,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3640.0,general_procurement,2026-P02
+T-04,D00029,Over500_2026_P02_-_published.xlsx|Data to publish|395,2026-05-13,BROADWAY CARS,Education & SEND,Transport,Transport Hire,3640.0,general_procurement,2026-P02
+T-04,D00515,Over500_2026_P03_-_published.xlsx|Data to publish|2134,2026-06-18,SEISMIC SEWAGE SYSTEMS LTD,Environment,Third Party Payments,Private Contractors,5360.0,general_procurement,2026-P03
+T-04,D00515,Over500_2026_P03_-_published.xlsx|Data to publish|2141,2026-06-18,SEISMIC SEWAGE SYSTEMS LTD,Environment,Third Party Payments,Private Contractors,5360.0,general_procurement,2026-P03
+T-04,D00233,Over500_2026_P03_-_published.xlsx|Data to publish|459,2026-06-25,LOCAL GOVERNMENT PROPERTY CONSULTANTS (LGPC),"Finance, Property & Procurement",Supplies & Services,Professional Fees,4925.0,general_procurement,2026-P03
+T-04,D00233,Over500_2026_P03_-_published.xlsx|Data to publish|467,2026-06-25,LOCAL GOVERNMENT PROPERTY CONSULTANTS (LGPC),"Finance, Property & Procurement",Supplies & Services,Professional Fees,4925.0,general_procurement,2026-P03
+T-04,D00232,Over500_2026_P03_-_published.xlsx|Data to publish|431,2026-06-17,BRITISH TELECOM,"Transformation, Customer & ICT",Supplies & Services,Telephones,4364.06,general_procurement,2026-P03
+T-04,D00232,Over500_2026_P03_-_published.xlsx|Data to publish|427,2026-06-17,BRITISH TELECOM,"Transformation, Customer & ICT",Supplies & Services,Telephones,4364.06,general_procurement,2026-P03
+T-04,D00573,Over500_2026_P04_-_published.xlsx|Data to publish|467,2026-07-09,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,4018.0,general_procurement,2026-P04
+T-04,D00573,Over500_2026_P04_-_published.xlsx|Data to publish|266,2026-07-14,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,4018.0,general_procurement,2026-P04
+T-04,D00028,Over500_2026_P02_-_published.xlsx|Data to publish|344,2026-05-06,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2744.0,general_procurement,2026-P02
+T-04,D00028,Over500_2026_P02_-_published.xlsx|Data to publish|389,2026-05-13,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,Education & SEND,Transport,Transport Hire,2744.0,general_procurement,2026-P02

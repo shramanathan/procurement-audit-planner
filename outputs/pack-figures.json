@@ -1,0 +1,777 @@
+{
+ "generated_at": "2026-10-18T14:32:07",
+ "inputs": {
+  "plan": {
+   "file": "outputs/audit-plan.json",
+   "sha256": "0a794e476a48db5377b50f053d2f6e63a969fde554473b5776e8d67da33352d7"
+  },
+  "ratings": {
+   "file": "outputs/risk-ratings.json",
+   "sha256": "612a413d56c5c7a12d5eee63ff171c964db4f7397e5a8ef7df88e8c28afe798e"
+  },
+  "comments": {
+   "file": "outputs/auditor-comments.md",
+   "sha256": "8ca23b6d4cbbeab46399876bae552ebab7f1d729dc4c497c78b3ce4283c3a6c0"
+  },
+  "rules": {
+   "file": "outputs/rules.json",
+   "sha256": "4b0ec07b1837e59b1808a6cd5a774a82565294212da4fb4bcfad9ea7420e4d4d"
+  },
+  "analytics": {
+   "file": "outputs/analytics.json",
+   "sha256": "39ab904e1ea5ad9db5c674b7760bbe4d0a96368dd6d22fe453bc6244244f95d6"
+  },
+  "history": {
+   "file": "outputs/history.json",
+   "sha256": "3d094a00ac8670defac3a866d5ab9502049401522ddfefcf331012088077f324"
+  },
+  "spend_clean": {
+   "file": "outputs/analytics-full/spend_clean.csv",
+   "sha256": "c175e65f6f2cd30e7448f489963d814768168d4b4ef9450ebaadaaeeaa831214"
+  }
+ },
+ "sample_size_by_score": [
+  [
+   15,
+   25
+  ],
+  [
+   8,
+   15
+  ],
+  [
+   4,
+   10
+  ],
+  [
+   1,
+   5
+  ]
+ ],
+ "computed": [
+  {
+   "figure": "T-01.population",
+   "value": 59,
+   "how": "rows of split_purchases.csv after the filter"
+  },
+  {
+   "figure": "T-01.population_gbp",
+   "value": 3256736.03,
+   "how": "sum of 'total' over the filtered rows"
+  },
+  {
+   "figure": "T-01.size_rule",
+   "value": 25,
+   "how": "sample size for score 15 from the size table"
+  },
+  {
+   "figure": "T-01.drawn",
+   "value": 25,
+   "how": "units drawn (top); fewer than the size rule only when the population is smaller"
+  },
+  {
+   "figure": "T-01.transactions",
+   "value": 379,
+   "how": "spend_clean.csv rows behind the drawn units"
+  },
+  {
+   "figure": "T-01.sample_gbp",
+   "value": 2149065.56,
+   "how": "sum of spend_clean.csv amounts of those rows"
+  },
+  {
+   "figure": "T-02.population",
+   "value": 85,
+   "how": "rows of split_purchases.csv after the filter"
+  },
+  {
+   "figure": "T-02.population_gbp",
+   "value": 187888.13,
+   "how": "sum of 'total' over the filtered rows"
+  },
+  {
+   "figure": "T-02.size_rule",
+   "value": 25,
+   "how": "sample size for score 15 from the size table"
+  },
+  {
+   "figure": "T-02.drawn",
+   "value": 25,
+   "how": "units drawn (systematic); fewer than the size rule only when the population is smaller"
+  },
+  {
+   "figure": "T-02.transactions",
+   "value": 85,
+   "how": "spend_clean.csv rows behind the drawn units"
+  },
+  {
+   "figure": "T-02.sample_gbp",
+   "value": 57705.75,
+   "how": "sum of spend_clean.csv amounts of those rows"
+  },
+  {
+   "figure": "T-14.population",
+   "value": 46,
+   "how": "rows of threshold_clustering.csv after the filter"
+  },
+  {
+   "figure": "T-14.population_gbp",
+   "value": 43871.17,
+   "how": "sum of 'amount' over the filtered rows"
+  },
+  {
+   "figure": "T-14.size_rule",
+   "value": 25,
+   "how": "sample size for score 15 from the size table"
+  },
+  {
+   "figure": "T-14.drawn",
+   "value": 25,
+   "how": "units drawn (systematic); fewer than the size rule only when the population is smaller"
+  },
+  {
+   "figure": "T-14.transactions",
+   "value": 25,
+   "how": "spend_clean.csv rows behind the drawn units"
+  },
+  {
+   "figure": "T-14.sample_gbp",
+   "value": 23893.11,
+   "how": "sum of spend_clean.csv amounts of those rows"
+  },
+  {
+   "figure": "T-03.population",
+   "value": 3,
+   "how": "rows of split_purchases.csv after the filter"
+  },
+  {
+   "figure": "T-03.population_gbp",
+   "value": 9178195.87,
+   "how": "sum of 'total' over the filtered rows"
+  },
+  {
+   "figure": "T-03.size_rule",
+   "value": 25,
+   "how": "sample size for score 15 from the size table"
+  },
+  {
+   "figure": "T-03.drawn",
+   "value": 3,
+   "how": "units drawn (top); fewer than the size rule only when the population is smaller"
+  },
+  {
+   "figure": "T-03.transactions",
+   "value": 103,
+   "how": "spend_clean.csv rows behind the drawn units"
+  },
+  {
+   "figure": "T-03.sample_gbp",
+   "value": 9178195.87,
+   "how": "sum of spend_clean.csv amounts of those rows"
+  },
+  {
+   "figure": "T-04.population",
+   "value": 50,
+   "how": "rows of duplicates.csv after the filter"
+  },
+  {
+   "figure": "T-04.population_gbp",
+   "value": 634682.11,
+   "how": "sum of 'total' over the filtered rows"
+  },
+  {
+   "figure": "T-04.size_rule",
+   "value": 15,
+   "how": "sample size for score 12 from the size table"
+  },
+  {
+   "figure": "T-04.drawn",
+   "value": 15,
+   "how": "units drawn (top); fewer than the size rule only when the population is smaller"
+  },
+  {
+   "figure": "T-04.transactions",
+   "value": 35,
+   "how": "spend_clean.csv rows behind the drawn units"
+  },
+  {
+   "figure": "T-04.sample_gbp",
+   "value": 542579.56,
+   "how": "sum of spend_clean.csv amounts of those rows"
+  },
+  {
+   "figure": "T-06.population",
+   "value": 7,
+   "how": "rows of expired_notice_spend.csv after the filter"
+  },
+  {
+   "figure": "T-06.population_gbp",
+   "value": 183352.36,
+   "how": "sum of 'total' over the filtered rows"
+  },
+  {
+   "figure": "T-06.size_rule",
+   "value": 25,
+   "how": "sample size for score 16 from the size table"
+  },
+  {
+   "figure": "T-06.drawn",
+   "value": 7,
+   "how": "units drawn (top); fewer than the size rule only when the population is smaller"
+  },
+  {
+   "figure": "T-06.transactions",
+   "value": 53,
+   "how": "spend_clean.csv rows behind the drawn units"
+  },
+  {
+   "figure": "T-06.sample_gbp",
+   "value": 183352.36,
+   "how": "sum of spend_clean.csv amounts of those rows"
+  },
+  {
+   "figure": "T-07.population",
+   "value": 7,
+   "how": "rows of spend_vs_award.csv after the filter"
+  },
+  {
+   "figure": "T-07.population_gbp",
+   "value": 633768.19,
+   "how": "sum of 'total' over the filtered rows"
+  },
+  {
+   "figure": "T-07.size_rule",
+   "value": 25,
+   "how": "sample size for score 16 from the size table"
+  },
+  {
+   "figure": "T-07.drawn",
+   "value": 7,
+   "how": "units drawn (top); fewer than the size rule only when the population is smaller"
+  },
+  {
+   "figure": "T-07.transactions",
+   "value": 30,
+   "how": "spend_clean.csv rows behind the drawn units"
+  },
+  {
+   "figure": "T-07.sample_gbp",
+   "value": 633768.19,
+   "how": "sum of spend_clean.csv amounts of those rows"
+  },
+  {
+   "figure": "T-08.population",
+   "value": 178,
+   "how": "rows of off_contract.csv after the filter"
+  },
+  {
+   "figure": "T-08.population_gbp",
+   "value": 24310816.42,
+   "how": "sum of 'total' over the filtered rows"
+  },
+  {
+   "figure": "T-08.size_rule",
+   "value": 15,
+   "how": "sample size for score 10 from the size table"
+  },
+  {
+   "figure": "T-08.drawn",
+   "value": 15,
+   "how": "units drawn (top); fewer than the size rule only when the population is smaller"
+  },
+  {
+   "figure": "T-08.transactions",
+   "value": 400,
+   "how": "spend_clean.csv rows behind the drawn units"
+  },
+  {
+   "figure": "T-08.sample_gbp",
+   "value": 20250106.6,
+   "how": "sum of spend_clean.csv amounts of those rows"
+  },
+  {
+   "figure": "T-09.population",
+   "value": 221,
+   "how": "rows of split_purchases.csv after the filter"
+  },
+  {
+   "figure": "T-09.population_gbp",
+   "value": 19641184.52,
+   "how": "sum of 'total' over the filtered rows"
+  },
+  {
+   "figure": "T-09.size_rule",
+   "value": 25,
+   "how": "sample size for score 15 from the size table"
+  },
+  {
+   "figure": "T-09.drawn",
+   "value": 25,
+   "how": "units drawn (top); fewer than the size rule only when the population is smaller"
+  },
+  {
+   "figure": "T-09.transactions",
+   "value": 1608,
+   "how": "spend_clean.csv rows behind the drawn units"
+  },
+  {
+   "figure": "T-09.sample_gbp",
+   "value": 8460420.0,
+   "how": "sum of spend_clean.csv amounts of those rows"
+  },
+  {
+   "figure": "T-10.population",
+   "value": 311,
+   "how": "rows of off_contract.csv after the filter"
+  },
+  {
+   "figure": "T-10.population_gbp",
+   "value": 30418099.02,
+   "how": "sum of 'total' over the filtered rows"
+  },
+  {
+   "figure": "T-10.size_rule",
+   "value": 25,
+   "how": "sample size for score 15 from the size table"
+  },
+  {
+   "figure": "T-10.drawn",
+   "value": 25,
+   "how": "units drawn (systematic); fewer than the size rule only when the population is smaller"
+  },
+  {
+   "figure": "T-10.transactions",
+   "value": 842,
+   "how": "spend_clean.csv rows behind the drawn units"
+  },
+  {
+   "figure": "T-10.sample_gbp",
+   "value": 3819151.4,
+   "how": "sum of spend_clean.csv amounts of those rows"
+  },
+  {
+   "figure": "T-11.population",
+   "value": 2,
+   "how": "rows of split_purchases.csv after the filter"
+  },
+  {
+   "figure": "T-11.population_gbp",
+   "value": 1076284.47,
+   "how": "sum of 'total' over the filtered rows"
+  },
+  {
+   "figure": "T-11.size_rule",
+   "value": 15,
+   "how": "sample size for score 12 from the size table"
+  },
+  {
+   "figure": "T-11.drawn",
+   "value": 2,
+   "how": "units drawn (top); fewer than the size rule only when the population is smaller"
+  },
+  {
+   "figure": "T-11.transactions",
+   "value": 12,
+   "how": "spend_clean.csv rows behind the drawn units"
+  },
+  {
+   "figure": "T-11.sample_gbp",
+   "value": 1076284.47,
+   "how": "sum of spend_clean.csv amounts of those rows"
+  },
+  {
+   "figure": "T-12.population",
+   "value": 1,
+   "how": "rows of off_contract.csv after the filter"
+  },
+  {
+   "figure": "T-12.population_gbp",
+   "value": 1275552.15,
+   "how": "sum of 'total' over the filtered rows"
+  },
+  {
+   "figure": "T-12.size_rule",
+   "value": 15,
+   "how": "sample size for score 12 from the size table"
+  },
+  {
+   "figure": "T-12.drawn",
+   "value": 1,
+   "how": "units drawn (top); fewer than the size rule only when the population is smaller"
+  },
+  {
+   "figure": "T-12.transactions",
+   "value": 14,
+   "how": "spend_clean.csv rows behind the drawn units"
+  },
+  {
+   "figure": "T-12.sample_gbp",
+   "value": 1275552.15,
+   "how": "sum of spend_clean.csv amounts of those rows"
+  },
+  {
+   "figure": "T-13.population",
+   "value": 4,
+   "how": "rows of split_purchases.csv after the filter"
+  },
+  {
+   "figure": "T-13.population_gbp",
+   "value": 6046162.94,
+   "how": "sum of 'total' over the filtered rows"
+  },
+  {
+   "figure": "T-13.size_rule",
+   "value": 25,
+   "how": "sample size for score 15 from the size table"
+  },
+  {
+   "figure": "T-13.drawn",
+   "value": 4,
+   "how": "units drawn (top); fewer than the size rule only when the population is smaller"
+  },
+  {
+   "figure": "T-13.transactions",
+   "value": 128,
+   "how": "spend_clean.csv rows behind the drawn units"
+  },
+  {
+   "figure": "T-13.sample_gbp",
+   "value": 6046162.94,
+   "how": "sum of spend_clean.csv amounts of those rows"
+  },
+  {
+   "figure": "T-15.population",
+   "value": 604,
+   "how": "rows of duplicates.csv after the filter"
+  },
+  {
+   "figure": "T-15.population_gbp",
+   "value": 7813842.33,
+   "how": "sum of 'total' over the filtered rows"
+  },
+  {
+   "figure": "T-15.size_rule",
+   "value": 25,
+   "how": "sample size for score 15 from the size table"
+  },
+  {
+   "figure": "T-15.drawn",
+   "value": 25,
+   "how": "units drawn (top); fewer than the size rule only when the population is smaller"
+  },
+  {
+   "figure": "T-15.transactions",
+   "value": 241,
+   "how": "spend_clean.csv rows behind the drawn units"
+  },
+  {
+   "figure": "T-15.sample_gbp",
+   "value": 2878999.67,
+   "how": "sum of spend_clean.csv amounts of those rows"
+  },
+  {
+   "figure": "scope.risks_in_scope",
+   "value": 9,
+   "how": "count of Approve/Amend decisions"
+  },
+  {
+   "figure": "scope.risks_rejected",
+   "value": 1,
+   "how": "count of Reject decisions"
+  },
+  {
+   "figure": "pack.controls",
+   "value": 22,
+   "how": "count"
+  },
+  {
+   "figure": "pack.tests",
+   "value": 16,
+   "how": "count"
+  },
+  {
+   "figure": "pack.pbc_items",
+   "value": 24,
+   "how": "count of distinct PBC items"
+  },
+  {
+   "figure": "rules.total",
+   "value": 78,
+   "how": "count in rules.json"
+  },
+  {
+   "figure": "rules.cited",
+   "value": 39,
+   "how": "rules cited by an in-scope risk, control or test"
+  },
+  {
+   "figure": "rules.not_tested",
+   "value": 39,
+   "how": "rules listed in not_tested"
+  }
+ ],
+ "copied_from_register": [
+  {
+   "figure": "R-01.L",
+   "value": 3,
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-01.I",
+   "value": 5,
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-01.score",
+   "value": 15,
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-01.band",
+   "value": "Extreme",
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-02.L",
+   "value": 3,
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-02.I",
+   "value": 5,
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-02.score",
+   "value": 15,
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-02.band",
+   "value": "Extreme",
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-03.L",
+   "value": 3,
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-03.I",
+   "value": 4,
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-03.score",
+   "value": 12,
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-03.band",
+   "value": "Medium - High",
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-04.L",
+   "value": 4,
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-04.I",
+   "value": 4,
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-04.score",
+   "value": 16,
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-04.band",
+   "value": "Extreme",
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-05.L",
+   "value": 2,
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-05.I",
+   "value": 5,
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-05.score",
+   "value": 10,
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-05.band",
+   "value": "Medium - High",
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-06.L",
+   "value": 3,
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-06.I",
+   "value": 5,
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-06.score",
+   "value": 15,
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-06.band",
+   "value": "Extreme",
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-07.L",
+   "value": 3,
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-07.I",
+   "value": 4,
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-07.score",
+   "value": 12,
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-07.band",
+   "value": "Medium - High",
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-08.L",
+   "value": 3,
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-08.I",
+   "value": 5,
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-08.score",
+   "value": 15,
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-08.band",
+   "value": "Extreme",
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-10.L",
+   "value": 3,
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-10.I",
+   "value": 5,
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-10.score",
+   "value": 15,
+   "from": "risk-register.md summary table"
+  },
+  {
+   "figure": "R-10.band",
+   "value": "Extreme",
+   "from": "risk-register.md summary table"
+  }
+ ],
+ "filled_from_analytics": [
+  {
+   "path": "$.cleaning.rows_kept",
+   "value": 8526,
+   "where": "memo.scope_note"
+  },
+  {
+   "path": "$.window.start",
+   "value": "2026-05-01",
+   "where": "memo.scope_note"
+  },
+  {
+   "path": "$.window.end",
+   "value": "2026-07-31",
+   "where": "memo.scope_note"
+  },
+  {
+   "path": "$.tests.split_purchases.parameters.window_days",
+   "value": 30,
+   "where": "memo.limitations"
+  },
+  {
+   "path": "$.window.annualisation_factor",
+   "value": 4.0,
+   "where": "memo.limitations"
+  },
+  {
+   "path": "$.matching.method",
+   "value": "exact normalised name only",
+   "where": "memo.limitations"
+  },
+  {
+   "path": "$.cleaning.excluded.redacted_supplier.rows",
+   "value": 2015,
+   "where": "memo.limitations"
+  },
+  {
+   "path": "$.thresholds.quote_threshold.amount",
+   "value": 25000,
+   "where": "R-01/T-01.objective"
+  },
+  {
+   "path": "$.thresholds.tiers[0].amount",
+   "value": 1000,
+   "where": "R-01/T-02.objective"
+  },
+  {
+   "path": "$.thresholds.tiers[0].amount",
+   "value": 1000,
+   "where": "R-01/T-14.objective"
+  },
+  {
+   "path": "$.tests.threshold_clustering.counts.per_tier[?tier==1000].band_to_comparison_ratio",
+   "value": 1.1911,
+   "where": "R-01/T-14.objective"
+  },
+  {
+   "path": "$.thresholds.tiers[3].amount",
+   "value": 2500000,
+   "where": "R-02/T-03.objective"
+  },
+  {
+   "path": "$.tests.duplicates.parameters.days",
+   "value": 7,
+   "where": "R-03/T-04.objective"
+  },
+  {
+   "path": "$.tests.spend_vs_award.parameters.flag_ratio",
+   "value": 1.25,
+   "where": "R-04/T-07.objective"
+  },
+  {
+   "path": "$.thresholds.tiers[2].amount",
+   "value": 500000,
+   "where": "R-08/T-13.objective"
+  },
+  {
+   "path": "$.tests.duplicates.parameters.days",
+   "value": 7,
+   "where": "R-10/T-15.objective"
+  }
+ ]
+}

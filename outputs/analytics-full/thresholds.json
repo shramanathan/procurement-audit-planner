@@ -1,0 +1,104 @@
+{
+  "source": "outputs/rules.json",
+  "tiers": [
+    {
+      "amount": 1000,
+      "as_printed": [
+        "Above £1,000"
+      ],
+      "rule_ids": [
+        "CPR-60"
+      ]
+    },
+    {
+      "amount": 25000,
+      "as_printed": [
+        "£25,000 or more"
+      ],
+      "rule_ids": [
+        "CPR-61",
+        "CPR-63"
+      ]
+    },
+    {
+      "amount": 500000,
+      "as_printed": [
+        "over £500,000",
+        "Above £500,000"
+      ],
+      "rule_ids": [
+        "CPR-04",
+        "CPR-58",
+        "CPR-65",
+        "CPR-66"
+      ]
+    },
+    {
+      "amount": 2500000,
+      "as_printed": [
+        "£2.5million or more"
+      ],
+      "rule_ids": [
+        "CPR-59"
+      ]
+    }
+  ],
+  "skipped_tiers": [
+    {
+      "rule_id": "CPR-17",
+      "parameter": "THRESHOLD_RELEVANT",
+      "reason": "parameter THRESHOLD_RELEVANT is null in rules.json; value must come from the Procurement intranet page"
+    },
+    {
+      "rule_id": "CPR-57",
+      "parameter": "THRESHOLD_RELEVANT",
+      "reason": "parameter THRESHOLD_RELEVANT is null in rules.json; value must come from the Procurement intranet page"
+    },
+    {
+      "rule_id": "CPR-69",
+      "parameter": "THRESHOLD_RELEVANT",
+      "reason": "parameter THRESHOLD_RELEVANT is null in rules.json; value must come from the Procurement intranet page"
+    },
+    {
+      "rule_id": "CPR-78",
+      "parameter": "THRESHOLD_RELEVANT",
+      "reason": "parameter THRESHOLD_RELEVANT is null in rules.json; value must come from the Procurement intranet page"
+    }
+  ],
+  "quote_threshold": {
+    "status": "resolved",
+    "amount": 25000,
+    "as_printed": [
+      "£25,000 or more"
+    ],
+    "rule_ids": [
+      "CPR-61",
+      "CPR-63"
+    ],
+    "clauses": [
+      "App B row B1",
+      "App B row B2"
+    ],
+    "unresolved_rules": []
+  },
+  "publication_threshold": {
+    "status": "resolved",
+    "amount": 25000,
+    "as_printed": [
+      "£25,000 or more"
+    ],
+    "rule_ids": [
+      "CPR-62",
+      "CPR-64"
+    ],
+    "clauses": [
+      "App B row B1",
+      "App B row B2"
+    ],
+    "unresolved_rules": []
+  },
+  "caveats": [
+    "Thresholds in rules.json are stated for total contract value. A single payment, or a supplier's spend in the window (or its annualised estimate), is not a contract value: results are risk indicators to investigate, not findings.",
+    "Spend data is net of VAT. rules.json records that VAT treatment differs between clause 6.15 and Appendix B: 6.15 says Total Contract Value includes VAT; the Appendix B bands are stated 'exclusive of VAT'. The same contract can fall in different bands depending on which basis is used."
+  ]
+}

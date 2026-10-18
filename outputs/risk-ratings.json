@@ -1,0 +1,331 @@
+{
+  "generated_at": "2026-10-18T12:00:00+00:00",
+  "revision": {
+    "number": 6,
+    "summary": "Records the auditor's Approve on R-10 with no comment; no risk changes, R-01 to R-08 and R-10 stay approved and unchanged and R-09 stays rejected.",
+    "changes": []
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "title": "Payments grouped just under the quote tiers (general procurement)",
+      "status": "proposed",
+      "scope_tags": [
+        "general_procurement"
+      ],
+      "description": "Repeated payments to the same supplier within {{$.tests.split_purchases.parameters.window_days}} days, each below a tier but together passing it, indicate possible division of a requirement that would avoid the quotation route: to investigate. At the £{{$.tests.split_purchases.counts.per_tier[?tier==25000].tier}} tier (three quotes via the Portal and a CDP notice, [rule:CPR-61], [rule:CPR-62]) there are {{$.tests.split_purchases.counts.per_tier[?tier==25000].by_tag.general_procurement.count}} general-procurement groups worth £{{$.tests.split_purchases.counts.per_tier[?tier==25000].by_tag.general_procurement.gbp}}; at the £{{$.tests.split_purchases.counts.per_tier[?tier==1000].tier}} tier (one quote, [rule:CPR-60]) there are {{$.tests.split_purchases.counts.per_tier[?tier==1000].by_tag.general_procurement.count}} groups worth £{{$.tests.split_purchases.counts.per_tier[?tier==1000].by_tag.general_procurement.gbp}}. The Rules prohibit splitting to avoid them ([rule:CPR-15], [rule:CPR-16]). Single payments are not contract values, so these are indicators only.",
+      "likelihood": {
+        "base": 3,
+        "rubric_row": "L3",
+        "base_history": [],
+        "uplift": 0,
+        "uplift_history": [],
+        "justification": "Row L3: item-level flags in the relevant tag, with {{$.tests.split_purchases.by_tag.general_procurement.count}} general-procurement split groups [metric:$.tests.split_purchases.by_tag.general_procurement.count] against the anti-splitting rule [rule:CPR-15]. Not L4: threshold clustering is not counted as a second test, because at the £{{$.tests.threshold_clustering.counts.per_tier[?tier==25000].tier}} tier the band holds fewer payments than the comparison band (ratio {{$.tests.threshold_clustering.counts.per_tier[?tier==25000].band_to_comparison_ratio}}), and at the £{{$.tests.threshold_clustering.counts.per_tier[?tier==1000].tier}} tier the excess (ratio {{$.tests.threshold_clustering.counts.per_tier[?tier==1000].band_to_comparison_ratio}}) is not broken down by tag. No adverse audit history on this theme: [history:AO-01] Contract Letting was Reasonable Assurance, so no uplift."
+      },
+      "impact": {
+        "criterion": "financial",
+        "basis": "$.tests.split_purchases.counts.per_tier[?tier==25000].by_tag.general_procurement.gbp",
+        "score": null,
+        "justification": "Financial: the value exposed is the general-procurement spend in groups passing the quote tier, £{{$.tests.split_purchases.counts.per_tier[?tier==25000].by_tag.general_procurement.gbp}}, which falls under [rule:CPR-61]. This is value exposed to the risk, not proven loss."
+      },
+      "evidence": [
+        "[rule:CPR-15]",
+        "[rule:CPR-16]",
+        "[rule:CPR-60]",
+        "[rule:CPR-61]",
+        "[metric:$.tests.split_purchases.by_tag.general_procurement.count]",
+        "[metric:$.tests.split_purchases.by_tag.general_procurement.gbp]",
+        "[history:AO-01]"
+      ],
+      "proposed_focus": "Recommend sampling general-procurement groups at the quote tier from outputs/analytics-full/split_purchases.csv (tag general_procurement). For each group, would test whether the payments are one requirement, whether quotations were sought as the tier requires, and whether advice on aggregation was sought."
+    },
+    {
+      "risk_id": "R-02",
+      "title": "Grouped payments passing the Key Decision and Executive approval tiers",
+      "status": "proposed",
+      "scope_tags": [
+        "general_procurement"
+      ],
+      "description": "Payments to one supplier within {{$.tests.split_purchases.parameters.window_days}} days, each below an approval tier but together passing it, indicate that a requirement may not have gone through the approval route its total value needs: to investigate. At the £{{$.tests.split_purchases.counts.per_tier[?tier==500000].tier}} tier (Key Decision, [rule:CPR-04], [rule:CPR-58]) there are {{$.tests.split_purchases.counts.per_tier[?tier==500000].by_tag.general_procurement.count}} general-procurement groups worth £{{$.tests.split_purchases.counts.per_tier[?tier==500000].by_tag.general_procurement.gbp}}. At the £{{$.tests.split_purchases.counts.per_tier[?tier==2500000].tier}} tier (Executive approval, [rule:CPR-59]) there are {{$.tests.split_purchases.counts.per_tier[?tier==2500000].by_tag.general_procurement.count}} groups worth £{{$.tests.split_purchases.counts.per_tier[?tier==2500000].by_tag.general_procurement.gbp}}. These may be staged payments under a properly approved contract.",
+      "likelihood": {
+        "base": 3,
+        "rubric_row": "L3",
+        "base_history": [],
+        "uplift": 0,
+        "uplift_history": [],
+        "justification": "Row L3: item-level split-purchase flags in the relevant tag [metric:$.tests.split_purchases.by_tag.general_procurement.count] at the approval tiers of [rule:CPR-58] and [rule:CPR-59]. Not L4: threshold clustering found no payments in the band below either approval tier, so there is only one item-level test. No adverse audit history on approvals: [history:AO-01] Contract Letting was Reasonable Assurance."
+      },
+      "impact": {
+        "criterion": "financial",
+        "basis": "$.tests.split_purchases.counts.per_tier[?tier==2500000].by_tag.general_procurement.gbp",
+        "score": null,
+        "justification": "Financial: the value exposed is the general-procurement spend in groups passing the Executive approval tier of [rule:CPR-59], £{{$.tests.split_purchases.counts.per_tier[?tier==2500000].by_tag.general_procurement.gbp}}. This is value exposed to the risk, not proven loss."
+      },
+      "evidence": [
+        "[rule:CPR-04]",
+        "[rule:CPR-58]",
+        "[rule:CPR-59]",
+        "[rule:CPR-15]",
+        "[metric:$.tests.split_purchases.by_tag.general_procurement.count]",
+        "[history:AO-01]"
+      ],
+      "proposed_focus": "Would test every general-procurement group at the two approval tiers in outputs/analytics-full/split_purchases.csv. For each, recommend obtaining the contract and checking that the Key Decision or Executive approval covers the total value paid."
+    },
+    {
+      "risk_id": "R-03",
+      "title": "Possible duplicate payments (general procurement)",
+      "status": "proposed",
+      "scope_tags": [
+        "general_procurement"
+      ],
+      "description": "Payments of the same amount to the same supplier within {{$.tests.duplicates.parameters.days}} days indicate possible duplicate payment: to investigate. There are {{$.tests.duplicates.by_tag.general_procurement.count}} general-procurement groups worth £{{$.tests.duplicates.by_tag.general_procurement.gbp}}, counting every payment in each group. Each purchase should be backed by written evidence [rule:CPR-37]. Care placements dominate this test overall ({{$.tests.duplicates.by_tag.care_education_placement.count}} groups) because fixed fees recur, and they are left out of this risk.",
+      "likelihood": {
+        "base": 3,
+        "rubric_row": "L3",
+        "base_history": [],
+        "uplift": 0,
+        "uplift_history": [],
+        "justification": "Row L3: item-level duplicate flags in the relevant tag [metric:$.tests.duplicates.by_tag.general_procurement.count], tested against [rule:CPR-37]. No second independent test covers duplicate payment. No adverse history: [history:AO-15] Accounts Payable was Reasonable Assurance, so no uplift."
+      },
+      "impact": {
+        "criterion": "financial",
+        "basis": "$.tests.duplicates.by_tag.general_procurement.gbp",
+        "score": null,
+        "justification": "Financial: the value exposed is the general-procurement payments in duplicate groups, £{{$.tests.duplicates.by_tag.general_procurement.gbp}} [metric:$.tests.duplicates.by_tag.general_procurement.gbp]. This includes the first payment of each group, so it overstates any amount paid twice. It is value exposed, not proven loss."
+      },
+      "evidence": [
+        "[rule:CPR-37]",
+        "[metric:$.tests.duplicates.by_tag.general_procurement.count]",
+        "[metric:$.tests.duplicates.by_tag.general_procurement.gbp]",
+        "[history:AO-15]"
+      ],
+      "proposed_focus": "Recommend sampling general-procurement groups from outputs/analytics-full/duplicates.csv and matching each payment to a separate invoice and purchase order. Would also test the duplicate-payment checks in Accounts Payable."
+    },
+    {
+      "risk_id": "R-04",
+      "title": "Spend after notice expiry or above the awarded value",
+      "status": "proposed",
+      "scope_tags": [
+        "general_procurement",
+        "premises"
+      ],
+      "description": "Two contract-variation and extension indicators to investigate. First, {{$.tests.expired_notice_spend.counts.flagged}} suppliers were paid £{{$.tests.expired_notice_spend.gbp_total}} in the window although every matching published notice had ended before it began; an extension needs approval [rule:CPR-74]. Second, {{$.tests.spend_vs_award.counts.flagged}} of {{$.tests.spend_vs_award.counts.eligible}} eligible suppliers have annualised spend at or above {{$.tests.spend_vs_award.parameters.flag_ratio}} times the yearly awarded value (£{{$.tests.spend_vs_award.gbp_total}} spent in the window); a variation needs prior approval ([rule:CPR-75], [rule:CPR-76]). A newer contract, an approved extension or an award stated as an estimate may explain either.",
+      "likelihood": {
+        "base": 4,
+        "rubric_row": "L4",
+        "base_history": [],
+        "uplift": 0,
+        "uplift_history": [],
+        "justification": "Row L4: item-level flags in relevant tags from two independent tests on the same theme. Expired-notice spend flags {{$.tests.expired_notice_spend.by_tag.general_procurement.count}} general-procurement suppliers [metric:$.tests.expired_notice_spend.by_tag.general_procurement.count] against [rule:CPR-74]. Spend-versus-award flags {{$.tests.spend_vs_award.by_tag.general_procurement.count}} [metric:$.tests.spend_vs_award.by_tag.general_procurement.count] against [rule:CPR-75]. The tests are independent: one needs every matched notice to have expired, the other needs a live notice. Not L5: there is no adverse audit opinion on contract management, and [history:AO-01] Contract Letting was Reasonable Assurance."
+      },
+      "impact": {
+        "criterion": "financial",
+        "basis": "$.tests.spend_vs_award.gbp_total",
+        "score": null,
+        "justification": "Financial: the value exposed is the window spend with suppliers whose spend exceeds the awarded rate, £{{$.tests.spend_vs_award.gbp_total}} [metric:$.tests.spend_vs_award.gbp_total], under [rule:CPR-76]. This is value exposed, not proven loss."
+      },
+      "evidence": [
+        "[rule:CPR-74]",
+        "[rule:CPR-75]",
+        "[rule:CPR-76]",
+        "[metric:$.tests.expired_notice_spend.counts.flagged]",
+        "[metric:$.tests.spend_vs_award.counts.flagged]",
+        "[history:AO-01]"
+      ],
+      "proposed_focus": "Would test every supplier in outputs/analytics-full/expired_notice_spend.csv and outputs/analytics-full/spend_vs_award.csv. For each, recommend requesting the current contract, any extension or variation approval, and the contract value, and checking them against the approval route in Appendix C."
+    },
+    {
+      "risk_id": "R-05",
+      "title": "High-value suppliers with no published contract notice",
+      "status": "proposed",
+      "scope_tags": [
+        "general_procurement"
+      ],
+      "description": "{{$.tests.off_contract.by_tag.general_procurement.count}} general-procurement suppliers have an annualised estimate above the £{{$.tests.off_contract.parameters.publication_threshold}} publication threshold but no exact name match to a live notice in the Contracts Finder export (£{{$.tests.off_contract.by_tag.general_procurement.gbp}} spent in the window). Contracts above this value need a CDP notice [rule:CPR-62] and should be on the contract register ([rule:CPR-08], [rule:CPR-40]). This is a coverage indicator to investigate, not evidence that no contract exists: matching is by exact name only, and frameworks, older contracts and name variants are missed. Results must never be used to question suppliers below the threshold.",
+      "likelihood": {
+        "base": 2,
+        "rubric_row": "L2",
+        "base_history": [],
+        "uplift": 0,
+        "uplift_history": [],
+        "justification": "Row L2: population-level data only, from the off-contract coverage test [metric:$.tests.off_contract.by_tag.general_procurement.count] and high-value suppliers with no notice [metric:$.tests.high_value_suppliers.counts.by_notice_status.none], measured against [rule:CPR-62]. No adverse history on the theme: [history:AO-01] Contract Letting was Reasonable Assurance, so L3 does not apply."
+      },
+      "impact": {
+        "criterion": "financial",
+        "basis": "$.tests.off_contract.by_tag.general_procurement.gbp",
+        "score": null,
+        "justification": "Financial: the value exposed is general-procurement window spend with suppliers above the threshold and no matched notice, £{{$.tests.off_contract.by_tag.general_procurement.gbp}} [metric:$.tests.off_contract.by_tag.general_procurement.gbp], under [rule:CPR-62]. This is value exposed, not proven loss, and it is inflated by name-matching limits."
+      },
+      "evidence": [
+        "[rule:CPR-08]",
+        "[rule:CPR-40]",
+        "[rule:CPR-62]",
+        "[metric:$.tests.off_contract.by_tag.general_procurement.count]",
+        "[metric:$.tests.high_value_suppliers.counts.by_notice_status.none]",
+        "[metric:$.tests.off_contract.counts.flagged_with_candidates]",
+        "[history:AO-01]"
+      ],
+      "proposed_focus": "Recommend first resolving name candidates in outputs/analytics-full/name_candidates.csv, then sampling the highest-value general-procurement suppliers in outputs/analytics-full/off_contract.csv. For each, would request the contract or framework call-off and check that it appears on the Council Contract Register."
+    },
+    {
+      "risk_id": "R-06",
+      "title": "Care and education placement commissioning route",
+      "status": "proposed",
+      "scope_tags": [
+        "care_education_placement"
+      ],
+      "description": "Recurring care and education placement payments to the same provider pass the £{{$.tests.split_purchases.counts.per_tier[?tier==25000].tier}} quote tier in {{$.tests.split_purchases.counts.per_tier[?tier==25000].by_tag.care_education_placement.count}} groups worth £{{$.tests.split_purchases.counts.per_tier[?tier==25000].by_tag.care_education_placement.gbp}}, and {{$.tests.off_contract.by_tag.care_education_placement.count}} placement providers above the publication threshold have no matched notice. Placements recur by nature and many are made under the Provider Selection Regime or as individual placements [rule:CPR-72], so these indicate a need to confirm the commissioning route, not avoidance. For individual placements the reasons for choosing the provider must be on the case notes [rule:CPR-77].",
+      "likelihood": {
+        "base": 3,
+        "rubric_row": "L3",
+        "base_history": [],
+        "uplift": 0,
+        "uplift_history": [],
+        "justification": "Row L3: item-level split-purchase flags in the relevant tag [metric:$.tests.split_purchases.by_tag.care_education_placement.count], measured against [rule:CPR-77]. The off-contract figure is population-level, so it is not a second item-level test. No adverse history on the theme: [history:AO-18] Purchase of Residential and Nursing Care Provision was Reasonable Assurance. [history:AO-16] Personal Budgets (Direct Payments) was Limited Assurance, but it covers payments made to families to arrange their own support, not council-commissioned placements, so it is not counted."
+      },
+      "impact": {
+        "criterion": "financial",
+        "basis": "$.tests.split_purchases.counts.per_tier[?tier==25000].by_tag.care_education_placement.gbp",
+        "score": null,
+        "justification": "Financial: the value exposed is placement spend in groups passing the quote tier, £{{$.tests.split_purchases.counts.per_tier[?tier==25000].by_tag.care_education_placement.gbp}}, under [rule:CPR-72]. This is value exposed, not proven loss; most of it is likely to be ordinary recurring fees."
+      },
+      "evidence": [
+        "[rule:CPR-72]",
+        "[rule:CPR-77]",
+        "[metric:$.tests.split_purchases.by_tag.care_education_placement.count]",
+        "[metric:$.tests.off_contract.by_tag.care_education_placement.count]",
+        "[history:AO-18]",
+        "[history:AO-16]"
+      ],
+      "proposed_focus": "Recommend sampling the highest-value placement providers in outputs/analytics-full/split_purchases.csv and outputs/analytics-full/off_contract.csv (tag care_education_placement). For each, would test that the commissioning route is recorded (framework, PSR decision or individual placement) and that the provider-choice reasons are on the case notes."
+    },
+    {
+      "risk_id": "R-07",
+      "title": "Agency staff spend passing approval tiers",
+      "status": "proposed",
+      "scope_tags": [
+        "agency_staff"
+      ],
+      "description": "Agency staff payments to one supplier within {{$.tests.split_purchases.parameters.window_days}} days pass a tier in {{$.tests.split_purchases.by_tag.agency_staff.count}} groups worth £{{$.tests.split_purchases.by_tag.agency_staff.gbp}}, including the £{{$.tests.split_purchases.counts.per_tier[?tier==500000].tier}} Key Decision tier [rule:CPR-58]. The main agency supplier above the publication threshold has no matched notice ({{$.tests.off_contract.by_tag.agency_staff.count}} supplier, £{{$.tests.off_contract.by_tag.agency_staff.gbp}} in the window). These indicate a need to confirm that agency spend runs through an approved contract or framework [rule:CPR-73]: to investigate.",
+      "likelihood": {
+        "base": 3,
+        "rubric_row": "L3",
+        "base_history": [],
+        "uplift": 0,
+        "uplift_history": [],
+        "justification": "Row L3: item-level split-purchase flags in the relevant tag [metric:$.tests.split_purchases.by_tag.agency_staff.count] at the approval tiers of [rule:CPR-58]. The off-contract figure is population-level, so it is not a second item-level test. No audit opinion in history.json covers agency staffing [history:AO-14], since Recruitment (Talent Attraction) and Retention is a different area, so there is no adverse history and no uplift."
+      },
+      "impact": {
+        "criterion": "financial",
+        "basis": "$.tests.split_purchases.by_tag.agency_staff.gbp",
+        "score": null,
+        "justification": "Financial: the value exposed is agency spend in flagged groups, £{{$.tests.split_purchases.by_tag.agency_staff.gbp}} [metric:$.tests.split_purchases.by_tag.agency_staff.gbp], under [rule:CPR-58]. This is value exposed, not proven loss."
+      },
+      "evidence": [
+        "[rule:CPR-58]",
+        "[rule:CPR-73]",
+        "[metric:$.tests.split_purchases.by_tag.agency_staff.count]",
+        "[metric:$.tests.off_contract.by_tag.agency_staff.count]",
+        "[history:AO-14]"
+      ],
+      "proposed_focus": "Would test the agency-staff groups in outputs/analytics-full/split_purchases.csv and the agency supplier in outputs/analytics-full/off_contract.csv. Recommend requesting the framework call-off or contract and the approval covering the total value."
+    },
+    {
+      "risk_id": "R-08",
+      "title": "Contracts above the Key Decision tier reaching award without the required approval or procedure (general procurement)",
+      "status": "proposed",
+      "scope_tags": [
+        "general_procurement"
+      ],
+      "description": "Contracts with a total value above £{{$.tests.split_purchases.counts.per_tier[?tier==500000].tier}} must be treated as a Key Decision ([rule:CPR-04], [rule:CPR-58]), and works contracts above that value need a full competitive tender ([rule:CPR-65]). Payments to one supplier within {{$.tests.split_purchases.parameters.window_days}} days, each below £{{$.tests.split_purchases.counts.per_tier[?tier==500000].tier}} but together passing it, indicate that a requirement may have reached award without that approval or procedure: to investigate. There are {{$.tests.split_purchases.counts.per_tier[?tier==500000].by_tag.general_procurement.count}} general-procurement groups worth £{{$.tests.split_purchases.counts.per_tier[?tier==500000].by_tag.general_procurement.gbp}} at this tier [metric:$.tests.split_purchases.counts.per_tier[?tier==500000].by_tag.general_procurement.count]. Overlap with R-02: this evidence is a subset of R-02's, which covers the same tier together with the Executive approval tier; this risk isolates the Key Decision tier at the auditor's request. The groups may be staged payments under a properly approved contract, and a single payment is not a contract value.",
+      "likelihood": {
+        "base": 3,
+        "rubric_row": "L3",
+        "base_history": [],
+        "uplift": 0,
+        "uplift_history": [],
+        "justification": "Row L3: item-level split-purchase flags in the relevant tag at this tier, {{$.tests.split_purchases.counts.per_tier[?tier==500000].by_tag.general_procurement.count}} general-procurement groups [metric:$.tests.split_purchases.counts.per_tier[?tier==500000].by_tag.general_procurement.count], measured against [rule:CPR-58]. Not L4: threshold clustering found {{$.tests.threshold_clustering.counts.per_tier[?tier==500000].band_count}} payments in the band below this tier [metric:$.tests.threshold_clustering.counts.per_tier[?tier==500000].band_count] and {{$.tests.threshold_clustering.counts.per_tier[?tier==500000].comparison_count}} in the comparison band [metric:$.tests.threshold_clustering.counts.per_tier[?tier==500000].comparison_count], so there is no second item-level test. No adverse audit history on awards or approvals: [history:AO-01] Contract Letting was Reasonable Assurance, so no uplift."
+      },
+      "impact": {
+        "criterion": "financial",
+        "basis": "$.tests.split_purchases.counts.per_tier[?tier==500000].by_tag.general_procurement.gbp",
+        "score": null,
+        "justification": "Financial: the value exposed is the general-procurement spend in groups passing the Key Decision tier of [rule:CPR-04], £{{$.tests.split_purchases.counts.per_tier[?tier==500000].by_tag.general_procurement.gbp}} [metric:$.tests.split_purchases.counts.per_tier[?tier==500000].by_tag.general_procurement.gbp]. This is value exposed to the risk, not proven loss, and it is also counted in R-02's evidence."
+      },
+      "evidence": [
+        "[rule:CPR-04]",
+        "[rule:CPR-58]",
+        "[rule:CPR-65]",
+        "[rule:CPR-15]",
+        "[metric:$.tests.split_purchases.counts.per_tier[?tier==500000].groups]",
+        "[metric:$.tests.split_purchases.counts.per_tier[?tier==500000].by_tag.general_procurement.count]",
+        "[metric:$.tests.split_purchases.counts.per_tier[?tier==500000].by_tag.general_procurement.gbp]",
+        "[metric:$.tests.threshold_clustering.counts.per_tier[?tier==500000].band_count]",
+        "[history:AO-01]"
+      ],
+      "proposed_focus": "Would test every general-procurement group at the Key Decision tier in outputs/analytics-full/split_purchases.csv (tag general_procurement, tier of the Key Decision). For each, recommend obtaining the contract and checking for a Key Decision record covering the total value, and for works, evidence of the full competitive tender. Sample alongside R-02 so the same groups are not tested twice."
+    },
+    {
+      "risk_id": "R-09",
+      "title": "Possible duplicate and grouped grant payments",
+      "status": "rejected",
+      "scope_tags": [
+        "grant"
+      ],
+      "description": "No contract procedure rule covers grants, so this risk rests on payment controls (checking each grant payment against its award and against payments already made) rather than on the procurement route. Payments of the same amount to the same recipient within {{$.tests.duplicates.parameters.days}} days indicate possible duplicate payment: there are {{$.tests.duplicates.by_tag.grant.count}} grant groups worth £{{$.tests.duplicates.by_tag.grant.gbp}} [metric:$.tests.duplicates.by_tag.grant.count]. Repeated grant payments to one recipient within {{$.tests.split_purchases.parameters.window_days}} days that together pass a value tier indicate possible payment beyond what was awarded: there are {{$.tests.split_purchases.by_tag.grant.count}} grant groups worth £{{$.tests.split_purchases.by_tag.grant.gbp}} [metric:$.tests.split_purchases.by_tag.grant.count]. Grants are often paid in instalments or in recurring fixed amounts, so these are indicators to investigate only.",
+      "likelihood": {
+        "base": 3,
+        "rubric_row": "L3",
+        "base_history": [],
+        "uplift": 0,
+        "uplift_history": [],
+        "justification": "Row L3: item-level flags in the relevant tag, from duplicates [metric:$.tests.duplicates.by_tag.grant.count] and from split purchases [metric:$.tests.split_purchases.by_tag.grant.count]. Not L4: the two tests detect different patterns (a payment repeated versus several payments adding up), so neither corroborates the other on one theme, as with R-03. Threshold clustering is not counted because its grant figures are not broken down by tier, so a band excess cannot be shown for grants. No adverse audit history on grant payments: [history:AO-15] Accounts Payable was Reasonable Assurance, so no uplift."
+      },
+      "impact": {
+        "criterion": "financial",
+        "basis": "$.tests.split_purchases.by_tag.grant.gbp",
+        "score": null,
+        "justification": "Financial: the value exposed is the grant spend in grouped payments, £{{$.tests.split_purchases.by_tag.grant.gbp}} [metric:$.tests.split_purchases.by_tag.grant.gbp], the larger of the two grant figures. The duplicate groups (£{{$.tests.duplicates.by_tag.grant.gbp}} [metric:$.tests.duplicates.by_tag.grant.gbp]) are not added, as the two lists may share payments. This is value exposed to the risk, not proven loss."
+      },
+      "evidence": [
+        "[metric:$.tests.duplicates.by_tag.grant.count]",
+        "[metric:$.tests.duplicates.by_tag.grant.gbp]",
+        "[metric:$.tests.split_purchases.by_tag.grant.count]",
+        "[metric:$.tests.split_purchases.by_tag.grant.gbp]",
+        "[history:AO-15]"
+      ],
+      "proposed_focus": "Recommend sampling grant groups from outputs/analytics-full/duplicates.csv and outputs/analytics-full/split_purchases.csv (tag grant). For each, would test the payment against the grant award letter or agreement, its payment schedule, and the checks made before release. The auditor notes say grants will be covered by a separate review; the auditor may wish to confirm whether this risk stays in this plan."
+    },
+    {
+      "risk_id": "R-10",
+      "title": "Possible duplicate payments in care and education placements",
+      "status": "proposed",
+      "scope_tags": [
+        "care_education_placement"
+      ],
+      "description": "Payments of the same amount to the same placement provider within {{$.tests.duplicates.parameters.days}} days indicate possible duplicate payment: to investigate. There are {{$.tests.duplicates.by_tag.care_education_placement.count}} care and education placement groups worth £{{$.tests.duplicates.by_tag.care_education_placement.gbp}}, counting every payment in each group. Each purchase should be backed by written evidence [rule:CPR-37]. In most of these groups the first and last payment fall on the same day rather than a week apart, so recurring weekly fees do not by themselves explain them; analytics.json has no metric for this split, so it is described here without a figure. Several placements with the same provider at the same rate would also produce this pattern legitimately.",
+      "likelihood": {
+        "base": 3,
+        "rubric_row": "L3",
+        "base_history": [],
+        "uplift": 0,
+        "uplift_history": [],
+        "justification": "Row L3: item-level duplicate flags in the relevant tag [metric:$.tests.duplicates.by_tag.care_education_placement.count], tested against [rule:CPR-37]. No second independent test detects duplicate payment, so L4 is not met. No adverse history on the theme: [history:AO-15] Accounts Payable was Reasonable Assurance. [history:AO-16] Personal Budgets (Direct Payments) was Limited Assurance, but it covers payments made to families to arrange their own support, not duplicate payment to placement providers, so it is not counted and no uplift applies."
+      },
+      "impact": {
+        "criterion": "financial",
+        "basis": "$.tests.duplicates.by_tag.care_education_placement.gbp",
+        "score": null,
+        "justification": "Financial: the value exposed is the care and education placement payments in duplicate groups, £{{$.tests.duplicates.by_tag.care_education_placement.gbp}} [metric:$.tests.duplicates.by_tag.care_education_placement.gbp]. This includes the first payment of each group, so it overstates any amount paid twice, and much of it is likely to be separate placements at the same rate. It is value exposed, not proven loss."
+      },
+      "evidence": [
+        "[rule:CPR-37]",
+        "[metric:$.tests.duplicates.by_tag.care_education_placement.count]",
+        "[metric:$.tests.duplicates.by_tag.care_education_placement.gbp]",
+        "[history:AO-15]",
+        "[history:AO-16]"
+      ],
+      "proposed_focus": "Recommend sampling care_education_placement groups from outputs/analytics-full/duplicates.csv, giving weight to same-day groups. For each payment in a sampled group, would test whether it relates to a different placement (client or placement reference, invoice number and period), and would test the Accounts Payable duplicate checks for placement invoices. The commissioning route is covered by R-06 and is not retested here."
+    }
+  ]
+}

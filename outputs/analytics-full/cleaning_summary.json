@@ -1,0 +1,182 @@
+{
+  "spend_files": [
+    {
+      "file": "Over500_2026_P02_-_published.xlsx",
+      "sha256": "f611346f258825b84924310c2d42edce4a4aec3d3832054b340f4ac2125301a6",
+      "header_excel_row": 1,
+      "rows": 2892,
+      "period": "2026-P02"
+    },
+    {
+      "file": "Over500_2026_P03_-_published.xlsx",
+      "sha256": "b7359a8e5cb9ea55bf3d47112f185167038b5ee64af8db9be02a7f5ea869ec76",
+      "header_excel_row": 2,
+      "rows": 3547,
+      "period": "2026-P03"
+    },
+    {
+      "file": "Over500_2026_P04_-_published.xlsx",
+      "sha256": "e465900d00a8e20ac767d6218827a48c01ab6ad911e5051a34c18979b7da0612",
+      "header_excel_row": 2,
+      "rows": 4168,
+      "period": "2026-P04"
+    }
+  ],
+  "blank_rows_dropped": 0,
+  "window": {
+    "start": "2026-05-01",
+    "end": "2026-07-31",
+    "periods": [
+      "2026-P02",
+      "2026-P03",
+      "2026-P04"
+    ],
+    "annualisation_factor": 4.0,
+    "label": "annualised estimate"
+  },
+  "rows_read": 10607,
+  "excluded": {
+    "redacted_supplier": {
+      "rows": 2015,
+      "gbp": 2746746.71
+    },
+    "pension_statutory": {
+      "rows": 23,
+      "gbp": 9257789.94
+    },
+    "public_body": {
+      "rows": 43,
+      "gbp": 2163515.63
+    },
+    "credit": {
+      "rows": 0,
+      "gbp": 0.0
+    }
+  },
+  "public_body_names": {
+    "READING BOROUGH COUNCIL": {
+      "rows": 10,
+      "gbp": 1428347.54
+    },
+    "SLOUGH BOROUGH COUNCIL": {
+      "rows": 1,
+      "gbp": 296177.15
+    },
+    "WOKINGHAM BOROUGH COUNCIL": {
+      "rows": 3,
+      "gbp": 122865.92
+    },
+    "ROYAL BOROUGH OF WINDSOR & MAIDENHEAD": {
+      "rows": 1,
+      "gbp": 96245.28
+    },
+    "BERKSHIRE HEALTHCARE NHS FOUNDATION TRUST": {
+      "rows": 5,
+      "gbp": 89563.31
+    },
+    "OXFORDSHIRE COUNTY COUNCIL": {
+      "rows": 5,
+      "gbp": 40569.64
+    },
+    "HAMPSHIRE COUNTY COUNCIL": {
+      "rows": 8,
+      "gbp": 36468.3
+    },
+    "THAMES VALLEY POLICE": {
+      "rows": 1,
+      "gbp": 14701.0
+    },
+    "University Hospitals Birmingham NHS Foundation Trust (C/O Togetherness (formally Solihull Approach)": {
+      "rows": 1,
+      "gbp": 9966.0
+    },
+    "GLOUCESTERSHIRE COUNTY COUNCIL": {
+      "rows": 1,
+      "gbp": 7690.28
+    },
+    "KENT COUNTY COUNCIL": {
+      "rows": 1,
+      "gbp": 6250.0
+    },
+    "EAST SUSSEX COUNTY COUNCIL": {
+      "rows": 1,
+      "gbp": 5893.0
+    },
+    "SOUTHAMPTON CITY COUNCIL": {
+      "rows": 2,
+      "gbp": 4826.98
+    },
+    "GREAT SHEFFORD PARISH COUNCIL": {
+      "rows": 1,
+      "gbp": 2571.0
+    },
+    "DEPARTMENT FOR SCIENCE, INNOVATION AND TECHNOLOGY": {
+      "rows": 1,
+      "gbp": 775.23
+    },
+    "DEVON COUNTY COUNCIL": {
+      "rows": 1,
+      "gbp": 605.0
+    }
+  },
+  "rows_kept": 8526,
+  "gbp_kept": 66259201.98,
+  "tags": {
+    "grant": {
+      "rows": 342,
+      "gbp": 6040509.82
+    },
+    "care_education_placement": {
+      "rows": 5883,
+      "gbp": 30694791.67
+    },
+    "agency_staff": {
+      "rows": 24,
+      "gbp": 1285541.24
+    },
+    "premises": {
+      "rows": 526,
+      "gbp": 1126526.88
+    },
+    "general_procurement": {
+      "rows": 1751,
+      "gbp": 27111832.37
+    }
+  },
+  "cross_file_duplicates": {
+    "rows": 0,
+    "groups": 0,
+    "file": "outputs/analytics-full/cross_file_duplicates.csv"
+  },
+  "files": {
+    "spend_clean": "outputs/analytics-full/spend_clean.csv",
+    "exclusions": "outputs/analytics-full/exclusions.csv"
+  },
+  "contracts": {
+    "present": true,
+    "file": "data/contracts.csv",
+    "sha256": "9d0a53c092a5274f44490b428f9ff400ac8cb889df962165720f8a1d0ed42648",
+    "rows_raw": 150,
+    "rows_council": 135,
+    "dropped_by_org": {
+      "WEST BERKSHIRE COUNCIL": 6,
+      "Ministry of Defence": 5,
+      "Westworks Procurement Ltd": 1,
+      "SOUTHAMPTON CITY COUNCIL": 1,
+      "CITY OF BRADFORD METROPOLITAN DISTRICT COUNCIL": 1,
+      "Health Education England": 1
+    },
+    "supplier_rows": 204,
+    "live_in_window": 60,
+    "notices_by_publication_year": {
+      "2021": 2,
+      "2022": 10,
+      "2023": 39,
+      "2024": 52,
+      "2025": 28,
+      "2026": 4
+    },
+    "warnings": [],
+    "file_out": "outputs/analytics-full/contract_suppliers.csv"
+  }
+}

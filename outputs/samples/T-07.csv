@@ -1,0 +1,31 @@
+test_id,sample_unit,row_id,pay_date,supplier,service,category,narrative,amount,tag,period
+T-07,NEC SOFTWARE SOLUTIONS UK,Over500_2026_P04_-_published.xlsx|Data to publish|427,2026-07-21,NEC SOFTWARE SOLUTIONS UK LIMITED,"Finance, Property & Procurement",Supplies & Services,IT,2119.68,general_procurement,2026-P04
+T-07,NEC SOFTWARE SOLUTIONS UK,Over500_2026_P04_-_published.xlsx|Data to publish|487,2026-07-22,NEC SOFTWARE SOLUTIONS UK LIMITED,"Finance, Property & Procurement",Supplies & Services,IT,52054.0,general_procurement,2026-P04
+T-07,NEC SOFTWARE SOLUTIONS UK,Over500_2026_P04_-_published.xlsx|Data to publish|492,2026-07-22,NEC SOFTWARE SOLUTIONS UK LIMITED,"Finance, Property & Procurement",Supplies & Services,IT,91629.15,general_procurement,2026-P04
+T-07,NEC SOFTWARE SOLUTIONS UK,Over500_2026_P04_-_published.xlsx|Data to publish|493,2026-07-22,NEC SOFTWARE SOLUTIONS UK LIMITED,"Finance, Property & Procurement",Supplies & Services,IT,3000.0,general_procurement,2026-P04
+T-07,NEC SOFTWARE SOLUTIONS UK,Over500_2026_P04_-_published.xlsx|Data to publish|904,2026-07-22,NEC SOFTWARE SOLUTIONS UK LIMITED,"Finance, Property & Procurement",Supplies & Services,IT,1776.85,general_procurement,2026-P04
+T-07,NEC SOFTWARE SOLUTIONS UK,Over500_2026_P04_-_published.xlsx|Data to publish|905,2026-07-22,NEC SOFTWARE SOLUTIONS UK LIMITED,"Finance, Property & Procurement",Supplies & Services,IT,129125.0,general_procurement,2026-P04
+T-07,NEC SOFTWARE SOLUTIONS UK,Over500_2026_P04_-_published.xlsx|Data to publish|488,2026-07-22,NEC SOFTWARE SOLUTIONS UK LIMITED,"Finance, Property & Procurement",Supplies & Services,IT,13063.0,general_procurement,2026-P04
+T-07,NEC SOFTWARE SOLUTIONS UK,Over500_2026_P04_-_published.xlsx|Data to publish|489,2026-07-22,NEC SOFTWARE SOLUTIONS UK LIMITED,"Finance, Property & Procurement",Supplies & Services,IT,2771.89,general_procurement,2026-P04
+T-07,NEC SOFTWARE SOLUTIONS UK,Over500_2026_P04_-_published.xlsx|Data to publish|494,2026-07-24,NEC SOFTWARE SOLUTIONS UK LIMITED,"Finance, Property & Procurement",Supplies & Services,IT,15094.0,general_procurement,2026-P04
+T-07,NEC SOFTWARE SOLUTIONS UK,Over500_2026_P04_-_published.xlsx|Data to publish|906,2026-07-28,NEC SOFTWARE SOLUTIONS UK LIMITED,"Finance, Property & Procurement",Supplies & Services,IT,3750.0,general_procurement,2026-P04
+T-07,BOOKINGLAB,Over500_2026_P03_-_published.xlsx|Data to publish|396,2026-06-10,BookingLab Limited,"Transformation, Customer & ICT",Supplies & Services,IT,24000.0,general_procurement,2026-P03
+T-07,EXACOM SYSTEMS,Over500_2026_P03_-_published.xlsx|Data to publish|384,2026-06-04,Exacom Systems Ltd,Development & Housing,Supplies & Services,IT,12105.85,general_procurement,2026-P03
+T-07,SMS ENVIRONMENTAL,Over500_2026_P02_-_published.xlsx|Data to publish|19,2026-05-27,SMS-Environmental Ltd,Adult Social Care,Premises,Corporate R&M,759.16,premises,2026-P02
+T-07,SMS ENVIRONMENTAL,Over500_2026_P02_-_published.xlsx|Data to publish|55,2026-05-27,SMS-Environmental Ltd,"Finance, Property & Procurement",Premises,Corporate R&M,715.0,premises,2026-P02
+T-07,SMS ENVIRONMENTAL,Over500_2026_P02_-_published.xlsx|Data to publish|17,2026-05-28,SMS-Environmental Ltd,Adult Social Care,Premises,Corporate R&M,1129.15,premises,2026-P02
+T-07,SMS ENVIRONMENTAL,Over500_2026_P03_-_published.xlsx|Data to publish|29,2026-06-22,SMS-Environmental Ltd,Adult Social Care,Premises,Corporate R&M,1175.0,premises,2026-P03
+T-07,SMS ENVIRONMENTAL,Over500_2026_P03_-_published.xlsx|Data to publish|276,2026-06-30,SMS-Environmental Ltd,Adult Social Care,Premises,Corporate R&M,2070.0,premises,2026-P03
+T-07,SMS ENVIRONMENTAL,Over500_2026_P04_-_published.xlsx|Data to publish|80,2026-07-06,SMS-Environmental Ltd,Development & Housing,Premises,Corporate R&M,575.0,premises,2026-P04
+T-07,SMS ENVIRONMENTAL,Over500_2026_P04_-_published.xlsx|Data to publish|365,2026-07-09,SMS-Environmental Ltd,Adult Social Care,Premises,Corporate R&M,1335.6,premises,2026-P04
+T-07,SOFTCAT,Over500_2026_P02_-_published.xlsx|Data to publish|460,2026-05-20,Softcat Ltd,Education & SEND,Supplies & Services,IT,8979.02,general_procurement,2026-P02
+T-07,SOFTCAT,Over500_2026_P03_-_published.xlsx|Data to publish|375,2026-06-17,Softcat Ltd,"Transformation, Customer & ICT",Supplies & Services,IT,2025.98,general_procurement,2026-P03
+T-07,IDOX SOFTWARE,Over500_2026_P02_-_published.xlsx|Data to publish|462,2026-05-20,IDOX SOFTWARE LTD,Development & Housing,Supplies & Services,IT,2647.21,general_procurement,2026-P02
+T-07,IDOX SOFTWARE,Over500_2026_P03_-_published.xlsx|Data to publish|371,2026-06-08,IDOX SOFTWARE LTD,Community Services,Supplies & Services,IT,48579.2,general_procurement,2026-P03
+T-07,TWO SAINTS,Over500_2026_P02_-_published.xlsx|Data to publish|2160,2026-05-12,TWO SAINTS LTD,Development & Housing,Third Party Payments,Private Contractors,27147.69,general_procurement,2026-P02
+T-07,TWO SAINTS,Over500_2026_P02_-_published.xlsx|Data to publish|2161,2026-05-13,TWO SAINTS LTD,Development & Housing,Third Party Payments,Private Contractors,27147.69,general_procurement,2026-P02
+T-07,TWO SAINTS,Over500_2026_P02_-_published.xlsx|Data to publish|2162,2026-05-27,TWO SAINTS LTD,Development & Housing,Third Party Payments,Private Contractors,27147.69,general_procurement,2026-P02
+T-07,TWO SAINTS,Over500_2026_P03_-_published.xlsx|Data to publish|2130,2026-06-09,TWO SAINTS LTD,Development & Housing,Third Party Payments,Private Contractors,38775.0,general_procurement,2026-P03
+T-07,TWO SAINTS,Over500_2026_P03_-_published.xlsx|Data to publish|3080,2026-06-25,TWO SAINTS LTD,Development & Housing,Third Party Payments,Private Contractors,27147.69,general_procurement,2026-P03
+T-07,TWO SAINTS,Over500_2026_P04_-_published.xlsx|Data to publish|3781,2026-07-20,TWO SAINTS LTD,Development & Housing,Third Party Payments,Private Contractors,27147.69,general_procurement,2026-P04
+T-07,TWO SAINTS,Over500_2026_P04_-_published.xlsx|Data to publish|3181,2026-07-22,TWO SAINTS LTD,Development & Housing,Third Party Payments,Private Contractors,38775.0,general_procurement,2026-P04

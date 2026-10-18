@@ -1,0 +1,2 @@
+- [Citation paths](citation-paths.md) — filtered metric paths resolve; typed-figure check rules; tier vs all-tier figures
+- [Revisions how-to](revisions-howto.md) — adding requested new risks byte-safely; field "risk"; L4 two-test reading

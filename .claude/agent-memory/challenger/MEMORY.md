@@ -1,0 +1,1 @@
+- [Pack checks](pack-checks.md) — where weak spots hide in the pack and challenge forms the planner acts on fast

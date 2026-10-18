@@ -1,0 +1,2 @@
+- [Verifier warnings: count only](verifier_warning_count_only.md) — quotes check prints the warning count, not the text; flag as a concern in review.md
+- [Challenges status: exact values](challenges_status_exact_values.md) — annotated statuses like "resolved (…)" FAIL the challenges check; only seen on the final run
