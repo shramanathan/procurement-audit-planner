@@ -163,13 +163,34 @@ their own:
 
 **https://wbc-procurement-audit-planner.fly.dev/**
 
-A read-only web viewer for the pack (`web/app.py`, Flask): every document as a
-page, the sample files for download, and a **Live QA** page whose button
-reruns `build_pack.py --gate` and `scripts/checks/run_checks.py` on the server
-and shows their output. Nothing on the site writes files or runs an agent; the
-agents run in Claude Code, and the site serves what they produced.
+`web/app.py` (Flask) serves two things:
+
+- **The reference run**: the signed-off pack in `outputs/` as web pages, the
+  sample downloads, and **Live QA**, which reruns `build_pack.py --gate` and
+  `scripts/checks/run_checks.py` on the server.
+- **New runs** (`/runs`): anyone with an **access code** can start the whole
+  pipeline again on the bundled council data. `web/runner.py` runs Claude Code
+  headless (`claude -p`) in a fresh copy of the project for each run:
+  1. the `extract-rules` skill, then `spend-analyst` and `findings-analyst` in
+     parallel, then `risk-assessor` (`--agent`);
+  2. **auditor decisions** on a web form (Approve / Reject / Amend per risk);
+     the risk-assessor applies them as revisions until the gate opens;
+  3. the **agent team**: `planner`, `challenger` and `qa-reviewer` each run in
+     their own resumable session; the runner is the lead and relays their
+     messages word for word (`PACK READY`, `CHALLENGE`/`RESPONSE`, `QA vN`,
+     `DONE`), because headless Claude Code can't keep background teammates
+     alive;
+  4. **auditor sign-off** on a web form.
+
+  One run at a time; each Claude Code call is capped with `--max-budget-usd`
+  and a run stops at `RUN_BUDGET_USD` (default $40). The run page shows live
+  agent activity, cost per call, the documents and samples. Runs are kept on
+  a fly volume.
+
+Secrets (set once): `ANTHROPIC_API_KEY` and `ACCESS_CODES` (comma-separated).
 
 ```bash
+fly secrets set ANTHROPIC_API_KEY=... ACCESS_CODES=code1,code2
 fly deploy --remote-only        # Dockerfile + fly.toml in the repo root
 .venv/bin/python web/app.py     # run locally on http://127.0.0.1:8080
 ```
